@@ -2,151 +2,6 @@ websites:
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - wladyslaw.bartoszewski@sejm.pl
-  - bartoszewski.biuroposelskie@hotmail.com
-  - monika.partyka@hotmail.com
-  facebook_links:
-  - https://www.facebook.com/WTBartoszewski/
-  instagram_links: []
-  name: "W\u0142adys\u0142aw Teofil Bartoszewski"
-  phone_numbers: []
-  pos: '17.'
-  twitter_links:
-  - WTBartoszewski
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - pawel.bejda@sejm.pl
-  - bejda.biuroposelskie@gmail.com
-  - pawelbejda@wp.pl
-  facebook_links:
-  - https://www.facebook.com/bejdapawel
-  instagram_links: []
-  name: "Pawe\u0142 Bejda"
-  phone_numbers:
-  - 575 648 850
-  pos: '21.'
-  twitter_links:
-  - pawelbejda
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - marek.biernacki@sejm.pl
-  facebook_links:
-  - https://www.facebook.com/biernackimarek/
-  instagram_links: []
-  name: Marek Biernacki
-  phone_numbers:
-  - (58) 620 61 68
-  pos: '25.'
-  twitter_links: []
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - andrzej.grzyb@sejm.pl
-  - biuro@andrzejgrzyb.eu
-  facebook_links:
-  - https://www.facebook.com/Andrzej-Grzyb-Pose%C5%82-do-Parlamentu-Europejskiego-235676093175456/
-  instagram_links:
-  - https://www.instagram.com/andrzej_grzyb/
-  name: Andrzej Grzyb
-  phone_numbers:
-  - (62) 732 07 57
-  - 724 620 555
-  pos: '123.'
-  twitter_links:
-  - GrzybAndrzej
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - mieczyslaw.kasprzak@sejm.pl
-  - bpjar@op.pl
-  facebook_links:
-  - https://www.facebook.com/mieczyslaw.kasprzak
-  instagram_links:
-  - https://www.instagram.com/kasprzakmieczyslaw/
-  name: "Mieczys\u0142aw Kasprzak"
-  phone_numbers:
-  - (16) 621 63 10
-  pos: '157.'
-  twitter_links:
-  - kasprzakmiecz
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - dariusz.klimczak@sejm.pl
-  - posel.klimczak@gmail.com
-  facebook_links:
-  - https://www.facebook.com/klimczakdariusz
-  instagram_links:
-  - https://www.instagram.com/klimczak_dariusz/
-  name: Dariusz Klimczak
-  phone_numbers:
-  - 500 015 966
-  pos: '160.'
-  twitter_links:
-  - DariuszKlimczak
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - wladyslaw.kosiniak-kamysz@sejm.pl
-  - marczykz@poczta.onet.pl
-  facebook_links:
-  - https://pl-pl.facebook.com/kosiniakkamysz
-  instagram_links:
-  - https://www.instagram.com/kosiniakkamysz/
-  name: "W\u0142adys\u0142aw Kosiniak-Kamysz"
-  phone_numbers:
-  - (14) 621 13 21
-  pos: '169.'
-  twitter_links:
-  - kosiniakkamysz
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - stefan.krajewski@sejm.pl
-  - skrajewski.psl@gmail.com
-  facebook_links:
-  - https://www.facebook.com/stefan.krajewski.5
-  instagram_links:
-  - https://www.instagram.com/stefankraj/
-  name: Stefan Krajewski
-  phone_numbers:
-  - 792 243 544
-  pos: '182.'
-  twitter_links:
-  - StefanKrajewski
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - dariusz.kurzawa@sejm.pl
-  - biuro.dariuszkurzawa@op.pl
-  facebook_links:
-  - https://pl-pl.facebook.com/Dariusz.Kurzawa76/
-  instagram_links:
-  - https://www.instagram.com/dariusz.kurzawa/
-  name: Dariusz Kurzawa
-  phone_numbers:
-  - 698 928 633
-  pos: '204.'
-  twitter_links:
-  - KurzawaDariusz
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
-  - radoslaw.lubczyk@sejm.pl
-  facebook_links:
-  - https://www.facebook.com/lubczyk.radoslaw
-  instagram_links: []
-  name: "Rados\u0142aw Lubczyk"
-  phone_numbers:
-  - 503 035 653
-  pos: '218.'
-  twitter_links:
-  - lubczyk_radek
-- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
-  club_short: KP
-  emails:
   - jan.lopata@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/janlopata
@@ -160,32 +15,119 @@ websites:
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - miroslaw.maliszewski@sejm.pl
-  - maliszewski.mm@wp.pl
+  - zbigniew.ziejewski@sejm.pl
+  - zbigniewziejewski@gmail.com
   facebook_links:
-  - https://www.facebook.com/Miros%C5%82aw-Maliszewski-633639139992584/
+  - https://www.facebook.com/ZZiejewskiPSL/
   instagram_links: []
-  name: "Miros\u0142aw Maliszewski"
+  name: Zbigniew Ziejewski
   phone_numbers:
-  - (48) 664 22 45
-  pos: '230.'
-  twitter_links:
-  - m_maliszewski
+  - 604 285 525
+  pos: '447.'
+  twitter_links: []
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - urszula.nowogorska@sejm.pl
-  - urszula@nowogorska.com
+  - piotr.zgorzelski@sejm.pl
+  - biuroposelskie@piotrzgorzelski.pl
   facebook_links:
-  - https://pl-pl.facebook.com/UlaNowogorska/
-  instagram_links:
-  - https://www.instagram.com/urszulanowogorska/
-  name: "Urszula Nowog\xF3rska"
+  - https://www.facebook.com/wicemarszalekPiotrZgorzelski/
+  instagram_links: []
+  name: Piotr Zgorzelski
   phone_numbers:
-  - 504 099 745
-  pos: '269.'
+  - (24) 366 95 70
+  pos: '446.'
   twitter_links:
-  - UNowogorska
+  - PZgorzelskiP
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - jacek.tomczak@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/poselTomczak
+  instagram_links: []
+  name: Jacek Tomczak
+  phone_numbers:
+  - 618 657 056
+  pos: '396.'
+  twitter_links:
+  - jacek_tomczak
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - czeslaw.siekierski@sejm.pl
+  - zpiecaba.biuro@gmail.com
+  - eurobiurokielce@op.pl
+  facebook_links:
+  - https://www.facebook.com/czeslawsiekierski
+  instagram_links: []
+  name: "Czes\u0142aw Siekierski"
+  phone_numbers:
+  - 695 912 415
+  - (41) 344 99 96
+  pos: '341.'
+  twitter_links:
+  - CzSiekierski
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - marek.sawicki@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/MarekSawickiPsl
+  instagram_links: []
+  name: Marek Sawicki
+  phone_numbers:
+  - (25) 781 25 71
+  pos: '330.'
+  twitter_links:
+  - sawickimarek
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - jaroslaw.rzepa@sejm.pl
+  - lobez@jaroslawrzepa.pl
+  facebook_links:
+  - https://www.facebook.com/RzepaJaroslaw
+  - https://pl-pl.facebook.com/people/Jaros%C5%82aw-Rzepa/100006976213739
+  instagram_links:
+  - https://www.instagram.com/rzepajaroslaw/
+  name: "Jaros\u0142aw Rzepa"
+  phone_numbers:
+  - 660 300 023
+  pos: '324.'
+  twitter_links:
+  - jarek_rzepa
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - ireneusz.ras@sejm.pl
+  - kontakt@ireneuszras.pl
+  facebook_links:
+  - https://www.facebook.com/IrekRas
+  - https://www.facebook.com/Posel.IreneuszRas
+  instagram_links:
+  - https://www.instagram.com/ireneusz_ras/
+  name: "Ireneusz Ra\u015B"
+  phone_numbers:
+  - (12) 647 09 41
+  pos: '313.'
+  twitter_links:
+  - irekras?lang=pl
+  - IreneuszRas
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - jacek.protasiewicz@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/ProtasiewiczJ/
+  instagram_links:
+  - https://www.instagram.com/jacek_protasiewicz/
+  name: Jacek Protasiewicz
+  phone_numbers:
+  - 510 804 362
+  pos: '311.'
+  twitter_links:
+  - protasiewiczj?lang=pl
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
@@ -219,116 +161,174 @@ websites:
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - jacek.protasiewicz@sejm.pl
+  - urszula.nowogorska@sejm.pl
+  - urszula@nowogorska.com
   facebook_links:
-  - https://www.facebook.com/ProtasiewiczJ/
+  - https://pl-pl.facebook.com/UlaNowogorska/
   instagram_links:
-  - https://www.instagram.com/jacek_protasiewicz/
-  name: Jacek Protasiewicz
+  - https://www.instagram.com/urszulanowogorska/
+  name: "Urszula Nowog\xF3rska"
   phone_numbers:
-  - 510 804 362
-  pos: '311.'
+  - 504 099 745
+  pos: '269.'
   twitter_links:
-  - protasiewiczj?lang=pl
+  - UNowogorska
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - ireneusz.ras@sejm.pl
-  - kontakt@ireneuszras.pl
+  - miroslaw.maliszewski@sejm.pl
+  - maliszewski.mm@wp.pl
   facebook_links:
-  - https://www.facebook.com/IrekRas
-  - https://www.facebook.com/Posel.IreneuszRas
+  - https://www.facebook.com/Miros%C5%82aw-Maliszewski-633639139992584/
+  instagram_links: []
+  name: "Miros\u0142aw Maliszewski"
+  phone_numbers:
+  - (48) 664 22 45
+  pos: '230.'
+  twitter_links:
+  - m_maliszewski
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - radoslaw.lubczyk@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/lubczyk.radoslaw
+  instagram_links: []
+  name: "Rados\u0142aw Lubczyk"
+  phone_numbers:
+  - 503 035 653
+  pos: '218.'
+  twitter_links:
+  - lubczyk_radek
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - dariusz.kurzawa@sejm.pl
+  - biuro.dariuszkurzawa@op.pl
+  facebook_links:
+  - https://pl-pl.facebook.com/Dariusz.Kurzawa76/
   instagram_links:
-  - https://www.instagram.com/ireneusz_ras/
-  name: "Ireneusz Ra\u015B"
+  - https://www.instagram.com/dariusz.kurzawa/
+  name: Dariusz Kurzawa
   phone_numbers:
-  - (12) 647 09 41
-  pos: '313.'
+  - 698 928 633
+  pos: '204.'
   twitter_links:
-  - irekras?lang=pl
-  - IreneuszRas
+  - KurzawaDariusz
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - jaroslaw.rzepa@sejm.pl
-  - lobez@jaroslawrzepa.pl
+  - stefan.krajewski@sejm.pl
+  - skrajewski.psl@gmail.com
   facebook_links:
-  - https://www.facebook.com/RzepaJaroslaw
-  - https://pl-pl.facebook.com/people/Jaros%C5%82aw-Rzepa/100006976213739
+  - https://www.facebook.com/stefan.krajewski.5
   instagram_links:
-  - https://www.instagram.com/rzepajaroslaw/
-  name: "Jaros\u0142aw Rzepa"
+  - https://www.instagram.com/stefankraj/
+  name: Stefan Krajewski
   phone_numbers:
-  - 660 300 023
-  pos: '324.'
+  - 792 243 544
+  pos: '182.'
   twitter_links:
-  - jarek_rzepa
+  - StefanKrajewski
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - marek.sawicki@sejm.pl
+  - wladyslaw.kosiniak-kamysz@sejm.pl
+  - marczykz@poczta.onet.pl
   facebook_links:
-  - https://www.facebook.com/MarekSawickiPsl
-  instagram_links: []
-  name: Marek Sawicki
+  - https://pl-pl.facebook.com/kosiniakkamysz
+  instagram_links:
+  - https://www.instagram.com/kosiniakkamysz/
+  name: "W\u0142adys\u0142aw Kosiniak-Kamysz"
   phone_numbers:
-  - (25) 781 25 71
-  pos: '330.'
+  - (14) 621 13 21
+  pos: '169.'
   twitter_links:
-  - sawickimarek
+  - kosiniakkamysz
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - czeslaw.siekierski@sejm.pl
-  - zpiecaba.biuro@gmail.com
-  - eurobiurokielce@op.pl
+  - dariusz.klimczak@sejm.pl
+  - posel.klimczak@gmail.com
   facebook_links:
-  - https://www.facebook.com/czeslawsiekierski
-  instagram_links: []
-  name: "Czes\u0142aw Siekierski"
+  - https://www.facebook.com/klimczakdariusz
+  instagram_links:
+  - https://www.instagram.com/klimczak_dariusz/
+  name: Dariusz Klimczak
   phone_numbers:
-  - 695 912 415
-  - (41) 344 99 96
-  pos: '341.'
+  - 500 015 966
+  pos: '160.'
   twitter_links:
-  - CzSiekierski
+  - DariuszKlimczak
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - jacek.tomczak@sejm.pl
+  - mieczyslaw.kasprzak@sejm.pl
+  - bpjar@op.pl
   facebook_links:
-  - https://www.facebook.com/poselTomczak
-  instagram_links: []
-  name: Jacek Tomczak
+  - https://www.facebook.com/mieczyslaw.kasprzak
+  instagram_links:
+  - https://www.instagram.com/kasprzakmieczyslaw/
+  name: "Mieczys\u0142aw Kasprzak"
   phone_numbers:
-  - 618 657 056
-  pos: '396.'
+  - (16) 621 63 10
+  pos: '157.'
   twitter_links:
-  - jacek_tomczak
+  - kasprzakmiecz
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - piotr.zgorzelski@sejm.pl
-  - biuroposelskie@piotrzgorzelski.pl
+  - andrzej.grzyb@sejm.pl
+  - biuro@andrzejgrzyb.eu
   facebook_links:
-  - https://www.facebook.com/wicemarszalekPiotrZgorzelski/
-  instagram_links: []
-  name: Piotr Zgorzelski
+  - https://www.facebook.com/Andrzej-Grzyb-Pose%C5%82-do-Parlamentu-Europejskiego-235676093175456/
+  instagram_links:
+  - https://www.instagram.com/andrzej_grzyb/
+  name: Andrzej Grzyb
   phone_numbers:
-  - (24) 366 95 70
-  pos: '446.'
+  - (62) 732 07 57
+  - 724 620 555
+  pos: '123.'
   twitter_links:
-  - PZgorzelskiP
+  - GrzybAndrzej
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
-  - zbigniew.ziejewski@sejm.pl
-  - zbigniewziejewski@gmail.com
+  - marek.biernacki@sejm.pl
   facebook_links:
-  - https://www.facebook.com/ZZiejewskiPSL/
+  - https://www.facebook.com/biernackimarek/
   instagram_links: []
-  name: Zbigniew Ziejewski
+  name: Marek Biernacki
   phone_numbers:
-  - 604 285 525
-  pos: '447.'
+  - (58) 620 61 68
+  pos: '25.'
   twitter_links: []
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - pawel.bejda@sejm.pl
+  - bejda.biuroposelskie@gmail.com
+  - pawelbejda@wp.pl
+  facebook_links:
+  - https://www.facebook.com/bejdapawel
+  instagram_links: []
+  name: "Pawe\u0142 Bejda"
+  phone_numbers:
+  - 575 648 850
+  pos: '21.'
+  twitter_links:
+  - pawelbejda
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
+  - wladyslaw.bartoszewski@sejm.pl
+  - bartoszewski.biuroposelskie@hotmail.com
+  - monika.partyka@hotmail.com
+  facebook_links:
+  - https://www.facebook.com/WTBartoszewski/
+  instagram_links: []
+  name: "W\u0142adys\u0142aw Teofil Bartoszewski"
+  phone_numbers: []
+  pos: '17.'
+  twitter_links:
+  - WTBartoszewski

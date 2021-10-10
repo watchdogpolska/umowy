@@ -2,62 +2,18 @@ websites:
 - club_long: "Ko\u0142o Parlamentarne Polska 2050"
   club_short: Polska2050
   emails:
-  - hanna.gill-piatek@sejm.pl
-  - hanna@gillpiatek.pl
+  - miroslaw.suchon@sejm.pl
+  - biuro@suchon.pl
   facebook_links:
-  - https://www.facebook.com/HannaGillPiatekPoslankanaSejm
+  - https://www.facebook.com/MiroslawSuchon/
   instagram_links:
-  - https://www.instagram.com/hannagillpiatek/
-  name: "Hanna Gill-Pi\u0105tek"
+  - https://www.instagram.com/p/CLHQoC2nM_h/
+  name: "Miros\u0142aw Sucho\u0144"
   phone_numbers:
-  - 732 879 988
-  pos: '100.'
+  - 570 027 100
+  pos: '363.'
   twitter_links:
-  - HannaGillPiatek
-- club_long: "Ko\u0142o Parlamentarne Polska 2050"
-  club_short: Polska2050
-  emails:
-  - michal.gramatyka@sejm.pl
-  - biuro@gramatyka.info
-  facebook_links:
-  - https://www.facebook.com/gramatyka.michal/
-  instagram_links:
-  - https://www.instagram.com/mgramat/
-  name: "Micha\u0142 Gramatyka"
-  phone_numbers:
-  - 730 030 172
-  pos: '120.'
-  twitter_links:
-  - McGramat
-- club_long: "Ko\u0142o Parlamentarne Polska 2050"
-  club_short: Polska2050
-  emails:
-  - paulina.hennig-kloska@sejm.pl
-  - malgorzata.urbaniak@nowoczesna.org
-  facebook_links:
-  - https://www.facebook.com/PaulinaHennigKloskaPolska2050
-  instagram_links:
-  - https://www.instagram.com/hennigkloska/
-  name: Paulina Hennig-Kloska
-  phone_numbers:
-  - (61) 424 44 37
-  pos: '132.'
-  twitter_links:
-  - hennigkloska
-- club_long: "Ko\u0142o Parlamentarne Polska 2050"
-  club_short: Polska2050
-  emails:
-  - wojciech.maksymowicz@sejm.pl
-  - kontakt@wojciechmaksymowicz.pl
-  facebook_links:
-  - https://pl-pl.facebook.com/ProfesorMaksymowicz/
-  instagram_links:
-  - https://www.instagram.com/p/CDwGT8-lidW/
-  name: Wojciech Maksymowicz
-  phone_numbers: []
-  pos: '227.'
-  twitter_links:
-  - ProfMaksymowicz
+  - miroslawsuchon
 - club_long: "Ko\u0142o Parlamentarne Polska 2050"
   club_short: Polska2050
   emails:
@@ -76,15 +32,59 @@ websites:
 - club_long: "Ko\u0142o Parlamentarne Polska 2050"
   club_short: Polska2050
   emails:
-  - miroslaw.suchon@sejm.pl
-  - biuro@suchon.pl
+  - wojciech.maksymowicz@sejm.pl
+  - kontakt@wojciechmaksymowicz.pl
   facebook_links:
-  - https://www.facebook.com/MiroslawSuchon/
+  - https://pl-pl.facebook.com/ProfesorMaksymowicz/
   instagram_links:
-  - https://www.instagram.com/p/CLHQoC2nM_h/
-  name: "Miros\u0142aw Sucho\u0144"
-  phone_numbers:
-  - 570 027 100
-  pos: '363.'
+  - https://www.instagram.com/p/CDwGT8-lidW/
+  name: Wojciech Maksymowicz
+  phone_numbers: []
+  pos: '227.'
   twitter_links:
-  - miroslawsuchon
+  - ProfMaksymowicz
+- club_long: "Ko\u0142o Parlamentarne Polska 2050"
+  club_short: Polska2050
+  emails:
+  - paulina.hennig-kloska@sejm.pl
+  - malgorzata.urbaniak@nowoczesna.org
+  facebook_links:
+  - https://www.facebook.com/PaulinaHennigKloskaPolska2050
+  instagram_links:
+  - https://www.instagram.com/hennigkloska/
+  name: Paulina Hennig-Kloska
+  phone_numbers:
+  - (61) 424 44 37
+  pos: '132.'
+  twitter_links:
+  - hennigkloska
+- club_long: "Ko\u0142o Parlamentarne Polska 2050"
+  club_short: Polska2050
+  emails:
+  - michal.gramatyka@sejm.pl
+  - biuro@gramatyka.info
+  facebook_links:
+  - https://www.facebook.com/gramatyka.michal/
+  instagram_links:
+  - https://www.instagram.com/mgramat/
+  name: "Micha\u0142 Gramatyka"
+  phone_numbers:
+  - 730 030 172
+  pos: '120.'
+  twitter_links:
+  - McGramat
+- club_long: "Ko\u0142o Parlamentarne Polska 2050"
+  club_short: Polska2050
+  emails:
+  - hanna.gill-piatek@sejm.pl
+  - hanna@gillpiatek.pl
+  facebook_links:
+  - https://www.facebook.com/HannaGillPiatekPoslankanaSejm
+  instagram_links:
+  - https://www.instagram.com/hannagillpiatek/
+  name: "Hanna Gill-Pi\u0105tek"
+  phone_numbers:
+  - 732 879 988
+  pos: '100.'
+  twitter_links:
+  - HannaGillPiatek

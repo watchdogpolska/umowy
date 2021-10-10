@@ -2,31 +2,18 @@ websites:
 - club_long: "Ko\u0142o Poselskie Polskie Sprawy"
   club_short: PS
   emails:
-  - zbigniew.girzynski@sejm.pl
-  - biuro.girzynski@gmail.com
+  - agnieszka.scigaj@sejm.pl
+  - biuro.ascigaj@gmail.com
   facebook_links:
-  - https://www.facebook.com/Prof.ZbigniewGirzynski/
+  - https://www.facebook.com/Agnieszka.Scigaj.K15
   instagram_links:
-  - https://www.instagram.com/girzynski/
-  name: "Zbigniew Girzy\u0144ski"
+  - https://www.instagram.com/p/CNPJ8nVBgrL/
+  name: "Agnieszka \u015Acigaj"
   phone_numbers:
-  - 788 051 070
-  pos: '101.'
+  - 508 065 732
+  pos: '385.'
   twitter_links:
-  - girzynski
-- club_long: "Ko\u0142o Poselskie Polskie Sprawy"
-  club_short: PS
-  emails:
-  - andrzej.sosnierz@sejm.pl
-  - biuro.sosnierz@gmail.com
-  facebook_links:
-  - https://www.facebook.com/AndrzejSosnierzz
-  instagram_links: []
-  name: "Andrzej So\u015Bnierz"
-  phone_numbers:
-  - 504 977 789
-  pos: '353.'
-  twitter_links: []
+  - agascigaj
 - club_long: "Ko\u0142o Poselskie Polskie Sprawy"
   club_short: PS
   emails:
@@ -45,15 +32,28 @@ websites:
 - club_long: "Ko\u0142o Poselskie Polskie Sprawy"
   club_short: PS
   emails:
-  - agnieszka.scigaj@sejm.pl
-  - biuro.ascigaj@gmail.com
+  - andrzej.sosnierz@sejm.pl
+  - biuro.sosnierz@gmail.com
   facebook_links:
-  - https://www.facebook.com/Agnieszka.Scigaj.K15
-  instagram_links:
-  - https://www.instagram.com/p/CNPJ8nVBgrL/
-  name: "Agnieszka \u015Acigaj"
+  - https://www.facebook.com/AndrzejSosnierzz
+  instagram_links: []
+  name: "Andrzej So\u015Bnierz"
   phone_numbers:
-  - 508 065 732
-  pos: '385.'
+  - 504 977 789
+  pos: '353.'
+  twitter_links: []
+- club_long: "Ko\u0142o Poselskie Polskie Sprawy"
+  club_short: PS
+  emails:
+  - zbigniew.girzynski@sejm.pl
+  - biuro.girzynski@gmail.com
+  facebook_links:
+  - https://www.facebook.com/Prof.ZbigniewGirzynski/
+  instagram_links:
+  - https://www.instagram.com/girzynski/
+  name: "Zbigniew Girzy\u0144ski"
+  phone_numbers:
+  - 788 051 070
+  pos: '101.'
   twitter_links:
-  - agascigaj
+  - girzynski

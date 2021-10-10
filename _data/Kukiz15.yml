@@ -2,16 +2,18 @@ websites:
 - club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
   club_short: Kukiz15
   emails:
-  - pawel.kukiz@sejm.pl
+  - stanislaw.tyszka@sejm.pl
+  - kontakt@stanislawtyszka.pl
   facebook_links:
-  - https://www.facebook.com/kukizpawel
+  - https://www.facebook.com/stanislaw.tyszka
   instagram_links:
-  - https://www.instagram.com/pawelkukizoficjalnie/
-  name: "Pawe\u0142 Kukiz"
-  phone_numbers: []
-  pos: '199.'
+  - https://www.instagram.com/stanislawtyszka/
+  name: "Stanis\u0142aw Tyszka"
+  phone_numbers:
+  - 694 935 650
+  pos: '404.'
   twitter_links:
-  - pkukiz?lang=pl
+  - styszka?lang=pl
 - club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
   club_short: Kukiz15
   emails:
@@ -31,15 +33,13 @@ websites:
 - club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
   club_short: Kukiz15
   emails:
-  - stanislaw.tyszka@sejm.pl
-  - kontakt@stanislawtyszka.pl
+  - pawel.kukiz@sejm.pl
   facebook_links:
-  - https://www.facebook.com/stanislaw.tyszka
+  - https://www.facebook.com/kukizpawel
   instagram_links:
-  - https://www.instagram.com/stanislawtyszka/
-  name: "Stanis\u0142aw Tyszka"
-  phone_numbers:
-  - 694 935 650
-  pos: '404.'
+  - https://www.instagram.com/pawelkukizoficjalnie/
+  name: "Pawe\u0142 Kukiz"
+  phone_numbers: []
+  pos: '199.'
   twitter_links:
-  - styszka?lang=pl
+  - pkukiz?lang=pl
