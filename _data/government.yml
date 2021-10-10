@@ -1,7 +1,0 @@
-websites:
-    - name: ePUAP
-      url: http://epuap.gov.pl
-      img: epuap.png
-      tfa: Yes
-      sms: Yes
-      email: Yes

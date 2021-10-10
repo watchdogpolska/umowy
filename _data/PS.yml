@@ -1,0 +1,59 @@
+websites:
+- club_long: "Ko\u0142o Poselskie Polskie Sprawy"
+  club_short: PS
+  emails:
+  - zbigniew.girzynski@sejm.pl
+  - biuro.girzynski@gmail.com
+  facebook_links:
+  - https://www.facebook.com/Prof.ZbigniewGirzynski/
+  instagram_links:
+  - https://www.instagram.com/girzynski/
+  name: "Zbigniew Girzy\u0144ski"
+  phone_numbers:
+  - 788 051 070
+  pos: '101.'
+  twitter_links:
+  - girzynski
+- club_long: "Ko\u0142o Poselskie Polskie Sprawy"
+  club_short: PS
+  emails:
+  - andrzej.sosnierz@sejm.pl
+  - biuro.sosnierz@gmail.com
+  facebook_links:
+  - https://www.facebook.com/AndrzejSosnierzz
+  instagram_links: []
+  name: "Andrzej So\u015Bnierz"
+  phone_numbers:
+  - 504 977 789
+  pos: '353.'
+  twitter_links: []
+- club_long: "Ko\u0142o Poselskie Polskie Sprawy"
+  club_short: PS
+  emails:
+  - pawel.szramka@sejm.pl
+  - biuro@pawelszramka.pl
+  facebook_links:
+  - https://www.facebook.com/SzramkaPawel
+  instagram_links:
+  - https://www.instagram.com/pawel_szramka/
+  name: "Pawe\u0142 Szramka"
+  phone_numbers:
+  - 698 103 354
+  pos: '377.'
+  twitter_links:
+  - p_szramka
+- club_long: "Ko\u0142o Poselskie Polskie Sprawy"
+  club_short: PS
+  emails:
+  - agnieszka.scigaj@sejm.pl
+  - biuro.ascigaj@gmail.com
+  facebook_links:
+  - https://www.facebook.com/Agnieszka.Scigaj.K15
+  instagram_links:
+  - https://www.instagram.com/p/CNPJ8nVBgrL/
+  name: "Agnieszka \u015Acigaj"
+  phone_numbers:
+  - 508 065 732
+  pos: '385.'
+  twitter_links:
+  - agascigaj

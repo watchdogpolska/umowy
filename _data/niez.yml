@@ -1,0 +1,54 @@
+websites:
+- club_long: Niezrzeszony
+  club_short: niez.
+  emails:
+  - zbigniew.ajchler@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/Zbigniew-Ajchler-1771220979771719/
+  instagram_links: []
+  name: Zbigniew Ajchler
+  phone_numbers: []
+  pos: '5.'
+  twitter_links:
+  - zbigniewajchler
+- club_long: Niezrzeszony
+  club_short: niez.
+  emails:
+  - ryszard.galla@sejm.pl
+  - biuro@ryszard-galla.pl
+  facebook_links:
+  - https://www.facebook.com/ryszard.galla
+  - https://www.facebook.com/GallaRyszard
+  instagram_links: []
+  name: Ryszard Galla
+  phone_numbers:
+  - (77) 454 44 66
+  pos: '90.'
+  twitter_links:
+  - ryszard_galla
+- club_long: Niezrzeszony
+  club_short: niez.
+  emails:
+  - lukasz.mejza@sejm.pl
+  - lukasz.mejza@gmail.com
+  facebook_links:
+  - https://www.facebook.com/mejzalukasz/
+  instagram_links:
+  - https://www.instagram.com/lukasz.mejza/
+  name: "\u0141ukasz Mejza"
+  phone_numbers: []
+  pos: '242.'
+  twitter_links:
+  - lukaszmejza
+- club_long: Niezrzeszony
+  club_short: niez.
+  emails:
+  - pawel.zalewski@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/MEPPawelZalewski/
+  instagram_links: []
+  name: "Pawe\u0142 Zalewski"
+  phone_numbers: []
+  pos: '441.'
+  twitter_links:
+  - ZalewskiPawel

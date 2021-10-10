@@ -7,38 +7,10 @@
   </div>
   <div class="jets-content">
     {% for website in section_file.websites %}
-    {% if website.lang and site.data.languages[website.lang] %}
-      {% assign progress_tweet = site.data.languages[website.lang].progress_tweet %}
-      {% assign workonit_tweet = site.data.languages[website.lang].work_tweet %}
-    {% else %}
-      {% assign progress_tweet = page.progress_tweet %}
-      {% assign workonit_tweet = page.workonit_tweet %}
-    {% endif %}
-    {% if website.status %}
-    <div class="main progress">
-      <div class="title">
-        {% if website.img %}
-        <noscript><img src="/img/{{ section_id }}/{{ website.img }}" class="icon" alt="{{ website.name }}"></noscript>
-        <img src="/img/placeholder.png" data-src="/img/{{ section_id }}/{{ website.img }}" class="icon"
-             alt="{{ website.name }}">
-        {% endif %}
-        <a href="{{ website.url }}" class="name">{{ website.name }}</a>
-        {% include exception.html website=website %}
-
-        <a href="{{ website.status }}" target="_blank">
-          <i class="external url link large icon"></i>
-        </a>
-      </div>
-
-      <p>W TOKU!</p>
-
-      <div>
-        <a class="ui twitter mini button"
-           href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{progress_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}"
-           target="_blank"><i class="twitter icon"></i> {{page.link_progress_mobile}}</a>
-      </div>
-    </div>
-    {% elsif website.tfa %}
+    {% assign progress_tweet = page.progress_tweet %}
+    {% assign workonit_tweet = page.workonit_tweet %}
+    {% assign workonit_email = page.workonit_email %}
+    {% if website.tfa %}
     <div class="main positive">
       <div class="title">
         {% if website.img %}
@@ -50,12 +22,7 @@
         {% include exception.html website=website %}
       </div>
       <p>
-        Wspierane:
-        {% if website.sms %}SMS{% endif %}
-        {% if website.phone %}Telefon{% endif %}
-        {% if website.email %}E-mail{% endif %}
-        {% if website.hardware %}Sprzętowy{% endif %}
-        {% if website.software %}Programowy{% endif %}
+        Poparł
       </p>
       {% if website.doc %}
       <div class="button-group">
@@ -71,15 +38,41 @@
         <img src="/img/placeholder.png" data-src="/img/{{ section_id }}/{{ website.img }}" class="icon"
              alt="{{ website.name }}">
         {% endif %}
-        <a href="{{ website.url }}" class="name">{{ website.name }}</a>
+        {{ website.name }}
         {% include exception.html website=website %}
       </div>
-      <p>2FA nieobsługiwane</p>
+      <p>Brak wyrażonego poparcia</p>
       <div class="button-group">
-        {% if website.twitter %} <a class="ui twitter mini button" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',website.twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i></a>{% endif %}
-        {% if website.facebook %} <a class="ui facebook mini button" href="https://facebook.com/{{website.facebook}}/" target="_blank"><i class="facebook icon"></i></a>{%endif%}
-        {% if website.email_address %} <a class="ui green mini button" href="mailto:{{website.email_address}}?subject=Support%20Two%20Factor%20Authentication" target="_blank"><i class="mail icon"></i></a>{% endif %}
-        {% if website.wykop %} <a class="ui wykop mini button" href="http://www.wykop.pl/ludzie/{{website.wykop}}/" target="_blank"><i class="wykop icon"></i></a>{% endif %}
+        {% if website.twitter_links %} 
+          {% for twitter in website.twitter_links %}
+            <a class="ui twitter mini button" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i> {{page.link}} na Twitterze</a>
+          {% endfor %}
+        {% endif %}
+
+        {% if website.phone_numbers %} 
+          {% for phone in website.phone_numbers %}
+            <a class="ui blue mini button" href="tel:{{phone|cgi_escape}}" target="_blank"><i class="phone icon"></i> {{page.link}} przez telefon</a>
+          {% endfor %}
+        {% endif %}
+        
+        {% if website.facebook %} 
+        {% for facebook in website.facebook %}
+          <a class="ui facebook mini button" href="{{facebook}}" target="_blank"><i class="facebook icon"></i> {{page.link}} na Facebooku</a>
+        {% endfor %}
+        {% endif %}
+      
+        
+        {% if website.emails %} 
+          {% for twitter in website.emails %}
+          <a class="ui green mini button" href="mailto:{{email}}?subject=Poparcie%20%Centralny%20Rejestr%Umow&body={{workonit_email|replace:'EMAILHANDLE',website.name|cgi_escape}}" target="_blank"><i class="mail icon"></i>{{page.link}} przez e-mail</a>
+          {% endfor %}
+        {% endif %}
+
+        {% if website.instagram_links %} 
+        {% for instagram in website.instagram_links %}
+        <a class="ui orange mini button" href="{{instagram}}" target="_blank"><i class="instagram icon"></i> {{page.link}} na Instagramie</a>
+        {% endfor %}
+        {% endif %}
       </div>
     </div>
     {% endif %}
