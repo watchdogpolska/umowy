@@ -1,20 +1,20 @@
 - icon: users
   id: PiS
-  size: 223
+  size: 227
   title: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
 - icon: users
   id: KO
-  size: 124
+  size: 126
   title: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
 - icon: users
   id: Lewica
-  size: 46
+  size: 47
   title: Koalicyjny Klub Parlamentarny Lewicy (Razem, Sojusz Lewicy Demokratycznej,
     Wiosna Roberta Biedronia)
 - icon: users
   id: KP
-  size: 23
+  size: 24
   title: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
 - icon: users
   id: Konfederacja
@@ -22,12 +22,16 @@
   title: "Ko\u0142o Poselskie Konfederacja"
 - icon: users
   id: Polska2050
-  size: 6
+  size: 7
   title: "Ko\u0142o Parlamentarne Polska 2050"
 - icon: users
   id: Porozumienie
   size: 6
   title: "Ko\u0142o Parlamentarne Porozumienie Jaros\u0142awa Gowina"
+- icon: users
+  id: Kukiz15
+  size: 4
+  title: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
 - icon: users
   id: PS
   size: 4
@@ -36,7 +40,3 @@
   id: niez
   size: 4
   title: Niezrzeszony
-- icon: users
-  id: Kukiz15
-  size: 3
-  title: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"

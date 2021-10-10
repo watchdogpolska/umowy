@@ -9,10 +9,10 @@ websites:
   instagram_links: []
   name: "Iwona \u015Aledzi\u0144ska-Katarasi\u0144ska"
   phone_numbers:
-  - (42) 637 56 27
+  - '426375627'
   pos: '386.'
   twitter_links:
-  - ikatarasinska?lang=pl
+  - ikatarasinska
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -24,7 +24,7 @@ websites:
   - https://www.instagram.com/artur_lacki/
   name: "Artur \u0141\u0105cki"
   phone_numbers:
-  - 501 319 034
+  - '501319034'
   pos: '221.'
   twitter_links:
   - ArturLacki
@@ -39,10 +39,39 @@ websites:
   - https://www.instagram.com/magdalenalosko/
   name: "Magdalena \u0141o\u015Bko"
   phone_numbers:
-  - 796 009 910
+  - '796009910'
   pos: '223.'
   twitter_links:
   - LoskoMagdalena
+- club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
+    Inicjatywa Polska, Zieloni
+  club_short: KO
+  emails:
+  - tadeusz.zwiefka@sejm.pl
+  facebook_links: []
+  instagram_links: []
+  name: Tadeusz Zwiefka
+  phone_numbers:
+  - '602776885'
+  pos: '455.'
+  twitter_links:
+  - tadeuszzwiefka
+- club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
+    Inicjatywa Polska, Zieloni
+  club_short: KO
+  emails:
+  - piotr.zientarski@sejm.pl
+  - biuro@zientarski.pl
+  facebook_links:
+  - https://www.facebook.com/Zientarski.Piotr
+  instagram_links: []
+  name: Piotr Zientarski
+  phone_numbers:
+  - '517871143'
+  - '943170300'
+  pos: '451.'
+  twitter_links:
+  - ZientarskiPiotr
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -55,7 +84,7 @@ websites:
   - https://www.instagram.com/zielona_zielinska/
   name: "Urszula Zieli\u0144ska"
   phone_numbers:
-  - 574 741 656
+  - '574741656'
   pos: '448.'
   twitter_links:
   - Ula_Zielinska
@@ -69,7 +98,7 @@ websites:
   instagram_links: []
   name: "Witold Zembaczy\u0144ski"
   phone_numbers:
-  - 881 644 119
+  - '881644119'
   pos: '445.'
   twitter_links:
   - WZembaczynski
@@ -96,7 +125,7 @@ websites:
   instagram_links: []
   name: Mariusz Witczak
   phone_numbers:
-  - 509 151 816
+  - '509151816'
   pos: '427.'
   twitter_links:
   - mswitczak
@@ -112,7 +141,7 @@ websites:
   - https://www.instagram.com/ryszard_wilczynski_/
   name: "Ryszard Wilczy\u0144ski"
   phone_numbers:
-  - 536 357 556
+  - '536357556'
   pos: '425.'
   twitter_links:
   - wilczynski_r
@@ -127,7 +156,7 @@ websites:
   - https://www.instagram.com/p/CNWo7XMjM-H/
   name: Monika Wielichowska
   phone_numbers:
-  - 503 350 899
+  - '503350899'
   pos: '424.'
   twitter_links:
   - mwielichowska
@@ -157,7 +186,7 @@ websites:
   - https://www.instagram.com/jwalesa/
   name: "Jaros\u0142aw Wa\u0142\u0119sa"
   phone_numbers:
-  - (58) 354 99 46
+  - '583549946'
   pos: '411.'
   twitter_links:
   - WalesaJL
@@ -175,7 +204,7 @@ websites:
   - https://www.instagram.com/urbaniak.jaroslaw/
   name: "Jaros\u0142aw Urbaniak"
   phone_numbers:
-  - 726 210 728
+  - '726210728'
   pos: '407.'
   twitter_links:
   - _urbaniakj
@@ -189,10 +218,10 @@ websites:
   instagram_links: []
   name: Robert Tyszkiewicz
   phone_numbers:
-  - (85) 732 63 29
+  - '857326329'
   pos: '405.'
   twitter_links:
-  - rtyszkiewicz?lang=pl
+  - rtyszkiewicz
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -203,7 +232,7 @@ websites:
   instagram_links: []
   name: Krzysztof Truskolaski
   phone_numbers:
-  - 533 312 525
+  - '533312525'
   pos: '401.'
   twitter_links:
   - ktruskolaski
@@ -218,7 +247,7 @@ websites:
   - https://www.instagram.com/go_tracz/
   name: "Ma\u0142gorzata Tracz"
   phone_numbers:
-  - 570 218 166
+  - '570218166'
   pos: '398.'
   twitter_links:
   - GoTracz
@@ -233,7 +262,7 @@ websites:
   - https://www.instagram.com/cezarytomczyk/
   name: Cezary Tomczyk
   phone_numbers:
-  - (43) 826 33 31
+  - '438263331'
   pos: '397.'
   twitter_links:
   - ctomczyk
@@ -249,7 +278,7 @@ websites:
   - https://www.instagram.com/waldemarslugocki/
   name: "Waldemar S\u0142ugocki"
   phone_numbers:
-  - (68) 453 90 32
+  - '684539032'
   pos: '347.'
   twitter_links:
   - WSlugocki
@@ -264,7 +293,7 @@ websites:
   - https://www.instagram.com/adamszlapka/
   name: "Adam Sz\u0142apka"
   phone_numbers:
-  - (48) 735 442 046
+  - '48735442046'
   pos: '375.'
   twitter_links:
   - adamszlapka
@@ -279,7 +308,7 @@ websites:
   instagram_links: []
   name: "Tomasz Szyma\u0144ski"
   phone_numbers:
-  - (56) 633 52 42
+  - '566335242'
   pos: '383.'
   twitter_links:
   - tomekszymanski
@@ -295,7 +324,7 @@ websites:
   - https://www.instagram.com/krystyna_szumilas/
   name: Krystyna Szumilas
   phone_numbers:
-  - 504 145 951
+  - '504145951'
   pos: '379.'
   twitter_links:
   - kr_szumilas
@@ -309,7 +338,7 @@ websites:
   instagram_links: []
   name: "Andrzej Szewi\u0144ski"
   phone_numbers:
-  - 513 857 384
+  - '513857384'
   pos: '373.'
   twitter_links:
   - aszewinski
@@ -324,7 +353,7 @@ websites:
   - https://www.instagram.com/michal.szczerba/
   name: "Micha\u0142 Szczerba"
   phone_numbers:
-  - (22) 828 09 52
+  - '228280952'
   pos: '368.'
   twitter_links:
   - michalszczerba
@@ -340,7 +369,7 @@ websites:
   - https://www.instagram.com/franeksterczewski/
   name: Franciszek Sterczewski
   phone_numbers:
-  - 500 031 769
+  - '500031769'
   pos: '361.'
   twitter_links:
   - f_sterczewski
@@ -356,7 +385,7 @@ websites:
   - https://www.instagram.com/p/CM1McLPHXiD/
   name: Marek Sowa
   phone_numbers:
-  - 509 260 622
+  - '509260622'
   pos: '355.'
   twitter_links:
   - sowamarek
@@ -372,10 +401,10 @@ websites:
   - https://www.instagram.com/boguslaw_sonik/
   name: "Bogus\u0142aw Sonik"
   phone_numbers:
-  - 602 827 657
+  - '602827657'
   pos: '352.'
   twitter_links:
-  - sonikboguslaw?lang=pl
+  - sonikboguslaw
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -387,7 +416,7 @@ websites:
   - https://www.instagram.com/skowronska_krysia_po/
   name: "Krystyna Skowro\u0144ska"
   phone_numbers:
-  - (17) 586 49 90
+  - '175864990'
   pos: '345.'
   twitter_links:
   - Skowronska_PO
@@ -402,7 +431,7 @@ websites:
   - https://www.instagram.com/bartlomiej_sienkiewicz/
   name: "Bart\u0142omiej Sienkiewicz"
   phone_numbers:
-  - 782 148 973
+  - '782148973'
   pos: '343.'
   twitter_links:
   - BartSienkiewicz
@@ -418,7 +447,7 @@ websites:
   - https://www.instagram.com/tomaszsiemoniak/
   name: Tomasz Siemoniak
   phone_numbers:
-  - (74) 665 78 30
+  - '746657830'
   pos: '342.'
   twitter_links:
   - tomaszsiemoniak
@@ -434,7 +463,7 @@ websites:
   - https://www.instagram.com/krystynasibinska/
   name: "Krystyna Sibi\u0144ska"
   phone_numbers:
-  - 732 922 633
+  - '732922633'
   pos: '340.'
   twitter_links:
   - sibinska
@@ -450,10 +479,10 @@ websites:
   - https://www.instagram.com/grzegorz_schetyna/
   name: Grzegorz Schetyna
   phone_numbers:
-  - (71) 341 03 10
+  - '713410310'
   pos: '331.'
   twitter_links:
-  - schetynadlapo?lang=pl
+  - schetynadlapo
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -466,7 +495,7 @@ websites:
   - https://www.instagram.com/wojciech_saluga/
   name: "Wojciech Sa\u0142uga"
   phone_numbers:
-  - 538 921 964
+  - '538921964'
   pos: '328.'
   twitter_links:
   - WojciechSaluga
@@ -483,7 +512,7 @@ websites:
   - https://www.instagram.com/marekrzasa/
   name: "Marek Rz\u0105sa"
   phone_numbers:
-  - (16) 670 15 88
+  - '166701588'
   pos: '323.'
   twitter_links:
   - marekrzasa1
@@ -499,7 +528,7 @@ websites:
   - https://www.instagram.com/rutnicki_wlkp/
   name: Jakub Rutnicki
   phone_numbers:
-  - (61) 292 25 01
+  - '612922501'
   pos: '321.'
   twitter_links:
   - KubaRutnicki
@@ -514,8 +543,8 @@ websites:
   instagram_links: []
   name: Grzegorz Rusiecki
   phone_numbers:
-  - 782 181 003
-  - 607 655 663
+  - '782181003'
+  - '607655663'
   pos: '319.'
   twitter_links:
   - glissar
@@ -531,7 +560,7 @@ websites:
   - https://www.instagram.com/dariuszrosati/
   name: Dariusz Rosati
   phone_numbers:
-  - 798 796 119
+  - '798796119'
   pos: '316.'
   twitter_links:
   - dariuszrosati
@@ -547,7 +576,7 @@ websites:
   - https://www.instagram.com/monikaannarosa/
   name: Monika Rosa
   phone_numbers:
-  - (32) 400 43 77
+  - '324004377'
   pos: '315.'
   twitter_links:
   - moanrosa
@@ -563,7 +592,7 @@ websites:
   - https://www.instagram.com/malgorzatapepek/
   name: "Ma\u0142gorzata P\u0119pek"
   phone_numbers:
-  - (33) 861 00 33
+  - '338610033'
   pos: '290.'
   twitter_links:
   - malgorzatapepek
@@ -579,7 +608,7 @@ websites:
   - https://www.instagram.com/jacekprotas/
   name: Jacek Protas
   phone_numbers:
-  - 603 910 517
+  - '603910517'
   pos: '310.'
   twitter_links:
   - jacek_protas
@@ -595,7 +624,7 @@ websites:
   - https://www.instagram.com/p/CMmlZyMnPIJ/
   name: "Pawe\u0142 Poncyljusz"
   phone_numbers:
-  - 608 868 424
+  - '608868424'
   pos: '306.'
   twitter_links:
   - PawelPoncyljusz
@@ -611,11 +640,11 @@ websites:
   instagram_links: []
   name: Agnieszka Pomaska
   phone_numbers:
-  - (58) 767 72 40
-  - 574 152 793
+  - '587677240'
+  - '574152793'
   pos: '305.'
   twitter_links:
-  - pomaska?lang=pl
+  - pomaska
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -628,7 +657,7 @@ websites:
   - https://www.instagram.com/p/CEhHiSCF4EF/
   name: Kazimierz Plocke
   phone_numbers:
-  - (58) 774 64 45
+  - '587746445'
   pos: '298.'
   twitter_links:
   - kazimierzplocke
@@ -643,7 +672,7 @@ websites:
   instagram_links: []
   name: "Krzysztof Pi\u0105tkowski"
   phone_numbers:
-  - (42) 307 35 35
+  - '423073535'
   pos: '291.'
   twitter_links:
   - PiatkowskiK
@@ -658,7 +687,7 @@ websites:
   - https://www.instagram.com/p/CL87AS5nFpI/
   name: Katarzyna Piekarska
   phone_numbers:
-  - 606 751 751
+  - '606751751'
   pos: '296.'
   twitter_links: []
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
@@ -672,7 +701,7 @@ websites:
   instagram_links: []
   name: "S\u0142awomir Piechota"
   phone_numbers:
-  - (71) 341 03 10
+  - '713410310'
   pos: '293.'
   twitter_links:
   - piechotapl
@@ -687,10 +716,10 @@ websites:
   - https://www.instagram.com/pawel_papke_official/
   name: "Pawe\u0142 Papke"
   phone_numbers:
-  - 691 919 950
+  - '691919950'
   pos: '284.'
   twitter_links:
-  - papkepawel?lang=pl
+  - papkepawel
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -702,7 +731,7 @@ websites:
   - https://www.instagram.com/ososkatarzyna/
   name: Katarzyna Osos
   phone_numbers:
-  - 796 912 000
+  - '796912000'
   pos: '279.'
   twitter_links:
   - katarzynaosos
@@ -717,10 +746,10 @@ websites:
   - https://www.instagram.com/pawelolszewski/
   name: "Pawe\u0142 Olszewski"
   phone_numbers:
-  - (52) 322 65 56
+  - '523226556'
   pos: '277.'
   twitter_links:
-  - pawelolszewski?lang=p
+  - pawelolszewski
   - PawelOlszewski
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
@@ -733,7 +762,7 @@ websites:
   - https://www.instagram.com/p/CMSJSL7DtW4/
   name: Tomasz Olichwer
   phone_numbers:
-  - 601 489 075
+  - '601489075'
   pos: '275.'
   twitter_links:
   - Tomasz31682556
@@ -751,8 +780,8 @@ websites:
   - https://www.instagram.com/marzena.okla.drewnowicz/
   name: "Marzena Ok\u0142a-Drewnowicz"
   phone_numbers:
-  - 503 196 708
-  - 792 016 661
+  - '503196708'
+  - '792016661'
   pos: '273.'
   twitter_links:
   - okladrewnowicz
@@ -768,7 +797,7 @@ websites:
   - https://www.instagram.com/nykiel_miroslawa/
   name: "Miros\u0142awa Nykiel"
   phone_numbers:
-  - 723 876 862
+  - '723876862'
   pos: '270.'
   twitter_links:
   - miroslawanykiel
@@ -786,7 +815,7 @@ websites:
   - https://www.instagram.com/tomaszpiotrnowak/
   name: Tomasz Nowak
   phone_numbers:
-  - 500 123 976
+  - '500123976'
   pos: '266.'
   twitter_links:
   - TomaszNowak3
@@ -803,7 +832,7 @@ websites:
   - https://www.instagram.com/barbaranowacka/
   name: Barbara Nowacka
   phone_numbers:
-  - 790 210 014
+  - '790210014'
   pos: '265.'
   twitter_links:
   - barbaraanowacka
@@ -819,10 +848,10 @@ websites:
   - https://www.instagram.com/slawomir_nitras/
   name: "S\u0142awomir Nitras"
   phone_numbers:
-  - (91) 823 54 77
+  - '918235477'
   pos: '264.'
   twitter_links:
-  - slawomirnitras?lang=pl
+  - slawomirnitras
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -833,7 +862,7 @@ websites:
   instagram_links: []
   name: "Ma\u0142gorzata Niemczyk"
   phone_numbers:
-  - (42) 630 98 24
+  - '426309824'
   pos: '263.'
   twitter_links:
   - GosiaNiemczyk
@@ -849,7 +878,7 @@ websites:
   - https://www.instagram.com/dorotaniedziela/
   name: Dorota Niedziela
   phone_numbers:
-  - 512 976 510
+  - '512976510'
   pos: '262.'
   twitter_links:
   - dorotaniedziela
@@ -864,7 +893,7 @@ websites:
   - https://www.instagram.com/p/CNIeKjDncHt/
   name: "S\u0142awomir Neumann"
   phone_numbers:
-  - (58) 536 83 61
+  - '585368361'
   pos: '261.'
   twitter_links:
   - slawekneumann
@@ -879,10 +908,10 @@ websites:
   - https://www.instagram.com/grzegorz_napieralski/
   name: Grzegorz Napieralski
   phone_numbers:
-  - 505 300 015
+  - '505300015'
   pos: '260.'
   twitter_links:
-  - gnapieralski?lang=pl
+  - gnapieralski
   - Napieralski_G
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
@@ -896,10 +925,10 @@ websites:
   - https://www.instagram.com/arkadiusz_myrcha/
   name: Arkadiusz Myrcha
   phone_numbers:
-  - 730 001 913
+  - '730001913'
   pos: '259.'
   twitter_links:
-  - ArkadiuszMyrcha?lang=pl
+  - ArkadiuszMyrcha
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -912,7 +941,7 @@ websites:
   - https://www.instagram.com/p/CNPLxIaL2nN/
   name: "Izabela Mrzyg\u0142ocka"
   phone_numbers:
-  - 502 700 256
+  - '502700256'
   pos: '254.'
   twitter_links:
   - ikmrzyglocka
@@ -928,7 +957,7 @@ websites:
   - https://www.instagram.com/czeslaw_mroczek/
   name: "Czes\u0142aw Mroczek"
   phone_numbers:
-  - (25) 758 91 75
+  - '257589175'
   pos: '252.'
   twitter_links:
   - czeslawmroczek
@@ -944,7 +973,7 @@ websites:
   - https://www.instagram.com/aleksandermiszalski/
   name: Aleksander Miszalski
   phone_numbers:
-  - 601 900 088
+  - '601900088'
   pos: '248.'
   twitter_links:
   - OlekMiszalski
@@ -959,7 +988,7 @@ websites:
   instagram_links: []
   name: Rajmund Miller
   phone_numbers:
-  - (77) 427 80 12
+  - '774278012'
   pos: '247.'
   twitter_links: []
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
@@ -974,7 +1003,7 @@ websites:
   - https://www.instagram.com/krzysztofmieszkowski_official/
   name: Krzysztof Mieszkowski
   phone_numbers:
-  - 607 482 946
+  - '607482946'
   pos: '244.'
   twitter_links:
   - K_Mieszkowski
@@ -990,7 +1019,7 @@ websites:
   - https://www.instagram.com/jagnamarczulajtiswalczak/
   name: "Jagna Marczu\u0142ajtis-Walczak"
   phone_numbers:
-  - 690 818 918
+  - '690818918'
   pos: '234.'
   twitter_links:
   - JagnaMarczulajt
@@ -1005,7 +1034,7 @@ websites:
   - https://www.instagram.com/arkadiusz.marchewka/
   name: Arkadiusz Marchewka
   phone_numbers:
-  - 508 377 387
+  - '508377387'
   pos: '233.'
   twitter_links:
   - a_marchewka
@@ -1021,7 +1050,7 @@ websites:
   - https://www.instagram.com/klubnauer/
   name: Katarzyna Lubnauer
   phone_numbers:
-  - 604 176 234
+  - '604176234'
   pos: '219.'
   twitter_links:
   - klubnauer
@@ -1036,7 +1065,7 @@ websites:
   - https://www.instagram.com/izabelaleszczyna/
   name: Izabela Leszczyna
   phone_numbers:
-  - 504 256 188
+  - '504256188'
   pos: '213.'
   twitter_links:
   - leszczyna
@@ -1051,7 +1080,7 @@ websites:
   - https://www.instagram.com/tomasz.lenz/
   name: Tomasz Lenz
   phone_numbers:
-  - (56) 621 06 15
+  - '566210615'
   pos: '212.'
   twitter_links:
   - tomaszlenz
@@ -1066,7 +1095,7 @@ websites:
   - https://www.instagram.com/gabalenartowicz/
   name: Gabriela Lenartowicz
   phone_numbers:
-  - 797 219 764
+  - '797219764'
   pos: '211.'
   twitter_links:
   - gabalenartowicz
@@ -1082,7 +1111,7 @@ websites:
   - https://www.instagram.com/maciejlasek.ko/
   name: Maciej Lasek
   phone_numbers:
-  - 888 888 470
+  - '888888470'
   pos: '209.'
   twitter_links:
   - LasekMaciej
@@ -1098,7 +1127,7 @@ websites:
   - https://www.instagram.com/krolposlem/
   name: "Wojciech Kr\xF3l"
   phone_numbers:
-  - (32) 307 50 90
+  - '323075090'
   pos: '189.'
   twitter_links:
   - wojciech_krol
@@ -1113,7 +1142,7 @@ websites:
   - https://www.instagram.com/marekkrzakala/
   name: "Marek Krz\u0105ka\u0142a"
   phone_numbers:
-  - (32) 423 69 16
+  - '324236916'
   pos: '193.'
   twitter_links:
   - marekkrzakala
@@ -1129,7 +1158,7 @@ websites:
   - https://www.instagram.com/krzywonosstrycharska/
   name: Henryka Krzywonos-Strycharska
   phone_numbers:
-  - (58) 350 56 74
+  - '583505674'
   pos: '194.'
   twitter_links: []
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
@@ -1143,7 +1172,7 @@ websites:
   - https://www.instagram.com/robert.kropiwnicki/
   name: Robert Kropiwnicki
   phone_numbers:
-  - (76) 856 03 06
+  - '768560306'
   pos: '187.'
   twitter_links:
   - rkropiwnicki
@@ -1159,7 +1188,7 @@ websites:
   - https://www.instagram.com/michal._.krawczyk/
   name: "Micha\u0142 Krawczyk"
   phone_numbers:
-  - 690 536 841
+  - '690536841'
   pos: '185.'
   twitter_links:
   - krawczyk_michal
@@ -1174,8 +1203,8 @@ websites:
   instagram_links: []
   name: "Ewa Ko\u0142odziej"
   phone_numbers:
-  - 508 304 917
-  - (32) 257 00 01
+  - '508304917'
+  - '322570001'
   pos: '163.'
   twitter_links:
   - ewa_kolodziej
@@ -1189,7 +1218,7 @@ websites:
   instagram_links: []
   name: "Iwona Koz\u0142owska"
   phone_numbers:
-  - (52) 345 58 06
+  - '523455806'
   pos: '180.'
   twitter_links:
   - i_kozlowska
@@ -1206,7 +1235,7 @@ websites:
   - https://www.instagram.com/pawelkowal.pl/
   name: "Pawe\u0142 Kowal"
   phone_numbers:
-  - 500 267 687
+  - '500267687'
   pos: '174.'
   twitter_links:
   - pawelkowalpl
@@ -1222,7 +1251,7 @@ websites:
   - https://www.instagram.com/t.kostus/
   name: "Tomasz Kostu\u015B"
   phone_numbers:
-  - 509 030 141
+  - '509030141'
   pos: '171.'
   twitter_links:
   - tomaszkostus
@@ -1237,7 +1266,7 @@ websites:
   instagram_links: []
   name: "Zbigniew Konwi\u0144ski"
   phone_numbers:
-  - (59) 842 20 32
+  - '598422032'
   pos: '165.'
   twitter_links:
   - konwinski_po
@@ -1251,7 +1280,7 @@ websites:
   instagram_links: []
   name: Joanna Kluzik-Rostkowska
   phone_numbers:
-  - 721 333 533
+  - '721333533'
   pos: '161.'
   twitter_links:
   - joannakluzik
@@ -1267,7 +1296,7 @@ websites:
   - https://www.instagram.com/mkierwinski/
   name: "Marcin Kierwi\u0144ski"
   phone_numbers:
-  - 502 447 451
+  - '502447451'
   pos: '159.'
   twitter_links:
   - mkierwinski
@@ -1282,7 +1311,7 @@ websites:
   - https://www.instagram.com/mkblonska/
   name: "Ma\u0142gorzata Kidawa-B\u0142o\u0144ska"
   phone_numbers:
-  - (22) 622 60 33
+  - '226226033'
   pos: '158.'
   twitter_links:
   - m_k_blonska
@@ -1298,7 +1327,7 @@ websites:
   - https://www.instagram.com/dariuszjonski/
   name: "Dariusz Jo\u0144ski"
   phone_numbers:
-  - 531 536 185
+  - '531536185'
   pos: '146.'
   twitter_links:
   - Dariusz_Jonski
@@ -1314,7 +1343,7 @@ websites:
   - https://www.instagram.com/jaskowiak_joanna/
   name: "Joanna Ja\u015Bkowiak"
   phone_numbers:
-  - 886 438 293
+  - '886438293'
   pos: '145.'
   twitter_links: []
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
@@ -1328,7 +1357,7 @@ websites:
   - https://www.instagram.com/michaljarospl/
   name: "Micha\u0142 Jaros"
   phone_numbers:
-  - 510 126 096
+  - '510126096'
   pos: '144.'
   twitter_links:
   - jarosmichal
@@ -1344,8 +1373,8 @@ websites:
   - https://www.instagram.com/mjanyska/
   name: Maria Janyska
   phone_numbers:
-  - 781 808 069
-  - (67) 262 93 59
+  - '781808069'
+  - '672629359'
   pos: '143.'
   twitter_links:
   - mjanyska
@@ -1360,7 +1389,7 @@ websites:
   - https://www.instagram.com/klaudiajachira/
   name: Klaudia Jachira
   phone_numbers:
-  - 690 001 386
+  - '690001386'
   pos: '140.'
   twitter_links:
   - jachiraklaudia
@@ -1377,7 +1406,7 @@ websites:
   phone_numbers: []
   pos: '135.'
   twitter_links:
-  - marek_hok?lang=pl
+  - marek_hok
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -1401,7 +1430,7 @@ websites:
   instagram_links: []
   name: Jerzy Hardie-Douglas
   phone_numbers:
-  - 666 566 035
+  - '666566035'
   pos: '130.'
   twitter_links:
   - jerzydouglas
@@ -1417,7 +1446,7 @@ websites:
   instagram_links: []
   name: Agnieszka Hanajczyk
   phone_numbers:
-  - 504 238 898
+  - '504238898'
   pos: '129.'
   twitter_links:
   - agnieszkahana
@@ -1433,7 +1462,7 @@ websites:
   - https://www.instagram.com/riadhaidar_official/
   name: Riad Haidar
   phone_numbers:
-  - 533 334 054
+  - '533334054'
   pos: '127.'
   twitter_links:
   - haidar_riad
@@ -1449,7 +1478,7 @@ websites:
   - https://www.instagram.com/tomekglogowski/
   name: "Tomasz G\u0142ogowski"
   phone_numbers:
-  - (32) 768 86 11
+  - '327688611'
   pos: '105.'
   twitter_links:
   - Tomek_Glogowski
@@ -1464,7 +1493,7 @@ websites:
   instagram_links: []
   name: "Rafa\u0142 Grupi\u0144ski"
   phone_numbers:
-  - 797 586 627
+  - '797586627'
   pos: '122.'
   twitter_links:
   - RGrupinski
@@ -1480,7 +1509,7 @@ websites:
   - https://www.instagram.com/jangrabiec/
   name: Jan Grabiec
   phone_numbers:
-  - (22) 766 25 33
+  - '227662533'
   pos: '119.'
   twitter_links:
   - jangrabiec
@@ -1494,7 +1523,7 @@ websites:
   instagram_links: []
   name: Krzysztof Grabczuk
   phone_numbers:
-  - 798 981 305
+  - '798981305'
   pos: '118.'
   twitter_links:
   - GrabczukK
@@ -1524,7 +1553,7 @@ websites:
   - https://www.instagram.com/martagolbik/
   name: Marta Golbik
   phone_numbers:
-  - 505 508 043
+  - '505508043'
   pos: '106.'
   twitter_links:
   - mgolbik
@@ -1540,7 +1569,7 @@ websites:
   - https://www.instagram.com/elzbietagelert/
   name: "El\u017Cbieta Gelert"
   phone_numbers:
-  - 662 895 640
+  - '662895640'
   pos: '98.'
   twitter_links:
   - ElzbietaGelert
@@ -1555,10 +1584,10 @@ websites:
   - https://www.instagram.com/gasiukpihowicz/
   name: Kamila Gasiuk-Pihowicz
   phone_numbers:
-  - 575 661 538
+  - '575661538'
   pos: '92.'
   twitter_links:
-  - gasiuk_pihowicz?lang=pl
+  - gasiuk_pihowicz
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -1572,10 +1601,26 @@ websites:
   - https://www.instagram.com/gapinskae/
   name: "El\u017Cbieta Gapi\u0144ska"
   phone_numbers:
-  - (24) 231 64 38
+  - '242316438'
   pos: '91.'
   twitter_links:
   - gapinska_e
+- club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
+    Inicjatywa Polska, Zieloni
+  club_short: KO
+  emails:
+  - aleksandra.gajewska@sejm.pl
+  - biuro@jasnezegajewska.pl
+  facebook_links:
+  - https://www.facebook.com/jasnezegajewska
+  instagram_links:
+  - https://www.instagram.com/jasnezegajewska/
+  name: "Aleksandra Ma\u0142gorzata Gajewska"
+  phone_numbers:
+  - '794255043'
+  pos: '87.'
+  twitter_links:
+  - AGajewska
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -1595,22 +1640,6 @@ websites:
     Inicjatywa Polska, Zieloni
   club_short: KO
   emails:
-  - aleksandra.gajewska@sejm.pl
-  - biuro@jasnezegajewska.pl
-  facebook_links:
-  - https://www.facebook.com/jasnezegajewska
-  instagram_links:
-  - https://www.instagram.com/jasnezegajewska/
-  name: "Aleksandra Ma\u0142gorzata Gajewska"
-  phone_numbers:
-  - 794 255 043
-  pos: '87.'
-  twitter_links:
-  - AGajewska
-- club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
-    Inicjatywa Polska, Zieloni
-  club_short: KO
-  emails:
   - krzysztof.gadowski@sejm.pl
   - biuro@gadowski.pl
   facebook_links:
@@ -1618,8 +1647,8 @@ websites:
   instagram_links: []
   name: Krzysztof Gadowski
   phone_numbers:
-  - (32) 475 40 55
-  - 509 890 544
+  - '324754055'
+  - '509890544'
   pos: '86.'
   twitter_links:
   - k_gadowski
@@ -1635,7 +1664,7 @@ websites:
   - https://www.instagram.com/konrad_frysztak/
   name: Konrad Frysztak
   phone_numbers:
-  - (48) 368 37 98
+  - '483683798'
   pos: '85.'
   twitter_links:
   - KonradFrysztak
@@ -1651,9 +1680,9 @@ websites:
   - https://www.instagram.com/joanna_frydrych/
   name: Joanna Frydrych
   phone_numbers:
-  - (13) 438 32 97
-  - 780 076 169
-  - 501 977 292
+  - '134383297'
+  - '780076169'
+  - '501977292'
   pos: '84.'
   twitter_links:
   - frydrych_joanna
@@ -1668,7 +1697,7 @@ websites:
   instagram_links: []
   name: Magdalena Filiks
   phone_numbers:
-  - 729 055 232
+  - '729055232'
   pos: '81.'
   twitter_links:
   - filiksmagdalena
@@ -1683,7 +1712,7 @@ websites:
   - https://www.instagram.com/poselfabisiak/
   name: Joanna Fabisiak
   phone_numbers:
-  - (22) 828 63 79
+  - '228286379'
   pos: '79.'
   twitter_links:
   - joanna_fabisiak
@@ -1699,7 +1728,7 @@ websites:
   - https://www.instagram.com/waldy.dzikowski/
   name: Waldy Dzikowski
   phone_numbers:
-  - (61) 842 72 23
+  - '618427223'
   pos: '76.'
   twitter_links:
   - waldydzikowski
@@ -1714,7 +1743,7 @@ websites:
   instagram_links: []
   name: Barbara Dolniak
   phone_numbers:
-  - 517 369 700
+  - '517369700'
   pos: '65.'
   twitter_links: []
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
@@ -1727,7 +1756,7 @@ websites:
   instagram_links: []
   name: Eugeniusz Czykwin
   phone_numbers:
-  - 530 069 968
+  - '530069968'
   pos: '61.'
   twitter_links: []
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
@@ -1741,7 +1770,7 @@ websites:
   instagram_links: []
   name: Zofia Czernow
   phone_numbers:
-  - 883 132 179
+  - '883132179'
   pos: '58.'
   twitter_links:
   - zofiaczernow
@@ -1757,10 +1786,10 @@ websites:
   - https://www.instagram.com/adamcyranski/
   name: "Adam Cyra\u0144ski"
   phone_numbers:
-  - (41) 200 00 00
+  - '412000000'
   pos: '50.'
   twitter_links:
-  - adamcyranski?lang=pl
+  - adamcyranski
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
@@ -1773,7 +1802,7 @@ websites:
   instagram_links: []
   name: "Janusz Cicho\u0144"
   phone_numbers:
-  - 503 156 083
+  - '503156083'
   pos: '47.'
   twitter_links:
   - cichonjanusz
@@ -1789,7 +1818,7 @@ websites:
   - https://www.instagram.com/malgorzata.chmiel/
   name: "Ma\u0142gorzata Chmiel"
   phone_numbers:
-  - 501 702 866
+  - '501702866'
   pos: '41.'
   twitter_links:
   - magorzatachmiel
@@ -1806,7 +1835,7 @@ websites:
   - https://www.instagram.com/borysbudka/
   name: Borys Budka
   phone_numbers:
-  - 508 606 713
+  - '508606713'
   pos: '37.'
   twitter_links:
   - bbudka
@@ -1822,7 +1851,7 @@ websites:
   - https://www.instagram.com/pborys.facebook/
   name: Piotr Borys
   phone_numbers:
-  - 570 801 918
+  - '570801918'
   pos: '32.'
   twitter_links:
   - piotr_borys
@@ -1838,7 +1867,7 @@ websites:
   - https://www.instagram.com/jerzy.borowczak/
   name: Jerzy Borowczak
   phone_numbers:
-  - 518 455 405
+  - '518455405'
   pos: '29.'
   twitter_links:
   - jerzyborowczak
@@ -1854,7 +1883,7 @@ websites:
   - https://www.instagram.com/bochenek.mateusz/
   name: Mateusz Bochenek
   phone_numbers:
-  - (32) 607 16 39
+  - '326071639'
   pos: '27.'
   twitter_links:
   - m_bochenek93
@@ -1870,7 +1899,7 @@ websites:
   instagram_links: []
   name: Tadeusz Aziewicz
   phone_numbers:
-  - (58) 661 85 84
+  - '586618584'
   pos: '13.'
   twitter_links:
   - taziewicz
@@ -1884,7 +1913,7 @@ websites:
   instagram_links: []
   name: Urszula Augustyn
   phone_numbers:
-  - 668 218 797
+  - '668218797'
   pos: '12.'
   twitter_links:
   - urszulaaugustyn
@@ -1901,7 +1930,7 @@ websites:
   - https://www.instagram.com/tomaszanisko/
   name: "Tomasz Ani\u015Bko"
   phone_numbers:
-  - 514 027 600
+  - '514027600'
   pos: '8.'
   twitter_links:
   - AniskoTomasz
@@ -1915,6 +1944,6 @@ websites:
   instagram_links: []
   name: Piotr Adamowicz
   phone_numbers:
-  - 517 426 537
+  - '517426537'
   pos: '3.'
   twitter_links: []

@@ -2,13 +2,27 @@ websites:
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
+  - bozena.zelazowska@sejm.pl
+  facebook_links:
+  - https://www.facebook.com/pages/category/Politician/Bo%C5%BCena-%C5%BBelazowska-Pose%C5%82-na-Sejm-RP-112261713584768/
+  instagram_links:
+  - https://www.instagram.com/bozena.zelazowska/
+  name: "Bo\u017Cena \u017Belazowska"
+  phone_numbers:
+  - '729885654'
+  pos: '458.'
+  twitter_links:
+  - bozenazelazowsk
+- club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
+  club_short: KP
+  emails:
   - jan.lopata@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/janlopata
   instagram_links: []
   name: "Jan \u0141opata"
   phone_numbers:
-  - (81) 532 35 80
+  - '815323580'
   pos: '222.'
   twitter_links:
   - janeklopata
@@ -22,7 +36,7 @@ websites:
   instagram_links: []
   name: Zbigniew Ziejewski
   phone_numbers:
-  - 604 285 525
+  - '604285525'
   pos: '447.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
@@ -35,7 +49,7 @@ websites:
   instagram_links: []
   name: Piotr Zgorzelski
   phone_numbers:
-  - (24) 366 95 70
+  - '243669570'
   pos: '446.'
   twitter_links:
   - PZgorzelskiP
@@ -48,7 +62,7 @@ websites:
   instagram_links: []
   name: Jacek Tomczak
   phone_numbers:
-  - 618 657 056
+  - '618657056'
   pos: '396.'
   twitter_links:
   - jacek_tomczak
@@ -63,8 +77,8 @@ websites:
   instagram_links: []
   name: "Czes\u0142aw Siekierski"
   phone_numbers:
-  - 695 912 415
-  - (41) 344 99 96
+  - '695912415'
+  - '413449996'
   pos: '341.'
   twitter_links:
   - CzSiekierski
@@ -77,7 +91,7 @@ websites:
   instagram_links: []
   name: Marek Sawicki
   phone_numbers:
-  - (25) 781 25 71
+  - '257812571'
   pos: '330.'
   twitter_links:
   - sawickimarek
@@ -93,7 +107,7 @@ websites:
   - https://www.instagram.com/rzepajaroslaw/
   name: "Jaros\u0142aw Rzepa"
   phone_numbers:
-  - 660 300 023
+  - '660300023'
   pos: '324.'
   twitter_links:
   - jarek_rzepa
@@ -109,10 +123,10 @@ websites:
   - https://www.instagram.com/ireneusz_ras/
   name: "Ireneusz Ra\u015B"
   phone_numbers:
-  - (12) 647 09 41
+  - '126470941'
   pos: '313.'
   twitter_links:
-  - irekras?lang=pl
+  - irekras
   - IreneuszRas
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
@@ -124,10 +138,10 @@ websites:
   - https://www.instagram.com/jacek_protasiewicz/
   name: Jacek Protasiewicz
   phone_numbers:
-  - 510 804 362
+  - '510804362'
   pos: '311.'
   twitter_links:
-  - protasiewiczj?lang=pl
+  - protasiewiczj
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
   club_short: KP
   emails:
@@ -139,7 +153,7 @@ websites:
   - https://www.instagram.com/p/CNcOURBpZ-z/
   name: "Urszula Pas\u0142awska"
   phone_numbers:
-  - 660 528 543
+  - '660528543'
   pos: '285.'
   twitter_links:
   - paslawska
@@ -154,7 +168,7 @@ websites:
   - https://www.instagram.com/krzysztofpaszyk/
   name: Krzysztof Paszyk
   phone_numbers:
-  - (61) 847 55 23
+  - '618475523'
   pos: '286.'
   twitter_links:
   - krzysztofpaszyk
@@ -169,7 +183,7 @@ websites:
   - https://www.instagram.com/urszulanowogorska/
   name: "Urszula Nowog\xF3rska"
   phone_numbers:
-  - 504 099 745
+  - '504099745'
   pos: '269.'
   twitter_links:
   - UNowogorska
@@ -183,7 +197,7 @@ websites:
   instagram_links: []
   name: "Miros\u0142aw Maliszewski"
   phone_numbers:
-  - (48) 664 22 45
+  - '486642245'
   pos: '230.'
   twitter_links:
   - m_maliszewski
@@ -196,7 +210,7 @@ websites:
   instagram_links: []
   name: "Rados\u0142aw Lubczyk"
   phone_numbers:
-  - 503 035 653
+  - '503035653'
   pos: '218.'
   twitter_links:
   - lubczyk_radek
@@ -211,7 +225,7 @@ websites:
   - https://www.instagram.com/dariusz.kurzawa/
   name: Dariusz Kurzawa
   phone_numbers:
-  - 698 928 633
+  - '698928633'
   pos: '204.'
   twitter_links:
   - KurzawaDariusz
@@ -226,7 +240,7 @@ websites:
   - https://www.instagram.com/stefankraj/
   name: Stefan Krajewski
   phone_numbers:
-  - 792 243 544
+  - '792243544'
   pos: '182.'
   twitter_links:
   - StefanKrajewski
@@ -241,7 +255,7 @@ websites:
   - https://www.instagram.com/kosiniakkamysz/
   name: "W\u0142adys\u0142aw Kosiniak-Kamysz"
   phone_numbers:
-  - (14) 621 13 21
+  - '146211321'
   pos: '169.'
   twitter_links:
   - kosiniakkamysz
@@ -256,7 +270,7 @@ websites:
   - https://www.instagram.com/klimczak_dariusz/
   name: Dariusz Klimczak
   phone_numbers:
-  - 500 015 966
+  - '500015966'
   pos: '160.'
   twitter_links:
   - DariuszKlimczak
@@ -271,7 +285,7 @@ websites:
   - https://www.instagram.com/kasprzakmieczyslaw/
   name: "Mieczys\u0142aw Kasprzak"
   phone_numbers:
-  - (16) 621 63 10
+  - '166216310'
   pos: '157.'
   twitter_links:
   - kasprzakmiecz
@@ -286,8 +300,8 @@ websites:
   - https://www.instagram.com/andrzej_grzyb/
   name: Andrzej Grzyb
   phone_numbers:
-  - (62) 732 07 57
-  - 724 620 555
+  - '627320757'
+  - '724620555'
   pos: '123.'
   twitter_links:
   - GrzybAndrzej
@@ -300,7 +314,7 @@ websites:
   instagram_links: []
   name: Marek Biernacki
   phone_numbers:
-  - (58) 620 61 68
+  - '586206168'
   pos: '25.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015Bci"
@@ -314,7 +328,7 @@ websites:
   instagram_links: []
   name: "Pawe\u0142 Bejda"
   phone_numbers:
-  - 575 648 850
+  - '575648850'
   pos: '21.'
   twitter_links:
   - pawelbejda

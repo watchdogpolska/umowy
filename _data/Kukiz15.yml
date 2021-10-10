@@ -2,6 +2,19 @@ websites:
 - club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
   club_short: Kukiz15
   emails:
+  - stanislaw.zuk@sejm.pl
+  - romualdsalata@gmail.com
+  facebook_links:
+  - https://www.facebook.com/zuk.stanislaw.zawidow
+  instagram_links: []
+  name: "Stanis\u0142aw \u017Buk"
+  phone_numbers:
+  - '516088687'
+  pos: '459.'
+  twitter_links: []
+- club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
+  club_short: Kukiz15
+  emails:
   - stanislaw.tyszka@sejm.pl
   - kontakt@stanislawtyszka.pl
   facebook_links:
@@ -10,10 +23,10 @@ websites:
   - https://www.instagram.com/stanislawtyszka/
   name: "Stanis\u0142aw Tyszka"
   phone_numbers:
-  - 694 935 650
+  - '694935650'
   pos: '404.'
   twitter_links:
-  - styszka?lang=pl
+  - styszka
 - club_long: "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015Brednia"
   club_short: Kukiz15
   emails:
@@ -26,7 +39,7 @@ websites:
   - https://www.instagram.com/jsachajko/
   name: "Jaros\u0142aw Sachajko"
   phone_numbers:
-  - 884 020 207
+  - '884020207'
   pos: '326.'
   twitter_links:
   - jsachajko
@@ -42,4 +55,4 @@ websites:
   phone_numbers: []
   pos: '199.'
   twitter_links:
-  - pkukiz?lang=pl
+  - pkukiz

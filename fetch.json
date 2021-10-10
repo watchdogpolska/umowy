@@ -1,5 +1,89 @@
 [
     {
+        "club_long": "Koalicyjny Klub Parlamentarny Lewicy (Razem, Sojusz Lewicy Demokratycznej, Wiosna Roberta Biedronia)",
+        "club_short": "Lewica",
+        "emails": [
+            "anna.zukowska@sejm.pl",
+            "rzecznik@sld.org.pl"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/AMZukowska/"
+        ],
+        "instagram_links": [
+            "https://www.instagram.com/anna_maria_zukowska/"
+        ],
+        "name": "Anna \u017bukowska",
+        "phone_numbers": [
+            "226210341"
+        ],
+        "pos": "460.",
+        "twitter_links": [
+            "AM_Zukowska"
+        ]
+    },
+    {
+        "club_long": "Ko\u0142o Poselskie Kukiz'15 - Demokracja Bezpo\u015brednia",
+        "club_short": "Kukiz15",
+        "emails": [
+            "stanislaw.zuk@sejm.pl",
+            "romualdsalata@gmail.com"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/zuk.stanislaw.zawidow"
+        ],
+        "instagram_links": [],
+        "name": "Stanis\u0142aw \u017buk",
+        "phone_numbers": [
+            "516088687"
+        ],
+        "pos": "459.",
+        "twitter_links": []
+    },
+    {
+        "club_long": "Klub Parlamentarny Koalicja Polska - PSL, UED, Konserwaty\u015bci",
+        "club_short": "KP",
+        "emails": [
+            "bozena.zelazowska@sejm.pl"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/pages/category/Politician/Bo%C5%BCena-%C5%BBelazowska-Pose%C5%82-na-Sejm-RP-112261713584768/"
+        ],
+        "instagram_links": [
+            "https://www.instagram.com/bozena.zelazowska/"
+        ],
+        "name": "Bo\u017cena \u017belazowska",
+        "phone_numbers": [
+            "729885654"
+        ],
+        "pos": "458.",
+        "twitter_links": [
+            "bozenazelazowsk"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107",
+        "club_short": "PiS",
+        "emails": [
+            "jacek.zalek@sejm.pl",
+            "jacekzalek@wp.pl",
+            "biuroposelskie@jacekzalek.pl"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/jacekzalek"
+        ],
+        "instagram_links": [
+            "https://www.instagram.com/jacekzalek_official/?hl=pl"
+        ],
+        "name": "Jacek \u017balek",
+        "phone_numbers": [
+            "858744287"
+        ],
+        "pos": "457.",
+        "twitter_links": [
+            "JacekZalek"
+        ]
+    },
+    {
         "club_long": "Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107",
         "club_short": "PiS",
         "emails": [
@@ -14,7 +98,7 @@
         ],
         "name": "Jacek \u015awiat",
         "phone_numbers": [
-            "534 249 116"
+            "534249116"
         ],
         "pos": "390.",
         "twitter_links": [
@@ -34,7 +118,7 @@
         "instagram_links": [],
         "name": "Adam \u015anie\u017cek",
         "phone_numbers": [
-            "782 659 971"
+            "782659971"
         ],
         "pos": "389.",
         "twitter_links": []
@@ -52,7 +136,7 @@
         "instagram_links": [],
         "name": "Janusz \u015aniadek",
         "phone_numbers": [
-            "512 731 418"
+            "512731418"
         ],
         "pos": "388.",
         "twitter_links": [
@@ -74,7 +158,7 @@
         ],
         "name": "Krzysztof \u015amiszek",
         "phone_numbers": [
-            "784 812 822"
+            "784812822"
         ],
         "pos": "387.",
         "twitter_links": [
@@ -93,11 +177,11 @@
         "instagram_links": [],
         "name": "Iwona \u015aledzi\u0144ska-Katarasi\u0144ska",
         "phone_numbers": [
-            "(42) 637 56 27"
+            "426375627"
         ],
         "pos": "386.",
         "twitter_links": [
-            "ikatarasinska?lang=pl"
+            "ikatarasinska"
         ]
     },
     {
@@ -115,7 +199,7 @@
         ],
         "name": "Agnieszka \u015acigaj",
         "phone_numbers": [
-            "508 065 732"
+            "508065732"
         ],
         "pos": "385.",
         "twitter_links": [
@@ -136,7 +220,7 @@
         ],
         "name": "Artur \u0141\u0105cki",
         "phone_numbers": [
-            "501 319 034"
+            "501319034"
         ],
         "pos": "221.",
         "twitter_links": [
@@ -157,7 +241,7 @@
         ],
         "name": "Magdalena \u0141o\u015bko",
         "phone_numbers": [
-            "796 009 910"
+            "796009910"
         ],
         "pos": "223.",
         "twitter_links": [
@@ -176,7 +260,7 @@
         "instagram_links": [],
         "name": "Jan \u0141opata",
         "phone_numbers": [
-            "(81) 532 35 80"
+            "815323580"
         ],
         "pos": "222.",
         "twitter_links": [
@@ -196,12 +280,132 @@
         "instagram_links": [],
         "name": "Tomasz \u0141awniczak",
         "phone_numbers": [
-            "783 331 335",
-            "539 065 668"
+            "783331335",
+            "539065668"
         ],
         "pos": "220.",
         "twitter_links": [
             "LawniczakTomek"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107",
+        "club_short": "PiS",
+        "emails": [
+            "ireneusz.zyska@sejm.pl",
+            "biuro@ireneusz-zyska.pl"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/izyska"
+        ],
+        "instagram_links": [
+            "https://www.instagram.com/ireneusz_zyska/"
+        ],
+        "name": "Ireneusz Zyska",
+        "phone_numbers": [
+            "515194642"
+        ],
+        "pos": "456.",
+        "twitter_links": [
+            "ireneusz_zyska"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",
+        "club_short": "KO",
+        "emails": [
+            "tadeusz.zwiefka@sejm.pl"
+        ],
+        "facebook_links": [],
+        "instagram_links": [],
+        "name": "Tadeusz Zwiefka",
+        "phone_numbers": [
+            "602776885"
+        ],
+        "pos": "455.",
+        "twitter_links": [
+            "tadeuszzwiefka"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107",
+        "club_short": "PiS",
+        "emails": [
+            "wojciech.zubowski@sejm.pl"
+        ],
+        "facebook_links": [
+            "https://pl-pl.facebook.com/WojciechZubowskiPL"
+        ],
+        "instagram_links": [],
+        "name": "Wojciech Zubowski",
+        "phone_numbers": [
+            "768333886"
+        ],
+        "pos": "454.",
+        "twitter_links": [
+            "wzubowski"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Prawo i Sprawiedliwo\u015b\u0107",
+        "club_short": "PiS",
+        "emails": [
+            "zbigniew.ziobro@sejm.pl",
+            "ziobro.wlosowicz@gmail.com"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/ZiobroPL/"
+        ],
+        "instagram_links": [],
+        "name": "Zbigniew Ziobro",
+        "phone_numbers": [
+            "799261099"
+        ],
+        "pos": "453.",
+        "twitter_links": [
+            "ziobropl"
+        ]
+    },
+    {
+        "club_long": "Ko\u0142o Parlamentarne Polska 2050",
+        "club_short": "Polska2050",
+        "emails": [
+            "tomasz.zimoch@sejm.pl",
+            "tomasz.zimoch@sejm.gov.pl",
+            "info@tomekzimoch.pl"
+        ],
+        "facebook_links": [
+            "https://pl-pl.facebook.com/TomaszZimochfanpage"
+        ],
+        "instagram_links": [],
+        "name": "Tomasz Zimoch",
+        "phone_numbers": [
+            "579975095"
+        ],
+        "pos": "452.",
+        "twitter_links": [
+            "tzimoch"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",
+        "club_short": "KO",
+        "emails": [
+            "piotr.zientarski@sejm.pl",
+            "biuro@zientarski.pl"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/Zientarski.Piotr"
+        ],
+        "instagram_links": [],
+        "name": "Piotr Zientarski",
+        "phone_numbers": [
+            "517871143",
+            "943170300"
+        ],
+        "pos": "451.",
+        "twitter_links": [
+            "ZientarskiPiotr"
         ]
     },
     {
@@ -217,8 +421,8 @@
         "instagram_links": [],
         "name": "Tomasz Zieli\u0144ski",
         "phone_numbers": [
-            "575 000 519",
-            "(84) 543 22 22"
+            "575000519",
+            "845432222"
         ],
         "pos": "450.",
         "twitter_links": [
@@ -237,7 +441,7 @@
         "instagram_links": [],
         "name": "Jaros\u0142aw Zieli\u0144ski",
         "phone_numbers": [
-            "(87) 566 55 48"
+            "875665548"
         ],
         "pos": "449.",
         "twitter_links": [
@@ -259,7 +463,7 @@
         ],
         "name": "Urszula Zieli\u0144ska",
         "phone_numbers": [
-            "574 741 656"
+            "574741656"
         ],
         "pos": "448.",
         "twitter_links": [
@@ -279,7 +483,7 @@
         "instagram_links": [],
         "name": "Zbigniew Ziejewski",
         "phone_numbers": [
-            "604 285 525"
+            "604285525"
         ],
         "pos": "447.",
         "twitter_links": []
@@ -297,7 +501,7 @@
         "instagram_links": [],
         "name": "Piotr Zgorzelski",
         "phone_numbers": [
-            "(24) 366 95 70"
+            "243669570"
         ],
         "pos": "446.",
         "twitter_links": [
@@ -316,7 +520,7 @@
         "instagram_links": [],
         "name": "Witold Zembaczy\u0144ski",
         "phone_numbers": [
-            "881 644 119"
+            "881644119"
         ],
         "pos": "445.",
         "twitter_links": [
@@ -336,7 +540,7 @@
         "instagram_links": [],
         "name": "S\u0142awomir Zawi\u015blak",
         "phone_numbers": [
-            "(84) 638 44 02"
+            "846384402"
         ],
         "pos": "444.",
         "twitter_links": [
@@ -358,7 +562,7 @@
         ],
         "name": "Marcelina Zawisza",
         "phone_numbers": [
-            "505 752 177"
+            "505752177"
         ],
         "pos": "443.",
         "twitter_links": [
@@ -379,7 +583,7 @@
         ],
         "name": "Adrian Zandberg",
         "phone_numbers": [
-            "734 808 629"
+            "734808629"
         ],
         "pos": "442.",
         "twitter_links": [
@@ -416,7 +620,7 @@
         "instagram_links": [],
         "name": "Marek Zag\u00f3rski",
         "phone_numbers": [
-            "697 168 035"
+            "697168035"
         ],
         "pos": "440.",
         "twitter_links": [
@@ -436,7 +640,7 @@
         "instagram_links": [],
         "name": "Maciej W\u0105sik",
         "phone_numbers": [
-            "881 521 870"
+            "881521870"
         ],
         "pos": "418.",
         "twitter_links": [
@@ -456,7 +660,7 @@
         "instagram_links": [],
         "name": "Micha\u0142 W\u00f3jcik",
         "phone_numbers": [
-            "(32) 220 10 20"
+            "322201020"
         ],
         "pos": "437.",
         "twitter_links": [
@@ -478,7 +682,7 @@
         ],
         "name": "Micha\u0142 Wypij",
         "phone_numbers": [
-            "513 735 470"
+            "513735470"
         ],
         "pos": "439.",
         "twitter_links": [
@@ -500,7 +704,7 @@
         ],
         "name": "Bart\u0142omiej Wr\u00f3blewski",
         "phone_numbers": [
-            "537 536 194"
+            "537536194"
         ],
         "pos": "438.",
         "twitter_links": [
@@ -520,7 +724,7 @@
         "instagram_links": [],
         "name": "Tadeusz Wo\u017aniak",
         "phone_numbers": [
-            "(24) 253 78 71"
+            "242537871"
         ],
         "pos": "436.",
         "twitter_links": [
@@ -540,7 +744,7 @@
         "instagram_links": [],
         "name": "Grzegorz Wo\u017aniak",
         "phone_numbers": [
-            "(25) 740 42 18"
+            "257404218"
         ],
         "pos": "435.",
         "twitter_links": [
@@ -561,7 +765,7 @@
         ],
         "name": "Micha\u0142 Wo\u015b",
         "phone_numbers": [
-            "690 495 505"
+            "690495505"
         ],
         "pos": "434.",
         "twitter_links": [
@@ -580,7 +784,7 @@
         "instagram_links": [],
         "name": "Bogus\u0142aw Wontor",
         "phone_numbers": [
-            "(68) 320 14 77"
+            "683201477"
         ],
         "pos": "433.",
         "twitter_links": []
@@ -598,7 +802,7 @@
         "instagram_links": [],
         "name": "Zdzis\u0142aw Wolski",
         "phone_numbers": [
-            "(34) 344 05 50"
+            "343440550"
         ],
         "pos": "432.",
         "twitter_links": [
@@ -620,7 +824,7 @@
         ],
         "name": "Agata Wojtyszek",
         "phone_numbers": [
-            "504 687 588"
+            "504687588"
         ],
         "pos": "431.",
         "twitter_links": []
@@ -639,7 +843,7 @@
         "instagram_links": [],
         "name": "Grzegorz Wojciechowski",
         "phone_numbers": [
-            "504 614 232"
+            "504614232"
         ],
         "pos": "430.",
         "twitter_links": [
@@ -674,11 +878,11 @@
         "instagram_links": [],
         "name": "El\u017cbieta Witek",
         "phone_numbers": [
-            "(76) 870 51 32"
+            "768705132"
         ],
         "pos": "428.",
         "twitter_links": [
-            "elzbietawitek?lang=pl"
+            "elzbietawitek"
         ]
     },
     {
@@ -694,7 +898,7 @@
         "instagram_links": [],
         "name": "Mariusz Witczak",
         "phone_numbers": [
-            "509 151 816"
+            "509151816"
         ],
         "pos": "427.",
         "twitter_links": [
@@ -715,7 +919,7 @@
         ],
         "name": "Robert Winnicki",
         "phone_numbers": [
-            "(48) 881 218 494"
+            "48881218494"
         ],
         "pos": "426.",
         "twitter_links": [
@@ -737,7 +941,7 @@
         ],
         "name": "Ryszard Wilczy\u0144ski",
         "phone_numbers": [
-            "536 357 556"
+            "536357556"
         ],
         "pos": "425.",
         "twitter_links": [
@@ -758,7 +962,7 @@
         ],
         "name": "Monika Wielichowska",
         "phone_numbers": [
-            "503 350 899"
+            "503350899"
         ],
         "pos": "424.",
         "twitter_links": [
@@ -777,7 +981,7 @@
         "instagram_links": [],
         "name": "Dariusz Wieczorek",
         "phone_numbers": [
-            "607 300 606"
+            "607300606"
         ],
         "pos": "423.",
         "twitter_links": [
@@ -797,7 +1001,7 @@
         "instagram_links": [],
         "name": "Patryk Wicher",
         "phone_numbers": [
-            "577 201 701"
+            "577201701"
         ],
         "pos": "422.",
         "twitter_links": []
@@ -815,7 +1019,7 @@
         "instagram_links": [],
         "name": "Marek Weso\u0142y",
         "phone_numbers": [
-            "(32) 706 97 37"
+            "327069737"
         ],
         "pos": "421.",
         "twitter_links": [
@@ -837,7 +1041,7 @@
         "instagram_links": [],
         "name": "Rafa\u0142 Weber",
         "phone_numbers": [
-            "737 797 265"
+            "737797265"
         ],
         "pos": "420.",
         "twitter_links": [
@@ -878,7 +1082,7 @@
         ],
         "name": "Jaros\u0142aw Wa\u0142\u0119sa",
         "phone_numbers": [
-            "(58) 354 99 46"
+            "583549946"
         ],
         "pos": "411.",
         "twitter_links": [
@@ -898,7 +1102,7 @@
         "instagram_links": [],
         "name": "Piotr Wawrzyk",
         "phone_numbers": [
-            "573 207 559"
+            "573207559"
         ],
         "pos": "417.",
         "twitter_links": [
@@ -920,11 +1124,11 @@
         ],
         "name": "Ma\u0142gorzata Wassermann",
         "phone_numbers": [
-            "604 352 535"
+            "604352535"
         ],
         "pos": "416.",
         "twitter_links": [
-            "wassermann_ma?lang=pl"
+            "wassermann_ma"
         ]
     },
     {
@@ -940,8 +1144,8 @@
         "instagram_links": [],
         "name": "Jan Warzecha",
         "phone_numbers": [
-            "(14) 683 38 33",
-            "602 300 713"
+            "146833833",
+            "602300713"
         ],
         "pos": "415.",
         "twitter_links": [
@@ -963,7 +1167,7 @@
         ],
         "name": "Robert Warwas",
         "phone_numbers": [
-            "733 739 990"
+            "733739990"
         ],
         "pos": "414.",
         "twitter_links": [
@@ -983,7 +1187,7 @@
         "instagram_links": [],
         "name": "Teresa Wargocka",
         "phone_numbers": [
-            "506 967 363"
+            "506967363"
         ],
         "pos": "413.",
         "twitter_links": [
@@ -1006,7 +1210,7 @@
         ],
         "name": "Marcin Warcho\u0142",
         "phone_numbers": [
-            "692 969 004"
+            "692969004"
         ],
         "pos": "412.",
         "twitter_links": [
@@ -1026,7 +1230,7 @@
         "instagram_links": [],
         "name": "Piotr U\u015bci\u0144ski",
         "phone_numbers": [
-            "731 970 077"
+            "731970077"
         ],
         "pos": "410.",
         "twitter_links": [
@@ -1047,7 +1251,7 @@
         "instagram_links": [],
         "name": "Piotr Uruski",
         "phone_numbers": [
-            "(13) 463 43 34"
+            "134634334"
         ],
         "pos": "409.",
         "twitter_links": [
@@ -1069,7 +1273,7 @@
         ],
         "name": "Micha\u0142 Urbaniak",
         "phone_numbers": [
-            "517 340 952"
+            "517340952"
         ],
         "pos": "408.",
         "twitter_links": [
@@ -1093,7 +1297,7 @@
         ],
         "name": "Jaros\u0142aw Urbaniak",
         "phone_numbers": [
-            "726 210 728"
+            "726210728"
         ],
         "pos": "407.",
         "twitter_links": [
@@ -1115,7 +1319,7 @@
         ],
         "name": "Katarzyna Ueberhan",
         "phone_numbers": [
-            "505 715 618"
+            "505715618"
         ],
         "pos": "406.",
         "twitter_links": [
@@ -1134,11 +1338,11 @@
         "instagram_links": [],
         "name": "Robert Tyszkiewicz",
         "phone_numbers": [
-            "(85) 732 63 29"
+            "857326329"
         ],
         "pos": "405.",
         "twitter_links": [
-            "rtyszkiewicz?lang=pl"
+            "rtyszkiewicz"
         ]
     },
     {
@@ -1156,11 +1360,11 @@
         ],
         "name": "Stanis\u0142aw Tyszka",
         "phone_numbers": [
-            "694 935 650"
+            "694935650"
         ],
         "pos": "404.",
         "twitter_links": [
-            "styszka?lang=pl"
+            "styszka"
         ]
     },
     {
@@ -1178,7 +1382,7 @@
         ],
         "name": "Sylwester Tu\u0142ajew",
         "phone_numbers": [
-            "(81) 307 77 97"
+            "813077797"
         ],
         "pos": "403.",
         "twitter_links": [
@@ -1199,7 +1403,7 @@
         ],
         "name": "Krzysztof Tuduj",
         "phone_numbers": [
-            "881 530 447"
+            "881530447"
         ],
         "pos": "402.",
         "twitter_links": [
@@ -1218,7 +1422,7 @@
         "instagram_links": [],
         "name": "Krzysztof Truskolaski",
         "phone_numbers": [
-            "533 312 525"
+            "533312525"
         ],
         "pos": "401.",
         "twitter_links": [
@@ -1240,7 +1444,7 @@
         ],
         "name": "Mariusz Trepka",
         "phone_numbers": [
-            "787 061 597"
+            "787061597"
         ],
         "pos": "400.",
         "twitter_links": [
@@ -1261,7 +1465,7 @@
         ],
         "name": "Tomasz Trela",
         "phone_numbers": [
-            "600 789 333"
+            "600789333"
         ],
         "pos": "399.",
         "twitter_links": [
@@ -1282,7 +1486,7 @@
         ],
         "name": "Ma\u0142gorzata Tracz",
         "phone_numbers": [
-            "570 218 166"
+            "570218166"
         ],
         "pos": "398.",
         "twitter_links": [
@@ -1303,7 +1507,7 @@
         ],
         "name": "Cezary Tomczyk",
         "phone_numbers": [
-            "(43) 826 33 31"
+            "438263331"
         ],
         "pos": "397.",
         "twitter_links": [
@@ -1322,7 +1526,7 @@
         "instagram_links": [],
         "name": "Jacek Tomczak",
         "phone_numbers": [
-            "618 657 056"
+            "618657056"
         ],
         "pos": "396.",
         "twitter_links": [
@@ -1341,7 +1545,7 @@
         "instagram_links": [],
         "name": "W\u0142odzimierz Tomaszewski",
         "phone_numbers": [
-            "697 740 312"
+            "697740312"
         ],
         "pos": "395.",
         "twitter_links": []
@@ -1358,7 +1562,7 @@
         "instagram_links": [],
         "name": "Tadeusz Tomaszewski",
         "phone_numbers": [
-            "601 287 775"
+            "601287775"
         ],
         "pos": "394.",
         "twitter_links": []
@@ -1376,7 +1580,7 @@
         "instagram_links": [],
         "name": "Ryszard Terlecki",
         "phone_numbers": [
-            "(12) 421 47 76"
+            "124214776"
         ],
         "pos": "393.",
         "twitter_links": [
@@ -1398,7 +1602,7 @@
         ],
         "name": "Robert Telus",
         "phone_numbers": [
-            "(44) 646 15 88"
+            "446461588"
         ],
         "pos": "392.",
         "twitter_links": [
@@ -1418,7 +1622,7 @@
         "instagram_links": [],
         "name": "Krzysztof Tch\u00f3rzewski",
         "phone_numbers": [
-            "(25) 644 44 07"
+            "256444407"
         ],
         "pos": "391.",
         "twitter_links": [
@@ -1441,7 +1645,7 @@
         ],
         "name": "Waldemar S\u0142ugocki",
         "phone_numbers": [
-            "(68) 453 90 32"
+            "684539032"
         ],
         "pos": "347.",
         "twitter_links": [
@@ -1462,7 +1666,7 @@
         "instagram_links": [],
         "name": "Szymon Szynkowski vel S\u0119k",
         "phone_numbers": [
-            "535 370 885"
+            "535370885"
         ],
         "pos": "384.",
         "twitter_links": [
@@ -1481,7 +1685,7 @@
         "instagram_links": [],
         "name": "Katarzyna S\u00f3jka",
         "phone_numbers": [
-            "691 101 020"
+            "691101020"
         ],
         "pos": "357.",
         "twitter_links": []
@@ -1500,7 +1704,7 @@
         ],
         "name": "Adam Sz\u0142apka",
         "phone_numbers": [
-            "(48) 735 442 046"
+            "48735442046"
         ],
         "pos": "375.",
         "twitter_links": [
@@ -1520,7 +1724,7 @@
         "instagram_links": [],
         "name": "Tomasz Szyma\u0144ski",
         "phone_numbers": [
-            "(56) 633 52 42"
+            "566335242"
         ],
         "pos": "383.",
         "twitter_links": [
@@ -1541,7 +1745,7 @@
         ],
         "name": "Ewa Szyma\u0144ska",
         "phone_numbers": [
-            "(76) 818 00 27"
+            "768180027"
         ],
         "pos": "382.",
         "twitter_links": [
@@ -1563,7 +1767,7 @@
         ],
         "name": "Stanis\u0142aw Szwed",
         "phone_numbers": [
-            "(33) 821 71 62"
+            "338217162"
         ],
         "pos": "381.",
         "twitter_links": [
@@ -1602,7 +1806,7 @@
         ],
         "name": "Krystyna Szumilas",
         "phone_numbers": [
-            "504 145 951"
+            "504145951"
         ],
         "pos": "379.",
         "twitter_links": [
@@ -1622,7 +1826,7 @@
         "instagram_links": [],
         "name": "Krzysztof Szulowski",
         "phone_numbers": [
-            "(81) 888 12 60"
+            "818881260"
         ],
         "pos": "378.",
         "twitter_links": [
@@ -1644,7 +1848,7 @@
         ],
         "name": "Pawe\u0142 Szramka",
         "phone_numbers": [
-            "698 103 354"
+            "698103354"
         ],
         "pos": "377.",
         "twitter_links": [
@@ -1663,7 +1867,7 @@
         "instagram_links": [],
         "name": "Jan Szopi\u0144ski",
         "phone_numbers": [
-            "696 522 931"
+            "696522931"
         ],
         "pos": "376.",
         "twitter_links": [
@@ -1682,7 +1886,7 @@
         "instagram_links": [],
         "name": "Andrzej Szlachta",
         "phone_numbers": [
-            "(17) 825 11 03"
+            "178251103"
         ],
         "pos": "374.",
         "twitter_links": [
@@ -1701,7 +1905,7 @@
         "instagram_links": [],
         "name": "Andrzej Szewi\u0144ski",
         "phone_numbers": [
-            "513 857 384"
+            "513857384"
         ],
         "pos": "373.",
         "twitter_links": [
@@ -1722,7 +1926,7 @@
         ],
         "name": "Andrzej Szejna",
         "phone_numbers": [
-            "665 481 051"
+            "665481051"
         ],
         "pos": "372.",
         "twitter_links": [
@@ -1743,11 +1947,11 @@
         ],
         "name": "Pawe\u0142 Szefernaker",
         "phone_numbers": [
-            "604 603 422"
+            "604603422"
         ],
         "pos": "371.",
         "twitter_links": [
-            "szefernaker?lang=pl"
+            "szefernaker"
         ]
     },
     {
@@ -1764,7 +1968,7 @@
         ],
         "name": "J\u00f3zefa Szczurek-\u017belazko",
         "phone_numbers": [
-            "(14) 686 32 03"
+            "146863203"
         ],
         "pos": "370.",
         "twitter_links": [
@@ -1786,7 +1990,7 @@
         ],
         "name": "Aleksandra Szczud\u0142o",
         "phone_numbers": [
-            "532 607 127"
+            "532607127"
         ],
         "pos": "369.",
         "twitter_links": [
@@ -1807,7 +2011,7 @@
         ],
         "name": "Micha\u0142 Szczerba",
         "phone_numbers": [
-            "(22) 828 09 52"
+            "228280952"
         ],
         "pos": "368.",
         "twitter_links": [
@@ -1829,11 +2033,11 @@
         ],
         "name": "Wies\u0142aw Szczepa\u0144ski",
         "phone_numbers": [
-            "(65) 549 09 95",
-            "697 464 606",
-            "607 847 294",
-            "693 838 334",
-            "512 106 818"
+            "655490995",
+            "697464606",
+            "607847294",
+            "693838334",
+            "512106818"
         ],
         "pos": "367.",
         "twitter_links": [
@@ -1869,7 +2073,7 @@
         "instagram_links": [],
         "name": "Wojciech Szarama",
         "phone_numbers": [
-            "784 075 818"
+            "784075818"
         ],
         "pos": "366.",
         "twitter_links": []
@@ -1887,7 +2091,7 @@
         "instagram_links": [],
         "name": "Marek Suski",
         "phone_numbers": [
-            "(48) 362 50 32"
+            "483625032"
         ],
         "pos": "364.",
         "twitter_links": [
@@ -1909,7 +2113,7 @@
         ],
         "name": "Miros\u0142aw Sucho\u0144",
         "phone_numbers": [
-            "570 027 100"
+            "570027100"
         ],
         "pos": "363.",
         "twitter_links": [
@@ -1929,7 +2133,7 @@
         "instagram_links": [],
         "name": "Beata Strza\u0142ka",
         "phone_numbers": [
-            "517 216 245"
+            "517216245"
         ],
         "pos": "362.",
         "twitter_links": [
@@ -1951,7 +2155,7 @@
         ],
         "name": "Franciszek Sterczewski",
         "phone_numbers": [
-            "500 031 769"
+            "500031769"
         ],
         "pos": "361.",
         "twitter_links": [
@@ -1974,7 +2178,7 @@
         ],
         "name": "Dariusz Stefaniuk",
         "phone_numbers": [
-            "(83) 343 36 77"
+            "833433677"
         ],
         "pos": "360.",
         "twitter_links": []
@@ -1994,7 +2198,7 @@
         ],
         "name": "Miros\u0142awa Stachowiak-R\u00f3\u017cecka",
         "phone_numbers": [
-            "668 606 609"
+            "668606609"
         ],
         "pos": "359.",
         "twitter_links": [
@@ -2015,7 +2219,7 @@
         ],
         "name": "Magdalena Sroka",
         "phone_numbers": [
-            "530 208 483"
+            "530208483"
         ],
         "pos": "358.",
         "twitter_links": [
@@ -2036,7 +2240,7 @@
         ],
         "name": "Dobromir So\u015bnierz",
         "phone_numbers": [
-            "723 306 356"
+            "723306356"
         ],
         "pos": "354.",
         "twitter_links": [
@@ -2057,7 +2261,7 @@
         "instagram_links": [],
         "name": "Andrzej So\u015bnierz",
         "phone_numbers": [
-            "504 977 789"
+            "504977789"
         ],
         "pos": "353.",
         "twitter_links": []
@@ -2077,7 +2281,7 @@
         ],
         "name": "Anita Sowi\u0144ska",
         "phone_numbers": [
-            "535 845 431"
+            "535845431"
         ],
         "pos": "356.",
         "twitter_links": [
@@ -2099,7 +2303,7 @@
         ],
         "name": "Marek Sowa",
         "phone_numbers": [
-            "509 260 622"
+            "509260622"
         ],
         "pos": "355.",
         "twitter_links": [
@@ -2121,11 +2325,11 @@
         ],
         "name": "Bogus\u0142aw Sonik",
         "phone_numbers": [
-            "602 827 657"
+            "602827657"
         ],
         "pos": "352.",
         "twitter_links": [
-            "sonikboguslaw?lang=pl"
+            "sonikboguslaw"
         ]
     },
     {
@@ -2143,7 +2347,7 @@
         ],
         "name": "Agnieszka Soin",
         "phone_numbers": [
-            "793 716 109"
+            "793716109"
         ],
         "pos": "351.",
         "twitter_links": [
@@ -2165,7 +2369,7 @@
         ],
         "name": "Artur Sobo\u0144",
         "phone_numbers": [
-            "(81) 458 00 22"
+            "814580022"
         ],
         "pos": "350.",
         "twitter_links": [
@@ -2224,7 +2428,7 @@
         ],
         "name": "S\u0142awomir Skwarek",
         "phone_numbers": [
-            "881 739 855"
+            "881739855"
         ],
         "pos": "346.",
         "twitter_links": [
@@ -2245,7 +2449,7 @@
         ],
         "name": "Krystyna Skowro\u0144ska",
         "phone_numbers": [
-            "(17) 586 49 90"
+            "175864990"
         ],
         "pos": "345.",
         "twitter_links": [
@@ -2265,7 +2469,7 @@
         "instagram_links": [],
         "name": "Zdzis\u0142aw Sipiera",
         "phone_numbers": [
-            "539 976 563"
+            "539976563"
         ],
         "pos": "344.",
         "twitter_links": [
@@ -2286,7 +2490,7 @@
         ],
         "name": "Bart\u0142omiej Sienkiewicz",
         "phone_numbers": [
-            "782 148 973"
+            "782148973"
         ],
         "pos": "343.",
         "twitter_links": [
@@ -2308,7 +2512,7 @@
         ],
         "name": "Tomasz Siemoniak",
         "phone_numbers": [
-            "(74) 665 78 30"
+            "746657830"
         ],
         "pos": "342.",
         "twitter_links": [
@@ -2329,8 +2533,8 @@
         "instagram_links": [],
         "name": "Czes\u0142aw Siekierski",
         "phone_numbers": [
-            "695 912 415",
-            "(41) 344 99 96"
+            "695912415",
+            "413449996"
         ],
         "pos": "341.",
         "twitter_links": [
@@ -2352,7 +2556,7 @@
         ],
         "name": "Krystyna Sibi\u0144ska",
         "phone_numbers": [
-            "732 922 633"
+            "732922633"
         ],
         "pos": "340.",
         "twitter_links": [
@@ -2374,7 +2578,7 @@
         ],
         "name": "Anna  Siarkowska",
         "phone_numbers": [
-            "518 488 220"
+            "518488220"
         ],
         "pos": "339.",
         "twitter_links": [
@@ -2393,7 +2597,7 @@
         "instagram_links": [],
         "name": "Edward Siarka",
         "phone_numbers": [
-            "(18) 266 42 02"
+            "182664202"
         ],
         "pos": "338.",
         "twitter_links": [
@@ -2415,7 +2619,7 @@
         ],
         "name": "Joanna Senyszyn",
         "phone_numbers": [
-            "501 535 293"
+            "501535293"
         ],
         "pos": "337.",
         "twitter_links": [
@@ -2435,7 +2639,7 @@
         "instagram_links": [],
         "name": "Jaros\u0142aw Sellin",
         "phone_numbers": [
-            "(58) 661 23 33"
+            "586612333"
         ],
         "pos": "336.",
         "twitter_links": []
@@ -2454,7 +2658,7 @@
         "instagram_links": [],
         "name": "Ma\u0142gorzata Seku\u0142a-Szmajdzi\u0144ska",
         "phone_numbers": [
-            "508 056 899"
+            "508056899"
         ],
         "pos": "335.",
         "twitter_links": []
@@ -2472,7 +2676,7 @@
         "instagram_links": [],
         "name": "\u0141ukasz Schreiber",
         "phone_numbers": [
-            "523 460 028"
+            "523460028"
         ],
         "pos": "334.",
         "twitter_links": [
@@ -2492,7 +2696,7 @@
         "instagram_links": [],
         "name": "Anna Schmidt",
         "phone_numbers": [
-            "790 606 656"
+            "790606656"
         ],
         "pos": "333.",
         "twitter_links": []
@@ -2512,7 +2716,7 @@
         ],
         "name": "Joanna Scheuring-Wielgus",
         "phone_numbers": [
-            "881 927 448"
+            "881927448"
         ],
         "pos": "332.",
         "twitter_links": [
@@ -2534,11 +2738,11 @@
         ],
         "name": "Grzegorz Schetyna",
         "phone_numbers": [
-            "(71) 341 03 10"
+            "713410310"
         ],
         "pos": "331.",
         "twitter_links": [
-            "schetynadlapo?lang=pl"
+            "schetynadlapo"
         ]
     },
     {
@@ -2556,7 +2760,7 @@
         ],
         "name": "Wojciech Sa\u0142uga",
         "phone_numbers": [
-            "538 921 964"
+            "538921964"
         ],
         "pos": "328.",
         "twitter_links": [
@@ -2575,7 +2779,7 @@
         "instagram_links": [],
         "name": "Marek Sawicki",
         "phone_numbers": [
-            "(25) 781 25 71"
+            "257812571"
         ],
         "pos": "330.",
         "twitter_links": [
@@ -2596,7 +2800,7 @@
         ],
         "name": "Jacek Sasin",
         "phone_numbers": [
-            "(83) 343 36 77"
+            "833433677"
         ],
         "pos": "329.",
         "twitter_links": [
@@ -2617,7 +2821,7 @@
         "instagram_links": [],
         "name": "Piotr Sak",
         "phone_numbers": [
-            "883 960 100"
+            "883960100"
         ],
         "pos": "327.",
         "twitter_links": [
@@ -2640,7 +2844,7 @@
         ],
         "name": "Jaros\u0142aw Sachajko",
         "phone_numbers": [
-            "884 020 207"
+            "884020207"
         ],
         "pos": "326.",
         "twitter_links": [
@@ -2663,7 +2867,7 @@
         ],
         "name": "Marek Rz\u0105sa",
         "phone_numbers": [
-            "(16) 670 15 88"
+            "166701588"
         ],
         "pos": "323.",
         "twitter_links": [
@@ -2685,7 +2889,7 @@
         ],
         "name": "Tomasz Rzymkowski",
         "phone_numbers": [
-            "535 411 160"
+            "535411160"
         ],
         "pos": "325.",
         "twitter_links": [
@@ -2708,7 +2912,7 @@
         ],
         "name": "Jaros\u0142aw Rzepa",
         "phone_numbers": [
-            "660 300 023"
+            "660300023"
         ],
         "pos": "324.",
         "twitter_links": [
@@ -2728,7 +2932,7 @@
         "instagram_links": [],
         "name": "Pawe\u0142 Rychlik",
         "phone_numbers": [
-            "665 660 166"
+            "665660166"
         ],
         "pos": "322.",
         "twitter_links": [
@@ -2750,7 +2954,7 @@
         ],
         "name": "Jakub Rutnicki",
         "phone_numbers": [
-            "(61) 292 25 01"
+            "612922501"
         ],
         "pos": "321.",
         "twitter_links": [
@@ -2772,7 +2976,7 @@
         ],
         "name": "Marek Rutka",
         "phone_numbers": [
-            "796 867 769"
+            "796867769"
         ],
         "pos": "320.",
         "twitter_links": [
@@ -2793,8 +2997,8 @@
         "instagram_links": [],
         "name": "Grzegorz Rusiecki",
         "phone_numbers": [
-            "782 181 003",
-            "607 655 663"
+            "782181003",
+            "607655663"
         ],
         "pos": "319.",
         "twitter_links": [
@@ -2815,7 +3019,7 @@
         "instagram_links": [],
         "name": "Urszula Rusecka",
         "phone_numbers": [
-            "572 981 700"
+            "572981700"
         ],
         "pos": "318.",
         "twitter_links": [
@@ -2837,7 +3041,7 @@
         ],
         "name": "Andrzej Rozenek",
         "phone_numbers": [
-            "693 888 212"
+            "693888212"
         ],
         "pos": "317.",
         "twitter_links": [
@@ -2859,7 +3063,7 @@
         ],
         "name": "Dariusz Rosati",
         "phone_numbers": [
-            "798 796 119"
+            "798796119"
         ],
         "pos": "316.",
         "twitter_links": [
@@ -2881,7 +3085,7 @@
         ],
         "name": "Monika Rosa",
         "phone_numbers": [
-            "(32) 400 43 77"
+            "324004377"
         ],
         "pos": "315.",
         "twitter_links": [
@@ -2904,11 +3108,11 @@
         ],
         "name": "Ireneusz Ra\u015b",
         "phone_numbers": [
-            "(12) 647 09 41"
+            "126470941"
         ],
         "pos": "313.",
         "twitter_links": [
-            "irekras?lang=pl",
+            "irekras",
             "IreneuszRas"
         ]
     },
@@ -2927,7 +3131,7 @@
         ],
         "name": "Zbigniew Rau",
         "phone_numbers": [
-            "789 196 056"
+            "789196056"
         ],
         "pos": "314.",
         "twitter_links": [
@@ -2948,8 +3152,8 @@
         "instagram_links": [],
         "name": "El\u017cbieta P\u0142onka",
         "phone_numbers": [
-            "539 610 111",
-            "502 750 563"
+            "539610111",
+            "502750563"
         ],
         "pos": "300.",
         "twitter_links": [
@@ -2970,7 +3174,7 @@
         ],
         "name": "Kacper P\u0142a\u017cy\u0144ski",
         "phone_numbers": [
-            "691 355 040"
+            "691355040"
         ],
         "pos": "299.",
         "twitter_links": [
@@ -2992,7 +3196,7 @@
         ],
         "name": "Ma\u0142gorzata P\u0119pek",
         "phone_numbers": [
-            "(33) 861 00 33"
+            "338610033"
         ],
         "pos": "290.",
         "twitter_links": [
@@ -3014,7 +3218,7 @@
         ],
         "name": "Grzegorz Puda",
         "phone_numbers": [
-            "504 930 563"
+            "504930563"
         ],
         "pos": "312.",
         "twitter_links": [
@@ -3035,11 +3239,11 @@
         ],
         "name": "Jacek Protasiewicz",
         "phone_numbers": [
-            "510 804 362"
+            "510804362"
         ],
         "pos": "311.",
         "twitter_links": [
-            "protasiewiczj?lang=pl"
+            "protasiewiczj"
         ]
     },
     {
@@ -3057,7 +3261,7 @@
         ],
         "name": "Jacek Protas",
         "phone_numbers": [
-            "603 910 517"
+            "603910517"
         ],
         "pos": "310.",
         "twitter_links": [
@@ -3079,7 +3283,7 @@
         ],
         "name": "Ma\u0142gorzata Prokop-Paczkowska",
         "phone_numbers": [
-            "607 435 341"
+            "607435341"
         ],
         "pos": "309.",
         "twitter_links": [
@@ -3117,7 +3321,7 @@
         ],
         "name": "Violetta Porowska",
         "phone_numbers": [
-            "790 493 350"
+            "790493350"
         ],
         "pos": "307.",
         "twitter_links": [
@@ -3139,7 +3343,7 @@
         ],
         "name": "Pawe\u0142 Poncyljusz",
         "phone_numbers": [
-            "608 868 424"
+            "608868424"
         ],
         "pos": "306.",
         "twitter_links": [
@@ -3160,12 +3364,12 @@
         "instagram_links": [],
         "name": "Agnieszka Pomaska",
         "phone_numbers": [
-            "(58) 767 72 40",
-            "574 152 793"
+            "587677240",
+            "574152793"
         ],
         "pos": "305.",
         "twitter_links": [
-            "pomaska?lang=pl"
+            "pomaska"
         ]
     },
     {
@@ -3182,7 +3386,7 @@
         "instagram_links": [],
         "name": "Piotr Polak",
         "phone_numbers": [
-            "668 42 17 50"
+            "668421750"
         ],
         "pos": "304.",
         "twitter_links": [
@@ -3200,7 +3404,7 @@
         "instagram_links": [],
         "name": "Marek Polak",
         "phone_numbers": [
-            "(33) 875 76 33"
+            "338757633"
         ],
         "pos": "303.",
         "twitter_links": []
@@ -3219,7 +3423,7 @@
         ],
         "name": "Jerzy Polaczek",
         "phone_numbers": [
-            "(32) 287 15 08"
+            "322871508"
         ],
         "pos": "302.",
         "twitter_links": [
@@ -3238,7 +3442,7 @@
         "instagram_links": [],
         "name": "Szymon Pogoda",
         "phone_numbers": [
-            "575 547 881"
+            "575547881"
         ],
         "pos": "301.",
         "twitter_links": []
@@ -3258,7 +3462,7 @@
         ],
         "name": "Kazimierz Plocke",
         "phone_numbers": [
-            "(58) 774 64 45"
+            "587746445"
         ],
         "pos": "298.",
         "twitter_links": [
@@ -3278,7 +3482,7 @@
         "instagram_links": [],
         "name": "Krzysztof Pi\u0105tkowski",
         "phone_numbers": [
-            "(42) 307 35 35"
+            "423073535"
         ],
         "pos": "291.",
         "twitter_links": [
@@ -3299,7 +3503,7 @@
         ],
         "name": "Dariusz Piontkowski",
         "phone_numbers": [
-            "(85) 652 24 09"
+            "856522409"
         ],
         "pos": "297.",
         "twitter_links": [
@@ -3320,7 +3524,7 @@
         ],
         "name": "Katarzyna Piekarska",
         "phone_numbers": [
-            "606 751 751"
+            "606751751"
         ],
         "pos": "296.",
         "twitter_links": []
@@ -3339,7 +3543,7 @@
         "instagram_links": [],
         "name": "Anna Pieczarka",
         "phone_numbers": [
-            "695 858 584"
+            "695858584"
         ],
         "pos": "295.",
         "twitter_links": []
@@ -3357,7 +3561,7 @@
         "instagram_links": [],
         "name": "Grzegorz Piechowiak",
         "phone_numbers": [
-            "533 381 311"
+            "533381311"
         ],
         "pos": "294.",
         "twitter_links": [
@@ -3377,7 +3581,7 @@
         "instagram_links": [],
         "name": "S\u0142awomir Piechota",
         "phone_numbers": [
-            "(71) 341 03 10"
+            "713410310"
         ],
         "pos": "293.",
         "twitter_links": [
@@ -3397,7 +3601,7 @@
         "instagram_links": [],
         "name": "Boles\u0142aw Piecha",
         "phone_numbers": [
-            "(32) 421 21 34"
+            "324212134"
         ],
         "pos": "292.",
         "twitter_links": []
@@ -3417,12 +3621,12 @@
         ],
         "name": "Monika Paw\u0142owska",
         "phone_numbers": [
-            "504 843 022"
+            "504843022"
         ],
         "pos": "289.",
         "twitter_links": [
             "Pawlowska_pl",
-            "Pawlowska__M?lang=pl"
+            "Pawlowska__M"
         ]
     },
     {
@@ -3440,7 +3644,7 @@
         ],
         "name": "Karolina Pawliczak",
         "phone_numbers": [
-            "667 528 302"
+            "667528302"
         ],
         "pos": "288.",
         "twitter_links": [
@@ -3460,7 +3664,7 @@
         "instagram_links": [],
         "name": "Jerzy Paul",
         "phone_numbers": [
-            "790 588 990"
+            "790588990"
         ],
         "pos": "287.",
         "twitter_links": [
@@ -3482,7 +3686,7 @@
         ],
         "name": "Urszula Pas\u0142awska",
         "phone_numbers": [
-            "660 528 543"
+            "660528543"
         ],
         "pos": "285.",
         "twitter_links": [
@@ -3504,7 +3708,7 @@
         ],
         "name": "Krzysztof Paszyk",
         "phone_numbers": [
-            "(61) 847 55 23"
+            "618475523"
         ],
         "pos": "286.",
         "twitter_links": [
@@ -3525,11 +3729,11 @@
         ],
         "name": "Pawe\u0142 Papke",
         "phone_numbers": [
-            "691 919 950"
+            "691919950"
         ],
         "pos": "284.",
         "twitter_links": [
-            "papkepawel?lang=pl"
+            "papkepawel"
         ]
     },
     {
@@ -3544,8 +3748,8 @@
         "instagram_links": [],
         "name": "Teresa Pamu\u0142a",
         "phone_numbers": [
-            "508 370 297",
-            "508 248 279"
+            "508370297",
+            "508248279"
         ],
         "pos": "283.",
         "twitter_links": []
@@ -3562,7 +3766,7 @@
         "instagram_links": [],
         "name": "Anna Paluch",
         "phone_numbers": [
-            "(18) 266 27 53"
+            "182662753"
         ],
         "pos": "282.",
         "twitter_links": [
@@ -3599,7 +3803,7 @@
         ],
         "name": "Jacek Ozdoba",
         "phone_numbers": [
-            "536 769 797"
+            "536769797"
         ],
         "pos": "281.",
         "twitter_links": [
@@ -3621,7 +3825,7 @@
         ],
         "name": "Jacek Osuch",
         "phone_numbers": [
-            "(32) 754 34 13"
+            "327543413"
         ],
         "pos": "280.",
         "twitter_links": [
@@ -3642,7 +3846,7 @@
         ],
         "name": "Katarzyna Osos",
         "phone_numbers": [
-            "796 912 000"
+            "796912000"
         ],
         "pos": "279.",
         "twitter_links": [
@@ -3663,11 +3867,11 @@
         ],
         "name": "Pawe\u0142 Olszewski",
         "phone_numbers": [
-            "(52) 322 65 56"
+            "523226556"
         ],
         "pos": "277.",
         "twitter_links": [
-            "pawelolszewski?lang=p",
+            "pawelolszewski",
             "PawelOlszewski"
         ]
     },
@@ -3686,7 +3890,7 @@
         ],
         "name": "Dariusz Olszewski",
         "phone_numbers": [
-            "660 329 444"
+            "660329444"
         ],
         "pos": "276.",
         "twitter_links": [
@@ -3707,7 +3911,7 @@
         ],
         "name": "Tomasz Olichwer",
         "phone_numbers": [
-            "601 489 075"
+            "601489075"
         ],
         "pos": "275.",
         "twitter_links": [
@@ -3728,7 +3932,7 @@
         "instagram_links": [],
         "name": "Waldemar Olejniczak",
         "phone_numbers": [
-            "606 951 916"
+            "606951916"
         ],
         "pos": "274.",
         "twitter_links": []
@@ -3750,8 +3954,8 @@
         ],
         "name": "Marzena Ok\u0142a-Drewnowicz",
         "phone_numbers": [
-            "503 196 708",
-            "792 016 661"
+            "503196708",
+            "792016661"
         ],
         "pos": "273.",
         "twitter_links": [
@@ -3793,7 +3997,7 @@
         ],
         "name": "Robert Obaz",
         "phone_numbers": [
-            "500 040 140"
+            "500040140"
         ],
         "pos": "271.",
         "twitter_links": [
@@ -3815,7 +4019,7 @@
         ],
         "name": "Miros\u0142awa Nykiel",
         "phone_numbers": [
-            "723 876 862"
+            "723876862"
         ],
         "pos": "270.",
         "twitter_links": [
@@ -3837,7 +4041,7 @@
         ],
         "name": "Urszula Nowog\u00f3rska",
         "phone_numbers": [
-            "504 099 745"
+            "504099745"
         ],
         "pos": "269.",
         "twitter_links": [
@@ -3860,7 +4064,7 @@
         ],
         "name": "Wanda Nowicka",
         "phone_numbers": [
-            "661 609 506"
+            "661609506"
         ],
         "pos": "268.",
         "twitter_links": [
@@ -3881,7 +4085,7 @@
         "instagram_links": [],
         "name": "Danuta Nowicka",
         "phone_numbers": [
-            "730 689 086"
+            "730689086"
         ],
         "pos": "267.",
         "twitter_links": [
@@ -3905,7 +4109,7 @@
         ],
         "name": "Tomasz Nowak",
         "phone_numbers": [
-            "500 123 976"
+            "500123976"
         ],
         "pos": "266.",
         "twitter_links": [
@@ -3928,7 +4132,7 @@
         ],
         "name": "Barbara Nowacka",
         "phone_numbers": [
-            "790 210 014"
+            "790210014"
         ],
         "pos": "265.",
         "twitter_links": [
@@ -3950,11 +4154,11 @@
         ],
         "name": "S\u0142awomir Nitras",
         "phone_numbers": [
-            "(91) 823 54 77"
+            "918235477"
         ],
         "pos": "264.",
         "twitter_links": [
-            "slawomirnitras?lang=pl"
+            "slawomirnitras"
         ]
     },
     {
@@ -3969,7 +4173,7 @@
         "instagram_links": [],
         "name": "Ma\u0142gorzata Niemczyk",
         "phone_numbers": [
-            "(42) 630 98 24"
+            "426309824"
         ],
         "pos": "263.",
         "twitter_links": [
@@ -3991,7 +4195,7 @@
         ],
         "name": "Dorota Niedziela",
         "phone_numbers": [
-            "512 976 510"
+            "512976510"
         ],
         "pos": "262.",
         "twitter_links": [
@@ -4012,7 +4216,7 @@
         ],
         "name": "S\u0142awomir Neumann",
         "phone_numbers": [
-            "(58) 536 83 61"
+            "585368361"
         ],
         "pos": "261.",
         "twitter_links": [
@@ -4033,11 +4237,11 @@
         ],
         "name": "Grzegorz Napieralski",
         "phone_numbers": [
-            "505 300 015"
+            "505300015"
         ],
         "pos": "260.",
         "twitter_links": [
-            "gnapieralski?lang=pl",
+            "gnapieralski",
             "Napieralski_G"
         ]
     },
@@ -4056,7 +4260,7 @@
         ],
         "name": "Piotr M\u00fcller",
         "phone_numbers": [
-            "576 157 311"
+            "576157311"
         ],
         "pos": "257.",
         "twitter_links": [
@@ -4078,11 +4282,11 @@
         ],
         "name": "Arkadiusz Myrcha",
         "phone_numbers": [
-            "730 001 913"
+            "730001913"
         ],
         "pos": "259.",
         "twitter_links": [
-            "ArkadiuszMyrcha?lang=pl"
+            "ArkadiuszMyrcha"
         ]
     },
     {
@@ -4100,7 +4304,7 @@
         ],
         "name": "Wojciech Murdzek",
         "phone_numbers": [
-            "798 510 473"
+            "798510473"
         ],
         "pos": "258.",
         "twitter_links": [
@@ -4122,11 +4326,11 @@
         ],
         "name": "Arkadiusz Mularczyk",
         "phone_numbers": [
-            "(18) 440 76 57"
+            "184407657"
         ],
         "pos": "256.",
         "twitter_links": [
-            "arekmularczyk?lang=pl"
+            "arekmularczyk"
         ]
     },
     {
@@ -4144,11 +4348,11 @@
         ],
         "name": "Joanna Mucha",
         "phone_numbers": [
-            "815 321 272"
+            "815321272"
         ],
         "pos": "255.",
         "twitter_links": [
-            "joannamucha?lang=pl"
+            "joannamucha"
         ]
     },
     {
@@ -4164,7 +4368,7 @@
         "instagram_links": [],
         "name": "Aleksander Mr\u00f3wczy\u0144ski",
         "phone_numbers": [
-            "886 170 018"
+            "886170018"
         ],
         "pos": "253.",
         "twitter_links": []
@@ -4184,7 +4388,7 @@
         ],
         "name": "Izabela Mrzyg\u0142ocka",
         "phone_numbers": [
-            "502 700 256"
+            "502700256"
         ],
         "pos": "254.",
         "twitter_links": [
@@ -4206,7 +4410,7 @@
         ],
         "name": "Czes\u0142aw Mroczek",
         "phone_numbers": [
-            "(25) 758 91 75"
+            "257589175"
         ],
         "pos": "252.",
         "twitter_links": [
@@ -4226,8 +4430,8 @@
         "instagram_links": [],
         "name": "Kazimierz Moskal",
         "phone_numbers": [
-            "(17) 22 27 057",
-            "508 316 865"
+            "172227057",
+            "508316865"
         ],
         "pos": "251.",
         "twitter_links": []
@@ -4247,7 +4451,7 @@
         ],
         "name": "Jan Mosi\u0144ski",
         "phone_numbers": [
-            "733 882 540"
+            "733882540"
         ],
         "pos": "250.",
         "twitter_links": [
@@ -4269,11 +4473,11 @@
         ],
         "name": "Mateusz Morawiecki",
         "phone_numbers": [
-            "533 199 815"
+            "533199815"
         ],
         "pos": "249.",
         "twitter_links": [
-            "MorawieckiM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+            "MorawieckiM",
             "MorawieckiM",
             "premierrp"
         ]
@@ -4293,7 +4497,7 @@
         ],
         "name": "Aleksander Miszalski",
         "phone_numbers": [
-            "601 900 088"
+            "601900088"
         ],
         "pos": "248.",
         "twitter_links": [
@@ -4313,7 +4517,7 @@
         "instagram_links": [],
         "name": "Rajmund Miller",
         "phone_numbers": [
-            "(77) 427 80 12"
+            "774278012"
         ],
         "pos": "247.",
         "twitter_links": []
@@ -4333,7 +4537,7 @@
         ],
         "name": "Daniel Milewski",
         "phone_numbers": [
-            "504 838 222"
+            "504838222"
         ],
         "pos": "246.",
         "twitter_links": [
@@ -4353,7 +4557,7 @@
         "instagram_links": [],
         "name": "Anna Milczanowska",
         "phone_numbers": [
-            "(44) 685 31 43"
+            "446853143"
         ],
         "pos": "245.",
         "twitter_links": [
@@ -4375,7 +4579,7 @@
         ],
         "name": "Krzysztof Mieszkowski",
         "phone_numbers": [
-            "607 482 946"
+            "607482946"
         ],
         "pos": "244.",
         "twitter_links": [
@@ -4397,7 +4601,7 @@
         ],
         "name": "Iwona Micha\u0142ek",
         "phone_numbers": [
-            "530 845 847"
+            "530845847"
         ],
         "pos": "243.",
         "twitter_links": [
@@ -4439,7 +4643,7 @@
         ],
         "name": "Maciej Ma\u0142ecki",
         "phone_numbers": [
-            "533 553 241"
+            "533553241"
         ],
         "pos": "232.",
         "twitter_links": [
@@ -4459,7 +4663,7 @@
         "instagram_links": [],
         "name": "Jerzy Ma\u0142ecki",
         "phone_numbers": [
-            "791 751 710"
+            "791751710"
         ],
         "pos": "231.",
         "twitter_links": [
@@ -4481,7 +4685,7 @@
         ],
         "name": "Paulina Matysiak",
         "phone_numbers": [
-            "723 007 070"
+            "723007070"
         ],
         "pos": "241.",
         "twitter_links": [
@@ -4501,8 +4705,8 @@
         "instagram_links": [],
         "name": "Kazimierz Matuszny",
         "phone_numbers": [
-            "780 169 580",
-            "(33) 825 34 25"
+            "780169580",
+            "338253425"
         ],
         "pos": "240.",
         "twitter_links": []
@@ -4520,7 +4724,7 @@
         "instagram_links": [],
         "name": "Marek Matuszewski",
         "phone_numbers": [
-            "513 158 411"
+            "513158411"
         ],
         "pos": "239.",
         "twitter_links": []
@@ -4539,7 +4743,7 @@
         ],
         "name": "Grzegorz Matusiak",
         "phone_numbers": [
-            "883 114 914"
+            "883114914"
         ],
         "pos": "238.",
         "twitter_links": [
@@ -4559,8 +4763,8 @@
         "instagram_links": [],
         "name": "Beata Mateusiak-Pielucha",
         "phone_numbers": [
-            "605 526 863",
-            "(34) 393 55 16"
+            "605526863",
+            "343935516"
         ],
         "pos": "237.",
         "twitter_links": [
@@ -4580,7 +4784,7 @@
         "instagram_links": [],
         "name": "Jerzy Materna",
         "phone_numbers": [
-            "(68) 320 24 62"
+            "683202462"
         ],
         "pos": "236.",
         "twitter_links": [
@@ -4600,7 +4804,7 @@
         "instagram_links": [],
         "name": "Gabriela Mas\u0142owska",
         "phone_numbers": [
-            "(81) 534 15 99"
+            "815341599"
         ],
         "pos": "235.",
         "twitter_links": [
@@ -4622,7 +4826,7 @@
         ],
         "name": "Jagna Marczu\u0142ajtis-Walczak",
         "phone_numbers": [
-            "690 818 918"
+            "690818918"
         ],
         "pos": "234.",
         "twitter_links": [
@@ -4643,7 +4847,7 @@
         ],
         "name": "Arkadiusz Marchewka",
         "phone_numbers": [
-            "508 377 387"
+            "508377387"
         ],
         "pos": "233.",
         "twitter_links": [
@@ -4664,7 +4868,7 @@
         ],
         "name": "Marlena Mal\u0105g",
         "phone_numbers": [
-            "783 331 335"
+            "783331335"
         ],
         "pos": "228.",
         "twitter_links": [
@@ -4684,7 +4888,7 @@
         "instagram_links": [],
         "name": "Miros\u0142aw Maliszewski",
         "phone_numbers": [
-            "(48) 664 22 45"
+            "486642245"
         ],
         "pos": "230.",
         "twitter_links": [
@@ -4703,7 +4907,7 @@
         "instagram_links": [],
         "name": "Ewa Malik",
         "phone_numbers": [
-            "(32) 785 17 03"
+            "327851703"
         ],
         "pos": "229.",
         "twitter_links": []
@@ -4740,7 +4944,7 @@
         "instagram_links": [],
         "name": "Antoni Macierewicz",
         "phone_numbers": [
-            "793 101 123"
+            "793101123"
         ],
         "pos": "226.",
         "twitter_links": [
@@ -4762,7 +4966,7 @@
         ],
         "name": "Beata Maciejewska",
         "phone_numbers": [
-            "505 910 799"
+            "505910799"
         ],
         "pos": "225.",
         "twitter_links": [
@@ -4784,7 +4988,7 @@
         ],
         "name": "Marzena Macha\u0142ek",
         "phone_numbers": [
-            "(75) 752 22 99"
+            "757522299"
         ],
         "pos": "224.",
         "twitter_links": [
@@ -4806,7 +5010,7 @@
         ],
         "name": "Katarzyna Lubnauer",
         "phone_numbers": [
-            "604 176 234"
+            "604176234"
         ],
         "pos": "219.",
         "twitter_links": [
@@ -4825,7 +5029,7 @@
         "instagram_links": [],
         "name": "Rados\u0142aw Lubczyk",
         "phone_numbers": [
-            "503 035 653"
+            "503035653"
         ],
         "pos": "218.",
         "twitter_links": [
@@ -4845,8 +5049,8 @@
         "instagram_links": [],
         "name": "Grzegorz Lorek",
         "phone_numbers": [
-            "504 614 232",
-            "509 849 784"
+            "504614232",
+            "509849784"
         ],
         "pos": "217.",
         "twitter_links": []
@@ -4866,7 +5070,7 @@
         ],
         "name": "Pawe\u0142 Lisiecki",
         "phone_numbers": [
-            "(22) 618 30 78"
+            "226183078"
         ],
         "pos": "216.",
         "twitter_links": [
@@ -4888,7 +5092,7 @@
         ],
         "name": "Krzysztof Lipiec",
         "phone_numbers": [
-            "(41) 275 31 09"
+            "412753109"
         ],
         "pos": "215.",
         "twitter_links": [
@@ -4910,11 +5114,11 @@
         ],
         "name": "Joanna Lichocka",
         "phone_numbers": [
-            "575 312 466"
+            "575312466"
         ],
         "pos": "214.",
         "twitter_links": [
-            "joannalichocka?lang=pl"
+            "joannalichocka"
         ]
     },
     {
@@ -4931,7 +5135,7 @@
         ],
         "name": "Izabela Leszczyna",
         "phone_numbers": [
-            "504 256 188"
+            "504256188"
         ],
         "pos": "213.",
         "twitter_links": [
@@ -4952,7 +5156,7 @@
         ],
         "name": "Tomasz Lenz",
         "phone_numbers": [
-            "(56) 621 06 15"
+            "566210615"
         ],
         "pos": "212.",
         "twitter_links": [
@@ -4973,7 +5177,7 @@
         ],
         "name": "Gabriela Lenartowicz",
         "phone_numbers": [
-            "797 219 764"
+            "797219764"
         ],
         "pos": "211.",
         "twitter_links": [
@@ -4995,7 +5199,7 @@
         ],
         "name": "Tomasz Latos",
         "phone_numbers": [
-            "(52) 322 48 48"
+            "523224848"
         ],
         "pos": "210.",
         "twitter_links": [
@@ -5017,7 +5221,7 @@
         ],
         "name": "Maciej Lasek",
         "phone_numbers": [
-            "888 888 470"
+            "888888470"
         ],
         "pos": "209.",
         "twitter_links": [
@@ -5039,7 +5243,7 @@
         ],
         "name": "Marek Kwitek",
         "phone_numbers": [
-            "884 747 400"
+            "884747400"
         ],
         "pos": "208.",
         "twitter_links": [
@@ -5059,7 +5263,7 @@
         "instagram_links": [],
         "name": "Anna Kwiecie\u0144",
         "phone_numbers": [
-            "733 003 619"
+            "733003619"
         ],
         "pos": "207.",
         "twitter_links": [
@@ -5078,7 +5282,7 @@
         "instagram_links": [],
         "name": "Robert Kwiatkowski",
         "phone_numbers": [
-            "602 259 907"
+            "602259907"
         ],
         "pos": "206.",
         "twitter_links": [
@@ -5100,7 +5304,7 @@
         ],
         "name": "Jacek Kurz\u0119pa",
         "phone_numbers": [
-            "731 339 133"
+            "731339133"
         ],
         "pos": "205.",
         "twitter_links": [
@@ -5122,7 +5326,7 @@
         ],
         "name": "Dariusz Kurzawa",
         "phone_numbers": [
-            "698 928 633"
+            "698928633"
         ],
         "pos": "204.",
         "twitter_links": [
@@ -5142,7 +5346,7 @@
         "instagram_links": [],
         "name": "W\u0142adys\u0142aw Kurowski",
         "phone_numbers": [
-            "(12) 272 11 01"
+            "122721101"
         ],
         "pos": "203.",
         "twitter_links": []
@@ -5157,7 +5361,7 @@
         "instagram_links": [],
         "name": "Maria Kurowska",
         "phone_numbers": [
-            "575 011 685"
+            "575011685"
         ],
         "pos": "202.",
         "twitter_links": [
@@ -5179,7 +5383,7 @@
         ],
         "name": "Jakub Kulesza",
         "phone_numbers": [
-            "536 163 626"
+            "536163626"
         ],
         "pos": "201.",
         "twitter_links": [
@@ -5201,7 +5405,7 @@
         ],
         "name": "Marcin Kulasek",
         "phone_numbers": [
-            "514 905 999"
+            "514905999"
         ],
         "pos": "200.",
         "twitter_links": [
@@ -5224,7 +5428,7 @@
         "phone_numbers": [],
         "pos": "199.",
         "twitter_links": [
-            "pkukiz?lang=pl"
+            "pkukiz"
         ]
     },
     {
@@ -5242,7 +5446,7 @@
         ],
         "name": "Marek Kuchci\u0144ski",
         "phone_numbers": [
-            "(16) 678 49 19"
+            "166784919"
         ],
         "pos": "198.",
         "twitter_links": [
@@ -5264,7 +5468,7 @@
         ],
         "name": "Anita Kucharska-Dziedzic",
         "phone_numbers": [
-            "796 753 190"
+            "796753190"
         ],
         "pos": "197.",
         "twitter_links": [
@@ -5283,7 +5487,7 @@
         "instagram_links": [],
         "name": "Krzysztof Kub\u00f3w",
         "phone_numbers": [
-            "(76) 845 99 88"
+            "768459988"
         ],
         "pos": "196.",
         "twitter_links": [
@@ -5303,7 +5507,7 @@
         "instagram_links": [],
         "name": "Marta Kubiak",
         "phone_numbers": [
-            "577 293 479"
+            "577293479"
         ],
         "pos": "195.",
         "twitter_links": [
@@ -5325,7 +5529,7 @@
         ],
         "name": "Wojciech Kr\u00f3l",
         "phone_numbers": [
-            "(32) 307 50 90"
+            "323075090"
         ],
         "pos": "189.",
         "twitter_links": [
@@ -5345,7 +5549,7 @@
         "instagram_links": [],
         "name": "Piotr Kr\u00f3l",
         "phone_numbers": [
-            "795 839 866"
+            "795839866"
         ],
         "pos": "188.",
         "twitter_links": [
@@ -5366,7 +5570,7 @@
         ],
         "name": "Marek Krz\u0105ka\u0142a",
         "phone_numbers": [
-            "(32) 423 69 16"
+            "324236916"
         ],
         "pos": "193.",
         "twitter_links": [
@@ -5388,7 +5592,7 @@
         ],
         "name": "Henryka Krzywonos-Strycharska",
         "phone_numbers": [
-            "(58) 350 56 74"
+            "583505674"
         ],
         "pos": "194.",
         "twitter_links": []
@@ -5406,7 +5610,7 @@
         "instagram_links": [],
         "name": "Andrzej Kryj",
         "phone_numbers": [
-            "(41) 266 52 59"
+            "412665259"
         ],
         "pos": "192.",
         "twitter_links": [
@@ -5427,7 +5631,7 @@
         ],
         "name": "Pawe\u0142 Krutul",
         "phone_numbers": [
-            "604 404 077"
+            "604404077"
         ],
         "pos": "191.",
         "twitter_links": [
@@ -5447,11 +5651,11 @@
         "instagram_links": [],
         "name": "Anna Krupka",
         "phone_numbers": [
-            "608 045 712"
+            "608045712"
         ],
         "pos": "190.",
         "twitter_links": [
-            "annamkrupka?lang=pl"
+            "annamkrupka"
         ]
     },
     {
@@ -5468,7 +5672,7 @@
         ],
         "name": "Robert Kropiwnicki",
         "phone_numbers": [
-            "(76) 856 03 06"
+            "768560306"
         ],
         "pos": "187.",
         "twitter_links": [
@@ -5488,7 +5692,7 @@
         "instagram_links": [],
         "name": "Katarzyna Kretkowska",
         "phone_numbers": [
-            "(61) 625 77 77"
+            "616257777"
         ],
         "pos": "186.",
         "twitter_links": [
@@ -5510,7 +5714,7 @@
         ],
         "name": "Micha\u0142 Krawczyk",
         "phone_numbers": [
-            "690 536 841"
+            "690536841"
         ],
         "pos": "185.",
         "twitter_links": [
@@ -5532,7 +5736,7 @@
         ],
         "name": "Leonard Krasulski",
         "phone_numbers": [
-            "(55) 641 58 99"
+            "556415899"
         ],
         "pos": "184.",
         "twitter_links": [
@@ -5552,8 +5756,8 @@
         "instagram_links": [],
         "name": "Wies\u0142aw Krajewski",
         "phone_numbers": [
-            "731 230 350",
-            "(14) 655 15 13"
+            "731230350",
+            "146551513"
         ],
         "pos": "183.",
         "twitter_links": [
@@ -5575,7 +5779,7 @@
         ],
         "name": "Stefan Krajewski",
         "phone_numbers": [
-            "792 243 544"
+            "792243544"
         ],
         "pos": "182.",
         "twitter_links": [
@@ -5596,7 +5800,7 @@
         ],
         "name": "Jaros\u0142aw Krajewski",
         "phone_numbers": [
-            "(22) 629 59 19"
+            "226295919"
         ],
         "pos": "181.",
         "twitter_links": [
@@ -5616,8 +5820,8 @@
         "instagram_links": [],
         "name": "Ewa Ko\u0142odziej",
         "phone_numbers": [
-            "508 304 917",
-            "(32) 257 00 01"
+            "508304917",
+            "322570001"
         ],
         "pos": "163.",
         "twitter_links": [
@@ -5636,8 +5840,8 @@
         "instagram_links": [],
         "name": "Lech Ko\u0142akowski",
         "phone_numbers": [
-            "503 015 149",
-            "(86) 216 68 57"
+            "503015149",
+            "862166857"
         ],
         "pos": "162.",
         "twitter_links": []
@@ -5654,7 +5858,7 @@
         "instagram_links": [],
         "name": "Iwona Koz\u0142owska",
         "phone_numbers": [
-            "(52) 345 58 06"
+            "523455806"
         ],
         "pos": "180.",
         "twitter_links": [
@@ -5674,7 +5878,7 @@
         "instagram_links": [],
         "name": "Krzysztof Kozik",
         "phone_numbers": [
-            "692 617 724"
+            "692617724"
         ],
         "pos": "179.",
         "twitter_links": []
@@ -5694,7 +5898,7 @@
         ],
         "name": "Ewa Kozanecka",
         "phone_numbers": [
-            "577 123 452"
+            "577123452"
         ],
         "pos": "178.",
         "twitter_links": [
@@ -5716,7 +5920,7 @@
         ],
         "name": "Bartosz Kownacki",
         "phone_numbers": [
-            "796 591 222"
+            "796591222"
         ],
         "pos": "177.",
         "twitter_links": [
@@ -5739,7 +5943,7 @@
         ],
         "name": "Janusz Kowalski",
         "phone_numbers": [
-            "(77) 547 18 46"
+            "775471846"
         ],
         "pos": "176.",
         "twitter_links": [
@@ -5759,7 +5963,7 @@
         "instagram_links": [],
         "name": "Henryk Kowalczyk",
         "phone_numbers": [
-            "504 252 633"
+            "504252633"
         ],
         "pos": "175.",
         "twitter_links": [
@@ -5782,7 +5986,7 @@
         ],
         "name": "Pawe\u0142 Kowal",
         "phone_numbers": [
-            "500 267 687"
+            "500267687"
         ],
         "pos": "174.",
         "twitter_links": [
@@ -5804,7 +6008,7 @@
         ],
         "name": "Katarzyna Kotula",
         "phone_numbers": [
-            "536 207 633"
+            "536207633"
         ],
         "pos": "173.",
         "twitter_links": [
@@ -5826,7 +6030,7 @@
         ],
         "name": "Andrzej Kosztowniak",
         "phone_numbers": [
-            "508 945 379"
+            "508945379"
         ],
         "pos": "172.",
         "twitter_links": [
@@ -5848,7 +6052,7 @@
         ],
         "name": "Tomasz Kostu\u015b",
         "phone_numbers": [
-            "509 030 141"
+            "509030141"
         ],
         "pos": "171.",
         "twitter_links": [
@@ -5870,7 +6074,7 @@
         ],
         "name": "Wojciech Kossakowski",
         "phone_numbers": [
-            "399 286 177"
+            "399286177"
         ],
         "pos": "170.",
         "twitter_links": [
@@ -5892,7 +6096,7 @@
         ],
         "name": "W\u0142adys\u0142aw Kosiniak-Kamysz",
         "phone_numbers": [
-            "(14) 621 13 21"
+            "146211321"
         ],
         "pos": "169.",
         "twitter_links": [
@@ -5915,7 +6119,7 @@
         ],
         "name": "Janusz Korwin-Mikke",
         "phone_numbers": [
-            "699 712 450"
+            "699712450"
         ],
         "pos": "168.",
         "twitter_links": [
@@ -5937,7 +6141,7 @@
         ],
         "name": "Maciej Kopiec",
         "phone_numbers": [
-            "730 730 758"
+            "730730758"
         ],
         "pos": "167.",
         "twitter_links": [
@@ -5959,7 +6163,7 @@
         ],
         "name": "Przemys\u0142aw Koperski",
         "phone_numbers": [
-            "515 577 462"
+            "515577462"
         ],
         "pos": "166.",
         "twitter_links": [
@@ -5978,7 +6182,7 @@
         "instagram_links": [],
         "name": "Zbigniew Konwi\u0144ski",
         "phone_numbers": [
-            "(59) 842 20 32"
+            "598422032"
         ],
         "pos": "165.",
         "twitter_links": [
@@ -6000,7 +6204,7 @@
         ],
         "name": "Maciej Konieczny",
         "phone_numbers": [
-            "570 150 002"
+            "570150002"
         ],
         "pos": "164.",
         "twitter_links": [
@@ -6019,7 +6223,7 @@
         "instagram_links": [],
         "name": "Joanna Kluzik-Rostkowska",
         "phone_numbers": [
-            "721 333 533"
+            "721333533"
         ],
         "pos": "161.",
         "twitter_links": [
@@ -6041,7 +6245,7 @@
         ],
         "name": "Dariusz Klimczak",
         "phone_numbers": [
-            "500 015 966"
+            "500015966"
         ],
         "pos": "160.",
         "twitter_links": [
@@ -6063,7 +6267,7 @@
         ],
         "name": "Marcin Kierwi\u0144ski",
         "phone_numbers": [
-            "502 447 451"
+            "502447451"
         ],
         "pos": "159.",
         "twitter_links": [
@@ -6084,7 +6288,7 @@
         ],
         "name": "Ma\u0142gorzata Kidawa-B\u0142o\u0144ska",
         "phone_numbers": [
-            "(22) 622 60 33"
+            "226226033"
         ],
         "pos": "158.",
         "twitter_links": [
@@ -6106,7 +6310,7 @@
         ],
         "name": "Mariusz Ka\u0142u\u017cny",
         "phone_numbers": [
-            "781 313 395"
+            "781313395"
         ],
         "pos": "152.",
         "twitter_links": [
@@ -6128,7 +6332,7 @@
         ],
         "name": "Mieczys\u0142aw Kasprzak",
         "phone_numbers": [
-            "(16) 621 63 10"
+            "166216310"
         ],
         "pos": "157.",
         "twitter_links": [
@@ -6147,7 +6351,7 @@
         "instagram_links": [],
         "name": "Fryderyk Kapinos",
         "phone_numbers": [
-            "(17) 788 48 20"
+            "177884820"
         ],
         "pos": "156.",
         "twitter_links": []
@@ -6166,7 +6370,7 @@
         "instagram_links": [],
         "name": "Jan Kanthak",
         "phone_numbers": [
-            "793 543 592"
+            "793543592"
         ],
         "pos": "155.",
         "twitter_links": [
@@ -6183,7 +6387,7 @@
         "instagram_links": [],
         "name": "Mariusz Kami\u0144ski",
         "phone_numbers": [
-            "(22) 629 17 33"
+            "226291733"
         ],
         "pos": "154.",
         "twitter_links": [
@@ -6202,7 +6406,7 @@
         "instagram_links": [],
         "name": "Krystian Kami\u0144ski",
         "phone_numbers": [
-            "661 100 743"
+            "661100743"
         ],
         "pos": "153.",
         "twitter_links": [
@@ -6223,7 +6427,7 @@
         ],
         "name": "Sebastian Kaleta",
         "phone_numbers": [
-            "504 140 944"
+            "504140944"
         ],
         "pos": "151.",
         "twitter_links": [
@@ -6244,7 +6448,7 @@
         "instagram_links": [],
         "name": "Piotr Kaleta",
         "phone_numbers": [
-            "508 444 829"
+            "508444829"
         ],
         "pos": "150.",
         "twitter_links": [
@@ -6265,7 +6469,7 @@
         ],
         "name": "Jaros\u0142aw Kaczy\u0144ski",
         "phone_numbers": [
-            "(22) 622 91 55"
+            "226229155"
         ],
         "pos": "149.",
         "twitter_links": [
@@ -6286,8 +6490,8 @@
         "instagram_links": [],
         "name": "Filip Kaczy\u0144ski",
         "phone_numbers": [
-            "(33) 400 04 40",
-            "608 332 374"
+            "334000440",
+            "608332374"
         ],
         "pos": "148.",
         "twitter_links": [
@@ -6309,7 +6513,7 @@
         ],
         "name": "Norbert Kaczmarczyk",
         "phone_numbers": [
-            "534 077 917"
+            "534077917"
         ],
         "pos": "147.",
         "twitter_links": [
@@ -6331,7 +6535,7 @@
         ],
         "name": "Dariusz Jo\u0144ski",
         "phone_numbers": [
-            "531 536 185"
+            "531536185"
         ],
         "pos": "146.",
         "twitter_links": [
@@ -6353,7 +6557,7 @@
         ],
         "name": "Joanna Ja\u015bkowiak",
         "phone_numbers": [
-            "886 438 293"
+            "886438293"
         ],
         "pos": "145.",
         "twitter_links": []
@@ -6372,7 +6576,7 @@
         ],
         "name": "Micha\u0142 Jaros",
         "phone_numbers": [
-            "510 126 096"
+            "510126096"
         ],
         "pos": "144.",
         "twitter_links": [
@@ -6394,8 +6598,8 @@
         ],
         "name": "Maria Janyska",
         "phone_numbers": [
-            "781 808 069",
-            "(67) 262 93 59"
+            "781808069",
+            "672629359"
         ],
         "pos": "143.",
         "twitter_links": [
@@ -6417,8 +6621,8 @@
         ],
         "name": "Ma\u0142gorzata Janowska",
         "phone_numbers": [
-            "604 352 469",
-            "881 529 859"
+            "604352469",
+            "881529859"
         ],
         "pos": "142.",
         "twitter_links": [
@@ -6439,7 +6643,7 @@
         "instagram_links": [],
         "name": "Wies\u0142aw Janczyk",
         "phone_numbers": [
-            "(18) 337 11 69"
+            "183371169"
         ],
         "pos": "141.",
         "twitter_links": [
@@ -6460,7 +6664,7 @@
         ],
         "name": "Klaudia Jachira",
         "phone_numbers": [
-            "690 001 386"
+            "690001386"
         ],
         "pos": "140.",
         "twitter_links": [
@@ -6480,7 +6684,7 @@
         "instagram_links": [],
         "name": "Micha\u0142 Jach",
         "phone_numbers": [
-            "(91) 834 18 29"
+            "918341829"
         ],
         "pos": "139.",
         "twitter_links": [
@@ -6503,7 +6707,7 @@
         ],
         "name": "Arkadiusz Iwaniak",
         "phone_numbers": [
-            "513 576 646"
+            "513576646"
         ],
         "pos": "138.",
         "twitter_links": [
@@ -6543,11 +6747,11 @@
         ],
         "name": "Marcin Hora\u0142a",
         "phone_numbers": [
-            "500 744 560"
+            "500744560"
         ],
         "pos": "136.",
         "twitter_links": [
-            "mhorala?lang=pl"
+            "mhorala"
         ]
     },
     {
@@ -6566,7 +6770,7 @@
         "phone_numbers": [],
         "pos": "135.",
         "twitter_links": [
-            "marek_hok?lang=pl"
+            "marek_hok"
         ]
     },
     {
@@ -6582,7 +6786,7 @@
         "instagram_links": [],
         "name": "Zbigniew Hoffmann",
         "phone_numbers": [
-            "664 298 072"
+            "664298072"
         ],
         "pos": "134.",
         "twitter_links": [
@@ -6603,7 +6807,7 @@
         ],
         "name": "Czes\u0142aw Hoc",
         "phone_numbers": [
-            "(94) 352 29 67"
+            "943522967"
         ],
         "pos": "133.",
         "twitter_links": [
@@ -6625,7 +6829,7 @@
         ],
         "name": "Paulina Hennig-Kloska",
         "phone_numbers": [
-            "(61) 424 44 37"
+            "614244437"
         ],
         "pos": "132.",
         "twitter_links": [
@@ -6645,7 +6849,7 @@
         "instagram_links": [],
         "name": "Teresa Ha\u0142as",
         "phone_numbers": [
-            "(82) 576 14 02"
+            "825761402"
         ],
         "pos": "128.",
         "twitter_links": []
@@ -6679,7 +6883,7 @@
         "instagram_links": [],
         "name": "Jerzy Hardie-Douglas",
         "phone_numbers": [
-            "666 566 035"
+            "666566035"
         ],
         "pos": "130.",
         "twitter_links": [
@@ -6700,7 +6904,7 @@
         "instagram_links": [],
         "name": "Agnieszka Hanajczyk",
         "phone_numbers": [
-            "504 238 898"
+            "504238898"
         ],
         "pos": "129.",
         "twitter_links": [
@@ -6722,7 +6926,7 @@
         ],
         "name": "Riad Haidar",
         "phone_numbers": [
-            "533 334 054"
+            "533334054"
         ],
         "pos": "127.",
         "twitter_links": [
@@ -6744,7 +6948,7 @@
         ],
         "name": "Tomasz G\u0142ogowski",
         "phone_numbers": [
-            "(32) 768 86 11"
+            "327688611"
         ],
         "pos": "105.",
         "twitter_links": [
@@ -6778,7 +6982,7 @@
         "instagram_links": [],
         "name": "Agnieszka G\u00f3rska",
         "phone_numbers": [
-            "502 837 658"
+            "502837658"
         ],
         "pos": "115.",
         "twitter_links": [
@@ -6798,7 +7002,7 @@
         "instagram_links": [],
         "name": "Marcin Gw\u00f3\u017ad\u017a",
         "phone_numbers": [
-            "607 835 861"
+            "607835861"
         ],
         "pos": "126.",
         "twitter_links": [
@@ -6818,7 +7022,7 @@
         "instagram_links": [],
         "name": "Kazimierz Gwiazdowski",
         "phone_numbers": [
-            "862 610 414"
+            "862610414"
         ],
         "pos": "125.",
         "twitter_links": [
@@ -6840,7 +7044,7 @@
         ],
         "name": "Andrzej Gut-Mostowy",
         "phone_numbers": [
-            "519 621 626"
+            "519621626"
         ],
         "pos": "124.",
         "twitter_links": [
@@ -6862,7 +7066,7 @@
         ],
         "name": "Marek Gr\u00f3barczyk",
         "phone_numbers": [
-            "660 807 995"
+            "660807995"
         ],
         "pos": "121.",
         "twitter_links": [
@@ -6884,8 +7088,8 @@
         ],
         "name": "Andrzej Grzyb",
         "phone_numbers": [
-            "(62) 732 07 57",
-            "724 620 555"
+            "627320757",
+            "724620555"
         ],
         "pos": "123.",
         "twitter_links": [
@@ -6905,7 +7109,7 @@
         "instagram_links": [],
         "name": "Rafa\u0142 Grupi\u0144ski",
         "phone_numbers": [
-            "797 586 627"
+            "797586627"
         ],
         "pos": "122.",
         "twitter_links": [
@@ -6927,7 +7131,7 @@
         ],
         "name": "Micha\u0142 Gramatyka",
         "phone_numbers": [
-            "730 030 172"
+            "730030172"
         ],
         "pos": "120.",
         "twitter_links": [
@@ -6949,7 +7153,7 @@
         ],
         "name": "Jan Grabiec",
         "phone_numbers": [
-            "(22) 766 25 33"
+            "227662533"
         ],
         "pos": "119.",
         "twitter_links": [
@@ -6968,7 +7172,7 @@
         "instagram_links": [],
         "name": "Krzysztof Grabczuk",
         "phone_numbers": [
-            "798 981 305"
+            "798981305"
         ],
         "pos": "118.",
         "twitter_links": [
@@ -7005,8 +7209,8 @@
         "instagram_links": [],
         "name": "Kazimierz Go\u0142ojuch",
         "phone_numbers": [
-            "(17) 225 44 13",
-            "516 045 052"
+            "172254413",
+            "516045052"
         ],
         "pos": "108.",
         "twitter_links": []
@@ -7024,7 +7228,7 @@
         "instagram_links": [],
         "name": "Jaros\u0142aw Gowin",
         "phone_numbers": [
-            "(12) 423 48 67"
+            "124234867"
         ],
         "pos": "114.",
         "twitter_links": [
@@ -7047,7 +7251,7 @@
         ],
         "name": "Ma\u0142gorzata Gosiewska",
         "phone_numbers": [
-            "(22) 620 28 58"
+            "226202858"
         ],
         "pos": "113.",
         "twitter_links": [
@@ -7068,12 +7272,12 @@
         ],
         "name": "Daria Gosek-Popio\u0142ek",
         "phone_numbers": [
-            "506 770 170"
+            "506770170"
         ],
         "pos": "112.",
         "twitter_links": [
             "dgpopiolek",
-            "dgpopiolek?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+            "dgpopiolek"
         ]
     },
     {
@@ -7090,7 +7294,7 @@
         ],
         "name": "Mariusz Gosek",
         "phone_numbers": [
-            "799 261 099"
+            "799261099"
         ],
         "pos": "111.",
         "twitter_links": [
@@ -7112,7 +7316,7 @@
         ],
         "name": "Robert Gontarz",
         "phone_numbers": [
-            "(55) 641 58 99"
+            "556415899"
         ],
         "pos": "110.",
         "twitter_links": [
@@ -7132,7 +7336,7 @@
         "instagram_links": [],
         "name": "Jaros\u0142aw Gonciarz",
         "phone_numbers": [
-            "(32) 332 64 04"
+            "323326404"
         ],
         "pos": "109.",
         "twitter_links": []
@@ -7152,7 +7356,7 @@
         ],
         "name": "Ma\u0142gorzata Goli\u0144ska",
         "phone_numbers": [
-            "883 101 117"
+            "883101117"
         ],
         "pos": "107.",
         "twitter_links": [
@@ -7175,7 +7379,7 @@
         ],
         "name": "Marta Golbik",
         "phone_numbers": [
-            "505 508 043"
+            "505508043"
         ],
         "pos": "106.",
         "twitter_links": [
@@ -7195,7 +7399,7 @@
         "instagram_links": [],
         "name": "Piotr Gli\u0144ski",
         "phone_numbers": [
-            "(42) 679 64 73"
+            "426796473"
         ],
         "pos": "104.",
         "twitter_links": [
@@ -7215,7 +7419,7 @@
         "instagram_links": [],
         "name": "Teresa Glenc",
         "phone_numbers": [
-            "(32) 415 30 25"
+            "324153025"
         ],
         "pos": "103.",
         "twitter_links": []
@@ -7232,8 +7436,8 @@
         "instagram_links": [],
         "name": "Szymon Gi\u017cy\u0144ski",
         "phone_numbers": [
-            "500 850 704",
-            "(34) 368 11 61"
+            "500850704",
+            "343681161"
         ],
         "pos": "102.",
         "twitter_links": [
@@ -7255,7 +7459,7 @@
         ],
         "name": "Zbigniew Girzy\u0144ski",
         "phone_numbers": [
-            "788 051 070"
+            "788051070"
         ],
         "pos": "101.",
         "twitter_links": [
@@ -7277,7 +7481,7 @@
         ],
         "name": "Hanna Gill-Pi\u0105tek",
         "phone_numbers": [
-            "732 879 988"
+            "732879988"
         ],
         "pos": "100.",
         "twitter_links": [
@@ -7299,7 +7503,7 @@
         ],
         "name": "Anna Gembicka",
         "phone_numbers": [
-            "(54) 233 11 73"
+            "542331173"
         ],
         "pos": "99.",
         "twitter_links": [
@@ -7321,7 +7525,7 @@
         ],
         "name": "El\u017cbieta Gelert",
         "phone_numbers": [
-            "662 895 640"
+            "662895640"
         ],
         "pos": "98.",
         "twitter_links": [
@@ -7343,7 +7547,7 @@
         ],
         "name": "Maciej Gdula",
         "phone_numbers": [
-            "722 322 137"
+            "722322137"
         ],
         "pos": "97.",
         "twitter_links": [
@@ -7363,7 +7567,7 @@
         "instagram_links": [],
         "name": "Grzegorz Ga\u017ca",
         "phone_numbers": [
-            "509 777 774"
+            "509777774"
         ],
         "pos": "96.",
         "twitter_links": [
@@ -7383,7 +7587,7 @@
         "instagram_links": [],
         "name": "Adam Gaw\u0119da",
         "phone_numbers": [
-            "(32) 307 43 27"
+            "323074327"
         ],
         "pos": "93.",
         "twitter_links": [
@@ -7403,7 +7607,7 @@
         "instagram_links": [],
         "name": "Andrzej Gawron",
         "phone_numbers": [
-            "664 505 799"
+            "664505799"
         ],
         "pos": "95.",
         "twitter_links": [
@@ -7425,7 +7629,7 @@
         ],
         "name": "Krzysztof Gawkowski",
         "phone_numbers": [
-            "575 139 309"
+            "575139309"
         ],
         "pos": "94.",
         "twitter_links": [
@@ -7446,11 +7650,11 @@
         ],
         "name": "Kamila Gasiuk-Pihowicz",
         "phone_numbers": [
-            "575 661 538"
+            "575661538"
         ],
         "pos": "92.",
         "twitter_links": [
-            "gasiuk_pihowicz?lang=pl"
+            "gasiuk_pihowicz"
         ]
     },
     {
@@ -7469,7 +7673,7 @@
         ],
         "name": "El\u017cbieta Gapi\u0144ska",
         "phone_numbers": [
-            "(24) 231 64 38"
+            "242316438"
         ],
         "pos": "91.",
         "twitter_links": [
@@ -7490,7 +7694,7 @@
         "instagram_links": [],
         "name": "Ryszard Galla",
         "phone_numbers": [
-            "(77) 454 44 66"
+            "774544466"
         ],
         "pos": "90.",
         "twitter_links": [
@@ -7510,11 +7714,33 @@
         "instagram_links": [],
         "name": "Leszek Galemba",
         "phone_numbers": [
-            "(48) 507 931 750"
+            "48507931750"
         ],
         "pos": "89.",
         "twitter_links": [
             "LGalemba"
+        ]
+    },
+    {
+        "club_long": "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",
+        "club_short": "KO",
+        "emails": [
+            "aleksandra.gajewska@sejm.pl",
+            "biuro@jasnezegajewska.pl"
+        ],
+        "facebook_links": [
+            "https://www.facebook.com/jasnezegajewska"
+        ],
+        "instagram_links": [
+            "https://www.instagram.com/jasnezegajewska/"
+        ],
+        "name": "Aleksandra Ma\u0142gorzata Gajewska",
+        "phone_numbers": [
+            "794255043"
+        ],
+        "pos": "87.",
+        "twitter_links": [
+            "AGajewska"
         ]
     },
     {
@@ -7541,28 +7767,6 @@
         "club_long": "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",
         "club_short": "KO",
         "emails": [
-            "aleksandra.gajewska@sejm.pl",
-            "biuro@jasnezegajewska.pl"
-        ],
-        "facebook_links": [
-            "https://www.facebook.com/jasnezegajewska"
-        ],
-        "instagram_links": [
-            "https://www.instagram.com/jasnezegajewska/"
-        ],
-        "name": "Aleksandra Ma\u0142gorzata Gajewska",
-        "phone_numbers": [
-            "794 255 043"
-        ],
-        "pos": "87.",
-        "twitter_links": [
-            "AGajewska"
-        ]
-    },
-    {
-        "club_long": "Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni",
-        "club_short": "KO",
-        "emails": [
             "krzysztof.gadowski@sejm.pl",
             "biuro@gadowski.pl"
         ],
@@ -7572,8 +7776,8 @@
         "instagram_links": [],
         "name": "Krzysztof Gadowski",
         "phone_numbers": [
-            "(32) 475 40 55",
-            "509 890 544"
+            "324754055",
+            "509890544"
         ],
         "pos": "86.",
         "twitter_links": [
@@ -7595,7 +7799,7 @@
         ],
         "name": "Konrad Frysztak",
         "phone_numbers": [
-            "(48) 368 37 98"
+            "483683798"
         ],
         "pos": "85.",
         "twitter_links": [
@@ -7617,9 +7821,9 @@
         ],
         "name": "Joanna Frydrych",
         "phone_numbers": [
-            "(13) 438 32 97",
-            "780 076 169",
-            "501 977 292"
+            "134383297",
+            "780076169",
+            "501977292"
         ],
         "pos": "84.",
         "twitter_links": [
@@ -7641,7 +7845,7 @@
         ],
         "name": "Rados\u0142aw Fogiel",
         "phone_numbers": [
-            "696 608 741"
+            "696608741"
         ],
         "pos": "83.",
         "twitter_links": [
@@ -7661,7 +7865,7 @@
         "instagram_links": [],
         "name": "Ewa Filipiak",
         "phone_numbers": [
-            "505 857 207"
+            "505857207"
         ],
         "pos": "82.",
         "twitter_links": [
@@ -7681,7 +7885,7 @@
         "instagram_links": [],
         "name": "Magdalena Filiks",
         "phone_numbers": [
-            "729 055 232"
+            "729055232"
         ],
         "pos": "81.",
         "twitter_links": [
@@ -7703,7 +7907,7 @@
         ],
         "name": "Monika Falej",
         "phone_numbers": [
-            "602 625 401"
+            "602625401"
         ],
         "pos": "80.",
         "twitter_links": [
@@ -7724,7 +7928,7 @@
         ],
         "name": "Joanna Fabisiak",
         "phone_numbers": [
-            "(22) 828 63 79"
+            "228286379"
         ],
         "pos": "79.",
         "twitter_links": [
@@ -7746,7 +7950,7 @@
         ],
         "name": "Jadwiga Emilewicz",
         "phone_numbers": [
-            "604 095 745"
+            "604095745"
         ],
         "pos": "78.",
         "twitter_links": [
@@ -7765,7 +7969,7 @@
         "instagram_links": [],
         "name": "Anna D\u0105browska-Banaszek",
         "phone_numbers": [
-            "519 322 285"
+            "519322285"
         ],
         "pos": "62.",
         "twitter_links": []
@@ -7785,7 +7989,7 @@
         ],
         "name": "Barbara Dziuk",
         "phone_numbers": [
-            "531 431 142"
+            "531431142"
         ],
         "pos": "77.",
         "twitter_links": [
@@ -7807,7 +8011,7 @@
         ],
         "name": "Waldy Dzikowski",
         "phone_numbers": [
-            "(61) 842 72 23"
+            "618427223"
         ],
         "pos": "76.",
         "twitter_links": [
@@ -7829,7 +8033,7 @@
         ],
         "name": "Agnieszka Dziemianowicz-B\u0105k",
         "phone_numbers": [
-            "698 814 154"
+            "698814154"
         ],
         "pos": "75.",
         "twitter_links": [
@@ -7850,7 +8054,7 @@
         "instagram_links": [],
         "name": "Jan Dziedziczak",
         "phone_numbers": [
-            "(65) 520 42 77"
+            "655204277"
         ],
         "pos": "74.",
         "twitter_links": []
@@ -7887,7 +8091,7 @@
         ],
         "name": "Marek Dyduch",
         "phone_numbers": [
-            "604 131 044"
+            "604131044"
         ],
         "pos": "72.",
         "twitter_links": [
@@ -7909,7 +8113,7 @@
         ],
         "name": "Micha\u0142 Dworczyk",
         "phone_numbers": [
-            "509 994 961"
+            "509994961"
         ],
         "pos": "71.",
         "twitter_links": [
@@ -7929,7 +8133,7 @@
         "instagram_links": [],
         "name": "Marcin Duszek",
         "phone_numbers": [
-            "530 002 303"
+            "530002303"
         ],
         "pos": "70.",
         "twitter_links": [
@@ -7949,7 +8153,7 @@
         "instagram_links": [],
         "name": "Jan Duda",
         "phone_numbers": [
-            "(18) 442 36 31"
+            "184423631"
         ],
         "pos": "69.",
         "twitter_links": []
@@ -7969,7 +8173,7 @@
         ],
         "name": "El\u017cbieta Duda",
         "phone_numbers": [
-            "510 438 924"
+            "510438924"
         ],
         "pos": "68.",
         "twitter_links": [
@@ -7990,7 +8194,7 @@
         "instagram_links": [],
         "name": "Przemys\u0142aw Drabek",
         "phone_numbers": [
-            "888 495 225"
+            "888495225"
         ],
         "pos": "67.",
         "twitter_links": [
@@ -8025,7 +8229,7 @@
         "instagram_links": [],
         "name": "Barbara Dolniak",
         "phone_numbers": [
-            "517 369 700"
+            "517369700"
         ],
         "pos": "65.",
         "twitter_links": []
@@ -8043,7 +8247,7 @@
         "instagram_links": [],
         "name": "Zbigniew Dolata",
         "phone_numbers": [
-            "(61) 424 26 69"
+            "614242669"
         ],
         "pos": "64.",
         "twitter_links": []
@@ -8060,7 +8264,7 @@
         "instagram_links": [],
         "name": "Leszek Dobrzy\u0144ski",
         "phone_numbers": [
-            "(91) 434 07 27"
+            "914340727"
         ],
         "pos": "63.",
         "twitter_links": [
@@ -8079,7 +8283,7 @@
         "instagram_links": [],
         "name": "Eugeniusz Czykwin",
         "phone_numbers": [
-            "530 069 968"
+            "530069968"
         ],
         "pos": "61.",
         "twitter_links": []
@@ -8097,7 +8301,7 @@
         "instagram_links": [],
         "name": "Katarzyna Czochara",
         "phone_numbers": [
-            "730 621 666"
+            "730621666"
         ],
         "pos": "60.",
         "twitter_links": []
@@ -8113,8 +8317,8 @@
         "instagram_links": [],
         "name": "Anita Czerwi\u0144ska",
         "phone_numbers": [
-            "533 363 651",
-            "(22) 299 70 21"
+            "533363651",
+            "222997021"
         ],
         "pos": "59.",
         "twitter_links": [
@@ -8134,7 +8338,7 @@
         "instagram_links": [],
         "name": "Zofia Czernow",
         "phone_numbers": [
-            "883 132 179"
+            "883132179"
         ],
         "pos": "58.",
         "twitter_links": [
@@ -8154,7 +8358,7 @@
         "instagram_links": [],
         "name": "Jacek Czerniak",
         "phone_numbers": [
-            "798 721 076"
+            "798721076"
         ],
         "pos": "57.",
         "twitter_links": [
@@ -8175,7 +8379,7 @@
         "instagram_links": [],
         "name": "W\u0142odzimierz Czarzasty",
         "phone_numbers": [
-            "888 494 924"
+            "888494924"
         ],
         "pos": "56.",
         "twitter_links": [
@@ -8196,7 +8400,7 @@
         "instagram_links": [],
         "name": "Arkadiusz Czartoryski",
         "phone_numbers": [
-            "(29) 766 50 17"
+            "297665017"
         ],
         "pos": "55.",
         "twitter_links": [
@@ -8219,7 +8423,7 @@
         ],
         "name": "Przemys\u0142aw Czarnek",
         "phone_numbers": [
-            "(81) 473 58 81"
+            "814735881"
         ],
         "pos": "54.",
         "twitter_links": [
@@ -8239,7 +8443,7 @@
         "instagram_links": [],
         "name": "Witold Czarnecki",
         "phone_numbers": [
-            "632 400 218"
+            "632400218"
         ],
         "pos": "53.",
         "twitter_links": [
@@ -8259,7 +8463,7 @@
         "instagram_links": [],
         "name": "Przemys\u0142aw Czarnecki",
         "phone_numbers": [
-            "513 396 983"
+            "513396983"
         ],
         "pos": "52.",
         "twitter_links": [
@@ -8279,7 +8483,7 @@
         "instagram_links": [],
         "name": "Krzysztof Czarnecki",
         "phone_numbers": [
-            "531 831 078"
+            "531831078"
         ],
         "pos": "51.",
         "twitter_links": []
@@ -8299,11 +8503,11 @@
         ],
         "name": "Adam Cyra\u0144ski",
         "phone_numbers": [
-            "(41) 200 00 00"
+            "412000000"
         ],
         "pos": "50.",
         "twitter_links": [
-            "adamcyranski?lang=pl"
+            "adamcyranski"
         ]
     },
     {
@@ -8321,7 +8525,7 @@
         ],
         "name": "Tadeusz Cyma\u0144ski",
         "phone_numbers": [
-            "691 030 715"
+            "691030715"
         ],
         "pos": "49.",
         "twitter_links": [
@@ -8344,7 +8548,7 @@
         ],
         "name": "Micha\u0142 Cie\u015blak",
         "phone_numbers": [
-            "(41) 376 60 32"
+            "413766032"
         ],
         "pos": "48.",
         "twitter_links": [
@@ -8365,7 +8569,7 @@
         "instagram_links": [],
         "name": "Janusz Cicho\u0144",
         "phone_numbers": [
-            "503 156 083"
+            "503156083"
         ],
         "pos": "47.",
         "twitter_links": [
@@ -8385,7 +8589,7 @@
         "instagram_links": [],
         "name": "Anna Cicholska",
         "phone_numbers": [
-            "664 364 918"
+            "664364918"
         ],
         "pos": "46.",
         "twitter_links": []
@@ -8402,7 +8606,7 @@
         "instagram_links": [],
         "name": "Tadeusz Chrzan",
         "phone_numbers": [
-            "(16) 624 63 01"
+            "166246301"
         ],
         "pos": "45.",
         "twitter_links": []
@@ -8422,7 +8626,7 @@
         ],
         "name": "Dominika Chorosi\u0144ska",
         "phone_numbers": [
-            "798 916 888"
+            "798916888"
         ],
         "pos": "44.",
         "twitter_links": [
@@ -8442,7 +8646,7 @@
         "instagram_links": [],
         "name": "Kazimierz Choma",
         "phone_numbers": [
-            "665 539 400"
+            "665539400"
         ],
         "pos": "43.",
         "twitter_links": []
@@ -8460,7 +8664,7 @@
         "instagram_links": [],
         "name": "Zbigniew Chmielowiec",
         "phone_numbers": [
-            "(17) 227 10 01"
+            "172271001"
         ],
         "pos": "42.",
         "twitter_links": []
@@ -8480,7 +8684,7 @@
         ],
         "name": "Ma\u0142gorzata Chmiel",
         "phone_numbers": [
-            "501 702 866"
+            "501702866"
         ],
         "pos": "41.",
         "twitter_links": [
@@ -8500,7 +8704,7 @@
         "instagram_links": [],
         "name": "Mariusz B\u0142aszczak",
         "phone_numbers": [
-            "660 385 834"
+            "660385834"
         ],
         "pos": "26.",
         "twitter_links": [
@@ -8520,7 +8724,7 @@
         "instagram_links": [],
         "name": "Dariusz B\u0105k",
         "phone_numbers": [
-            "(48) 363 02 30"
+            "483630230"
         ],
         "pos": "20.",
         "twitter_links": []
@@ -8540,8 +8744,8 @@
         ],
         "name": "Wies\u0142aw Bu\u017c",
         "phone_numbers": [
-            "(17) 853 73 50",
-            "606 399 511"
+            "178537350",
+            "606399511"
         ],
         "pos": "40.",
         "twitter_links": [
@@ -8562,7 +8766,7 @@
         ],
         "name": "Lidia Burzy\u0144ska",
         "phone_numbers": [
-            "(34) 322 40 23"
+            "343224023"
         ],
         "pos": "39.",
         "twitter_links": [
@@ -8581,7 +8785,7 @@
         "instagram_links": [],
         "name": "Stanis\u0142aw Bukowiec",
         "phone_numbers": [
-            "788 722 960"
+            "788722960"
         ],
         "pos": "38.",
         "twitter_links": [
@@ -8604,7 +8808,7 @@
         ],
         "name": "Borys Budka",
         "phone_numbers": [
-            "508 606 713"
+            "508606713"
         ],
         "pos": "37.",
         "twitter_links": [
@@ -8626,7 +8830,7 @@
         ],
         "name": "Waldemar Buda",
         "phone_numbers": [
-            "668 890 763"
+            "668890763"
         ],
         "pos": "36.",
         "twitter_links": [
@@ -8646,7 +8850,7 @@
         "instagram_links": [],
         "name": "Grzegorz Braun",
         "phone_numbers": [
-            "729 882 920"
+            "729882920"
         ],
         "pos": "35.",
         "twitter_links": [
@@ -8667,7 +8871,7 @@
         ],
         "name": "Krzysztof Bosak",
         "phone_numbers": [
-            "519 115 095"
+            "519115095"
         ],
         "pos": "34.",
         "twitter_links": [
@@ -8689,8 +8893,8 @@
         ],
         "name": "Bo\u017cena Borys-Szopa",
         "phone_numbers": [
-            "536 466 533",
-            "(32) 307 21 09"
+            "536466533",
+            "323072109"
         ],
         "pos": "33.",
         "twitter_links": [
@@ -8712,7 +8916,7 @@
         ],
         "name": "Piotr Borys",
         "phone_numbers": [
-            "570 801 918"
+            "570801918"
         ],
         "pos": "32.",
         "twitter_links": [
@@ -8734,7 +8938,7 @@
         ],
         "name": "Kamil Bortniczuk",
         "phone_numbers": [
-            "690 143 651"
+            "690143651"
         ],
         "pos": "31.",
         "twitter_links": [
@@ -8756,7 +8960,7 @@
         ],
         "name": "Joanna Borowiak",
         "phone_numbers": [
-            "603 122 315"
+            "603122315"
         ],
         "pos": "30.",
         "twitter_links": [
@@ -8778,7 +8982,7 @@
         ],
         "name": "Jerzy Borowczak",
         "phone_numbers": [
-            "518 455 405"
+            "518455405"
         ],
         "pos": "29.",
         "twitter_links": [
@@ -8820,7 +9024,7 @@
         ],
         "name": "Mateusz Bochenek",
         "phone_numbers": [
-            "(32) 607 16 39"
+            "326071639"
         ],
         "pos": "27.",
         "twitter_links": [
@@ -8839,7 +9043,7 @@
         "instagram_links": [],
         "name": "Marek Biernacki",
         "phone_numbers": [
-            "(58) 620 61 68"
+            "586206168"
         ],
         "pos": "25.",
         "twitter_links": []
@@ -8857,7 +9061,7 @@
         "instagram_links": [],
         "name": "Jerzy Bielecki",
         "phone_numbers": [
-            "(15) 873 94 07"
+            "158739407"
         ],
         "pos": "24.",
         "twitter_links": [
@@ -8879,7 +9083,7 @@
         ],
         "name": "Magdalena Biejat",
         "phone_numbers": [
-            "536 031 355"
+            "536031355"
         ],
         "pos": "23.",
         "twitter_links": [
@@ -8900,7 +9104,7 @@
         ],
         "name": "Konrad Berkowicz",
         "phone_numbers": [
-            "(12)  387 78 38"
+            "123877838"
         ],
         "pos": "22.",
         "twitter_links": [
@@ -8921,7 +9125,7 @@
         "instagram_links": [],
         "name": "Pawe\u0142 Bejda",
         "phone_numbers": [
-            "575 648 850"
+            "575648850"
         ],
         "pos": "21.",
         "twitter_links": [
@@ -8941,7 +9145,7 @@
         "instagram_links": [],
         "name": "Mieczys\u0142aw Kazimierz Baszko",
         "phone_numbers": [
-            "(85) 667 02 64"
+            "856670264"
         ],
         "pos": "19.",
         "twitter_links": [
@@ -8960,8 +9164,8 @@
         "instagram_links": [],
         "name": "Barbara Bartu\u015b",
         "phone_numbers": [
-            "(18) 352 01 13",
-            "666 016 999"
+            "183520113",
+            "666016999"
         ],
         "pos": "18.",
         "twitter_links": []
@@ -8997,7 +9201,7 @@
         "instagram_links": [],
         "name": "Ryszard Bartosik",
         "phone_numbers": [
-            "887 102 109"
+            "887102109"
         ],
         "pos": "16.",
         "twitter_links": [
@@ -9017,7 +9221,7 @@
         "instagram_links": [],
         "name": "Piotr Babinetz",
         "phone_numbers": [
-            "(13) 436 40 23"
+            "134364023"
         ],
         "pos": "15.",
         "twitter_links": [
@@ -9038,7 +9242,7 @@
         "instagram_links": [],
         "name": "Zbigniew Babalski",
         "phone_numbers": [
-            "(55) 641 58 99"
+            "556415899"
         ],
         "pos": "14.",
         "twitter_links": [
@@ -9059,7 +9263,7 @@
         "instagram_links": [],
         "name": "Tadeusz Aziewicz",
         "phone_numbers": [
-            "(58) 661 85 84"
+            "586618584"
         ],
         "pos": "13.",
         "twitter_links": [
@@ -9078,7 +9282,7 @@
         "instagram_links": [],
         "name": "Urszula Augustyn",
         "phone_numbers": [
-            "668 218 797"
+            "668218797"
         ],
         "pos": "12.",
         "twitter_links": [
@@ -9098,7 +9302,7 @@
         "instagram_links": [],
         "name": "Marek Ast",
         "phone_numbers": [
-            "(68) 323 07 70"
+            "683230770"
         ],
         "pos": "11.",
         "twitter_links": [
@@ -9117,7 +9321,7 @@
         "instagram_links": [],
         "name": "Iwona Arent",
         "phone_numbers": [
-            "(89) 527 96 26"
+            "895279626"
         ],
         "pos": "10.",
         "twitter_links": [
@@ -9137,12 +9341,12 @@
         "instagram_links": [],
         "name": "Jan Ardanowski",
         "phone_numbers": [
-            "(56) 686 28 08"
+            "566862808"
         ],
         "pos": "9.",
         "twitter_links": [
             "jkardanowski",
-            "jkardanowski?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+            "jkardanowski"
         ]
     },
     {
@@ -9161,7 +9365,7 @@
         ],
         "name": "Tomasz Ani\u015bko",
         "phone_numbers": [
-            "514 027 600"
+            "514027600"
         ],
         "pos": "8.",
         "twitter_links": [
@@ -9180,7 +9384,7 @@
         "instagram_links": [],
         "name": "Waldemar Andzel",
         "phone_numbers": [
-            "(32) 360 05 26"
+            "323600526"
         ],
         "pos": "7.",
         "twitter_links": [
@@ -9201,7 +9405,7 @@
         ],
         "name": "Adam Andruszkiewicz",
         "phone_numbers": [
-            "510 125 565"
+            "510125565"
         ],
         "pos": "6.",
         "twitter_links": [
@@ -9238,7 +9442,7 @@
         "instagram_links": [],
         "name": "Romuald Ajchler",
         "phone_numbers": [
-            "(67) 254 72 13"
+            "672547213"
         ],
         "pos": "4.",
         "twitter_links": []
@@ -9255,7 +9459,7 @@
         "instagram_links": [],
         "name": "Piotr Adamowicz",
         "phone_numbers": [
-            "517 426 537"
+            "517426537"
         ],
         "pos": "3.",
         "twitter_links": []
@@ -9273,7 +9477,7 @@
         "instagram_links": [],
         "name": "Rafa\u0142 Adamczyk",
         "phone_numbers": [
-            "797 279 236"
+            "797279236"
         ],
         "pos": "2.",
         "twitter_links": []
@@ -9291,7 +9495,7 @@
         "instagram_links": [],
         "name": "Andrzej Adamczyk",
         "phone_numbers": [
-            "(12) 257 90 32"
+            "122579032"
         ],
         "pos": "1.",
         "twitter_links": [

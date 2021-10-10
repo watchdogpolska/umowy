@@ -2,6 +2,21 @@ websites:
 - club_long: "Ko\u0142o Parlamentarne Polska 2050"
   club_short: Polska2050
   emails:
+  - tomasz.zimoch@sejm.pl
+  - tomasz.zimoch@sejm.gov.pl
+  - info@tomekzimoch.pl
+  facebook_links:
+  - https://pl-pl.facebook.com/TomaszZimochfanpage
+  instagram_links: []
+  name: Tomasz Zimoch
+  phone_numbers:
+  - '579975095'
+  pos: '452.'
+  twitter_links:
+  - tzimoch
+- club_long: "Ko\u0142o Parlamentarne Polska 2050"
+  club_short: Polska2050
+  emails:
   - miroslaw.suchon@sejm.pl
   - biuro@suchon.pl
   facebook_links:
@@ -10,7 +25,7 @@ websites:
   - https://www.instagram.com/p/CLHQoC2nM_h/
   name: "Miros\u0142aw Sucho\u0144"
   phone_numbers:
-  - 570 027 100
+  - '570027100'
   pos: '363.'
   twitter_links:
   - miroslawsuchon
@@ -25,10 +40,10 @@ websites:
   - https://www.instagram.com/joanna_mucha76/
   name: Joanna Mucha
   phone_numbers:
-  - 815 321 272
+  - '815321272'
   pos: '255.'
   twitter_links:
-  - joannamucha?lang=pl
+  - joannamucha
 - club_long: "Ko\u0142o Parlamentarne Polska 2050"
   club_short: Polska2050
   emails:
@@ -54,7 +69,7 @@ websites:
   - https://www.instagram.com/hennigkloska/
   name: Paulina Hennig-Kloska
   phone_numbers:
-  - (61) 424 44 37
+  - '614244437'
   pos: '132.'
   twitter_links:
   - hennigkloska
@@ -69,7 +84,7 @@ websites:
   - https://www.instagram.com/mgramat/
   name: "Micha\u0142 Gramatyka"
   phone_numbers:
-  - 730 030 172
+  - '730030172'
   pos: '120.'
   twitter_links:
   - McGramat
@@ -84,7 +99,7 @@ websites:
   - https://www.instagram.com/hannagillpiatek/
   name: "Hanna Gill-Pi\u0105tek"
   phone_numbers:
-  - 732 879 988
+  - '732879988'
   pos: '100.'
   twitter_links:
   - HannaGillPiatek

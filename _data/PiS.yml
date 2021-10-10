@@ -2,6 +2,22 @@ websites:
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
+  - jacek.zalek@sejm.pl
+  - jacekzalek@wp.pl
+  - biuroposelskie@jacekzalek.pl
+  facebook_links:
+  - https://www.facebook.com/jacekzalek
+  instagram_links:
+  - https://www.instagram.com/jacekzalek_official/?hl=pl
+  name: "Jacek \u017Balek"
+  phone_numbers:
+  - '858744287'
+  pos: '457.'
+  twitter_links:
+  - JacekZalek
+- club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
+  club_short: PiS
+  emails:
   - jacek.swiat@sejm.pl
   facebook_links:
   - https://www.facebook.com/jacek.swiat.9
@@ -10,7 +26,7 @@ websites:
   - https://www.instagram.com/jacekswiat/
   name: "Jacek \u015Awiat"
   phone_numbers:
-  - 534 249 116
+  - '534249116'
   pos: '390.'
   twitter_links:
   - jacekswiat
@@ -24,7 +40,7 @@ websites:
   instagram_links: []
   name: "Adam \u015Anie\u017Cek"
   phone_numbers:
-  - 782 659 971
+  - '782659971'
   pos: '389.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -37,7 +53,7 @@ websites:
   instagram_links: []
   name: "Janusz \u015Aniadek"
   phone_numbers:
-  - 512 731 418
+  - '512731418'
   pos: '388.'
   twitter_links:
   - januszsniadek
@@ -51,11 +67,53 @@ websites:
   instagram_links: []
   name: "Tomasz \u0141awniczak"
   phone_numbers:
-  - 783 331 335
-  - 539 065 668
+  - '783331335'
+  - '539065668'
   pos: '220.'
   twitter_links:
   - LawniczakTomek
+- club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
+  club_short: PiS
+  emails:
+  - ireneusz.zyska@sejm.pl
+  - biuro@ireneusz-zyska.pl
+  facebook_links:
+  - https://www.facebook.com/izyska
+  instagram_links:
+  - https://www.instagram.com/ireneusz_zyska/
+  name: Ireneusz Zyska
+  phone_numbers:
+  - '515194642'
+  pos: '456.'
+  twitter_links:
+  - ireneusz_zyska
+- club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
+  club_short: PiS
+  emails:
+  - wojciech.zubowski@sejm.pl
+  facebook_links:
+  - https://pl-pl.facebook.com/WojciechZubowskiPL
+  instagram_links: []
+  name: Wojciech Zubowski
+  phone_numbers:
+  - '768333886'
+  pos: '454.'
+  twitter_links:
+  - wzubowski
+- club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
+  club_short: PiS
+  emails:
+  - zbigniew.ziobro@sejm.pl
+  - ziobro.wlosowicz@gmail.com
+  facebook_links:
+  - https://www.facebook.com/ZiobroPL/
+  instagram_links: []
+  name: Zbigniew Ziobro
+  phone_numbers:
+  - '799261099'
+  pos: '453.'
+  twitter_links:
+  - ziobropl
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -66,8 +124,8 @@ websites:
   instagram_links: []
   name: "Tomasz Zieli\u0144ski"
   phone_numbers:
-  - 575 000 519
-  - (84) 543 22 22
+  - '575000519'
+  - '845432222'
   pos: '450.'
   twitter_links:
   - tzielinski1967
@@ -80,7 +138,7 @@ websites:
   instagram_links: []
   name: "Jaros\u0142aw Zieli\u0144ski"
   phone_numbers:
-  - (87) 566 55 48
+  - '875665548'
   pos: '449.'
   twitter_links:
   - zielinskijaro
@@ -94,7 +152,7 @@ websites:
   instagram_links: []
   name: "S\u0142awomir Zawi\u015Blak"
   phone_numbers:
-  - (84) 638 44 02
+  - '846384402'
   pos: '444.'
   twitter_links:
   - SlawZawislak
@@ -108,7 +166,7 @@ websites:
   instagram_links: []
   name: "Marek Zag\xF3rski"
   phone_numbers:
-  - 697 168 035
+  - '697168035'
   pos: '440.'
   twitter_links:
   - zagorskimarek
@@ -122,7 +180,7 @@ websites:
   instagram_links: []
   name: "Maciej W\u0105sik"
   phone_numbers:
-  - 881 521 870
+  - '881521870'
   pos: '418.'
   twitter_links:
   - WasikMaciej
@@ -136,7 +194,7 @@ websites:
   instagram_links: []
   name: "Micha\u0142 W\xF3jcik"
   phone_numbers:
-  - (32) 220 10 20
+  - '322201020'
   pos: '437.'
   twitter_links:
   - mwojcik_
@@ -151,7 +209,7 @@ websites:
   - https://www.instagram.com/bartlomiej.wroblewski.1975/
   name: "Bart\u0142omiej Wr\xF3blewski"
   phone_numbers:
-  - 537 536 194
+  - '537536194'
   pos: '438.'
   twitter_links:
   - BWroblewski
@@ -165,7 +223,7 @@ websites:
   instagram_links: []
   name: "Tadeusz Wo\u017Aniak"
   phone_numbers:
-  - (24) 253 78 71
+  - '242537871'
   pos: '436.'
   twitter_links:
   - wozniak_tadeusz
@@ -179,7 +237,7 @@ websites:
   instagram_links: []
   name: "Grzegorz Wo\u017Aniak"
   phone_numbers:
-  - (25) 740 42 18
+  - '257404218'
   pos: '435.'
   twitter_links:
   - poselwozniak
@@ -193,7 +251,7 @@ websites:
   - https://www.instagram.com/michalwos_official/
   name: "Micha\u0142 Wo\u015B"
   phone_numbers:
-  - 690 495 505
+  - '690495505'
   pos: '434.'
   twitter_links:
   - mwospl
@@ -208,7 +266,7 @@ websites:
   - https://www.instagram.com/wojtyszekagata/
   name: Agata Wojtyszek
   phone_numbers:
-  - 504 687 588
+  - '504687588'
   pos: '431.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -222,7 +280,7 @@ websites:
   instagram_links: []
   name: Grzegorz Wojciechowski
   phone_numbers:
-  - 504 614 232
+  - '504614232'
   pos: '430.'
   twitter_links:
   - grzegorzwojci16
@@ -236,10 +294,10 @@ websites:
   instagram_links: []
   name: "El\u017Cbieta Witek"
   phone_numbers:
-  - (76) 870 51 32
+  - '768705132'
   pos: '428.'
   twitter_links:
-  - elzbietawitek?lang=pl
+  - elzbietawitek
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -250,7 +308,7 @@ websites:
   instagram_links: []
   name: Patryk Wicher
   phone_numbers:
-  - 577 201 701
+  - '577201701'
   pos: '422.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -263,7 +321,7 @@ websites:
   instagram_links: []
   name: "Marek Weso\u0142y"
   phone_numbers:
-  - (32) 706 97 37
+  - '327069737'
   pos: '421.'
   twitter_links:
   - MarekWesoly
@@ -279,7 +337,7 @@ websites:
   instagram_links: []
   name: "Rafa\u0142 Weber"
   phone_numbers:
-  - 737 797 265
+  - '737797265'
   pos: '420.'
   twitter_links:
   - weberrafal
@@ -293,7 +351,7 @@ websites:
   instagram_links: []
   name: Piotr Wawrzyk
   phone_numbers:
-  - 573 207 559
+  - '573207559'
   pos: '417.'
   twitter_links:
   - Piotr_Wawrzyk
@@ -308,10 +366,10 @@ websites:
   - https://www.instagram.com/malgorzatawassermann/
   name: "Ma\u0142gorzata Wassermann"
   phone_numbers:
-  - 604 352 535
+  - '604352535'
   pos: '416.'
   twitter_links:
-  - wassermann_ma?lang=pl
+  - wassermann_ma
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -322,8 +380,8 @@ websites:
   instagram_links: []
   name: Jan Warzecha
   phone_numbers:
-  - (14) 683 38 33
-  - 602 300 713
+  - '146833833'
+  - '602300713'
   pos: '415.'
   twitter_links:
   - janwarzechapl
@@ -338,7 +396,7 @@ websites:
   - https://www.instagram.com/robertwarwas/
   name: Robert Warwas
   phone_numbers:
-  - 733 739 990
+  - '733739990'
   pos: '414.'
   twitter_links:
   - robert_warwas
@@ -352,7 +410,7 @@ websites:
   instagram_links: []
   name: Teresa Wargocka
   phone_numbers:
-  - 506 967 363
+  - '506967363'
   pos: '413.'
   twitter_links:
   - teresawargocka
@@ -368,7 +426,7 @@ websites:
   - https://www.instagram.com/marcinwarchol_rzeszow/
   name: "Marcin Warcho\u0142"
   phone_numbers:
-  - 692 969 004
+  - '692969004'
   pos: '412.'
   twitter_links:
   - marcinwarchol
@@ -382,7 +440,7 @@ websites:
   instagram_links: []
   name: "Piotr U\u015Bci\u0144ski"
   phone_numbers:
-  - 731 970 077
+  - '731970077'
   pos: '410.'
   twitter_links:
   - piotruscinski
@@ -397,7 +455,7 @@ websites:
   instagram_links: []
   name: Piotr Uruski
   phone_numbers:
-  - (13) 463 43 34
+  - '134634334'
   pos: '409.'
   twitter_links:
   - uruskipiotr
@@ -412,7 +470,7 @@ websites:
   - https://www.instagram.com/tulajew/
   name: "Sylwester Tu\u0142ajew"
   phone_numbers:
-  - (81) 307 77 97
+  - '813077797'
   pos: '403.'
   twitter_links:
   - tulajew
@@ -427,7 +485,7 @@ websites:
   - https://www.instagram.com/mariusz.trepka/
   name: Mariusz Trepka
   phone_numbers:
-  - 787 061 597
+  - '787061597'
   pos: '400.'
   twitter_links:
   - mariusztrepka
@@ -440,7 +498,7 @@ websites:
   instagram_links: []
   name: "W\u0142odzimierz Tomaszewski"
   phone_numbers:
-  - 697 740 312
+  - '697740312'
   pos: '395.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -453,7 +511,7 @@ websites:
   instagram_links: []
   name: Ryszard Terlecki
   phone_numbers:
-  - (12) 421 47 76
+  - '124214776'
   pos: '393.'
   twitter_links:
   - RyszardTerlecki
@@ -468,7 +526,7 @@ websites:
   - https://www.instagram.com/roberttelus/
   name: Robert Telus
   phone_numbers:
-  - (44) 646 15 88
+  - '446461588'
   pos: '392.'
   twitter_links:
   - RobertTelus
@@ -482,7 +540,7 @@ websites:
   instagram_links: []
   name: "Krzysztof Tch\xF3rzewski"
   phone_numbers:
-  - (25) 644 44 07
+  - '256444407'
   pos: '391.'
   twitter_links:
   - Tchorzewski_K
@@ -498,7 +556,7 @@ websites:
   instagram_links: []
   name: "Szymon Szynkowski vel S\u0119k"
   phone_numbers:
-  - 535 370 885
+  - '535370885'
   pos: '384.'
   twitter_links:
   - szsz_velsek
@@ -511,7 +569,7 @@ websites:
   instagram_links: []
   name: "Katarzyna S\xF3jka"
   phone_numbers:
-  - 691 101 020
+  - '691101020'
   pos: '357.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -524,7 +582,7 @@ websites:
   - https://www.instagram.com/poselszymanskaewa/
   name: "Ewa Szyma\u0144ska"
   phone_numbers:
-  - (76) 818 00 27
+  - '768180027'
   pos: '382.'
   twitter_links:
   - Ewaszymaska12
@@ -539,7 +597,7 @@ websites:
   - https://www.instagram.com/stanislawszwed/
   name: "Stanis\u0142aw Szwed"
   phone_numbers:
-  - (33) 821 71 62
+  - '338217162'
   pos: '381.'
   twitter_links:
   - stanislaw_szwed
@@ -565,7 +623,7 @@ websites:
   instagram_links: []
   name: Krzysztof Szulowski
   phone_numbers:
-  - (81) 888 12 60
+  - '818881260'
   pos: '378.'
   twitter_links:
   - KrzychSzulowski
@@ -578,7 +636,7 @@ websites:
   instagram_links: []
   name: Andrzej Szlachta
   phone_numbers:
-  - (17) 825 11 03
+  - '178251103'
   pos: '374.'
   twitter_links:
   - andrzejszlachta
@@ -592,10 +650,10 @@ websites:
   - https://www.instagram.com/szefernaker/
   name: "Pawe\u0142 Szefernaker"
   phone_numbers:
-  - 604 603 422
+  - '604603422'
   pos: '371.'
   twitter_links:
-  - szefernaker?lang=pl
+  - szefernaker
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -606,7 +664,7 @@ websites:
   - https://www.instagram.com/jozefaszczurekzelazko/
   name: "J\xF3zefa Szczurek-\u017Belazko"
   phone_numbers:
-  - (14) 686 32 03
+  - '146863203'
   pos: '370.'
   twitter_links:
   - szczurekzelazko
@@ -621,7 +679,7 @@ websites:
   - https://www.instagram.com/p/CGxmFJyFnuw/
   name: "Aleksandra Szczud\u0142o"
   phone_numbers:
-  - 532 607 127
+  - '532607127'
   pos: '369.'
   twitter_links:
   - szczudlo_a
@@ -646,7 +704,7 @@ websites:
   instagram_links: []
   name: Wojciech Szarama
   phone_numbers:
-  - 784 075 818
+  - '784075818'
   pos: '366.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -659,7 +717,7 @@ websites:
   instagram_links: []
   name: Marek Suski
   phone_numbers:
-  - (48) 362 50 32
+  - '483625032'
   pos: '364.'
   twitter_links:
   - mareksuski
@@ -673,7 +731,7 @@ websites:
   instagram_links: []
   name: "Beata Strza\u0142ka"
   phone_numbers:
-  - 517 216 245
+  - '517216245'
   pos: '362.'
   twitter_links:
   - StrzaBeata
@@ -689,7 +747,7 @@ websites:
   - https://www.instagram.com/d.stefaniuk/
   name: Dariusz Stefaniuk
   phone_numbers:
-  - (83) 343 36 77
+  - '833433677'
   pos: '360.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -703,7 +761,7 @@ websites:
   - https://www.instagram.com/p/ByapcLqlvqP/
   name: "Miros\u0142awa Stachowiak-R\xF3\u017Cecka"
   phone_numbers:
-  - 668 606 609
+  - '668606609'
   pos: '359.'
   twitter_links:
   - rozeckapl
@@ -718,7 +776,7 @@ websites:
   - https://www.instagram.com/p/B89cUz4hkec/
   name: Agnieszka Soin
   phone_numbers:
-  - 793 716 109
+  - '793716109'
   pos: '351.'
   twitter_links:
   - soinagnieszka
@@ -733,7 +791,7 @@ websites:
   - https://www.instagram.com/artur_sobon_pis/
   name: "Artur Sobo\u0144"
   phone_numbers:
-  - (81) 458 00 22
+  - '814580022'
   pos: '350.'
   twitter_links:
   - sobonartur
@@ -774,7 +832,7 @@ websites:
   - https://www.instagram.com/p/CMg1o1fsmJX/
   name: "S\u0142awomir Skwarek"
   phone_numbers:
-  - 881 739 855
+  - '881739855'
   pos: '346.'
   twitter_links:
   - SkwarekSlawomir
@@ -788,7 +846,7 @@ websites:
   instagram_links: []
   name: "Zdzis\u0142aw Sipiera"
   phone_numbers:
-  - 539 976 563
+  - '539976563'
   pos: '344.'
   twitter_links:
   - SipieraAw
@@ -803,7 +861,7 @@ websites:
   - https://www.instagram.com/p/B1yRPTmibzC/
   name: Anna  Siarkowska
   phone_numbers:
-  - 518 488 220
+  - '518488220'
   pos: '339.'
   twitter_links:
   - annasiarkowska
@@ -816,7 +874,7 @@ websites:
   instagram_links: []
   name: Edward Siarka
   phone_numbers:
-  - (18) 266 42 02
+  - '182664202'
   pos: '338.'
   twitter_links:
   - ESiarka
@@ -830,7 +888,7 @@ websites:
   instagram_links: []
   name: "Jaros\u0142aw Sellin"
   phone_numbers:
-  - (58) 661 23 33
+  - '586612333'
   pos: '336.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -843,7 +901,7 @@ websites:
   instagram_links: []
   name: "\u0141ukasz Schreiber"
   phone_numbers:
-  - 523 460 028
+  - '523460028'
   pos: '334.'
   twitter_links:
   - lukaszschreiber
@@ -857,7 +915,7 @@ websites:
   instagram_links: []
   name: Anna Schmidt
   phone_numbers:
-  - 790 606 656
+  - '790606656'
   pos: '333.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -870,7 +928,7 @@ websites:
   - https://www.instagram.com/jsasinoficjalnie/
   name: Jacek Sasin
   phone_numbers:
-  - (83) 343 36 77
+  - '833433677'
   pos: '329.'
   twitter_links:
   - sasinjacek
@@ -885,7 +943,7 @@ websites:
   instagram_links: []
   name: Piotr Sak
   phone_numbers:
-  - 883 960 100
+  - '883960100'
   pos: '327.'
   twitter_links:
   - piotrsak5
@@ -900,7 +958,7 @@ websites:
   - https://www.instagram.com/tomasz.rzymkowski/
   name: Tomasz Rzymkowski
   phone_numbers:
-  - 535 411 160
+  - '535411160'
   pos: '325.'
   twitter_links:
   - trzymkowski
@@ -914,7 +972,7 @@ websites:
   instagram_links: []
   name: "Pawe\u0142 Rychlik"
   phone_numbers:
-  - 665 660 166
+  - '665660166'
   pos: '322.'
   twitter_links:
   - rychlik_pawel
@@ -929,7 +987,7 @@ websites:
   instagram_links: []
   name: Urszula Rusecka
   phone_numbers:
-  - 572 981 700
+  - '572981700'
   pos: '318.'
   twitter_links:
   - urszularusecka
@@ -944,7 +1002,7 @@ websites:
   - https://www.instagram.com/p/B07395wIX7f/
   name: Zbigniew Rau
   phone_numbers:
-  - 789 196 056
+  - '789196056'
   pos: '314.'
   twitter_links:
   - RauZbigniew
@@ -959,8 +1017,8 @@ websites:
   instagram_links: []
   name: "El\u017Cbieta P\u0142onka"
   phone_numbers:
-  - 539 610 111
-  - 502 750 563
+  - '539610111'
+  - '502750563'
   pos: '300.'
   twitter_links:
   - Elbieta55585205
@@ -974,7 +1032,7 @@ websites:
   - https://www.instagram.com/kacperplazynski/
   name: "Kacper P\u0142a\u017Cy\u0144ski"
   phone_numbers:
-  - 691 355 040
+  - '691355040'
   pos: '299.'
   twitter_links:
   - KacperPlazynski
@@ -989,7 +1047,7 @@ websites:
   - https://www.instagram.com/grzegorzpuda/
   name: Grzegorz Puda
   phone_numbers:
-  - 504 930 563
+  - '504930563'
   pos: '312.'
   twitter_links:
   - grzegorzpuda
@@ -1015,7 +1073,7 @@ websites:
   - https://www.instagram.com/v_porowska/
   name: Violetta Porowska
   phone_numbers:
-  - 790 493 350
+  - '790493350'
   pos: '307.'
   twitter_links:
   - V_Porowska
@@ -1030,7 +1088,7 @@ websites:
   instagram_links: []
   name: Piotr Polak
   phone_numbers:
-  - 668 42 17 50
+  - '668421750'
   pos: '304.'
   twitter_links:
   - PolakTakiJakTy
@@ -1043,7 +1101,7 @@ websites:
   instagram_links: []
   name: Marek Polak
   phone_numbers:
-  - (33) 875 76 33
+  - '338757633'
   pos: '303.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1056,7 +1114,7 @@ websites:
   - https://www.instagram.com/jerzypolaczek/
   name: Jerzy Polaczek
   phone_numbers:
-  - (32) 287 15 08
+  - '322871508'
   pos: '302.'
   twitter_links:
   - jerzypolaczek
@@ -1069,7 +1127,7 @@ websites:
   instagram_links: []
   name: Szymon Pogoda
   phone_numbers:
-  - 575 547 881
+  - '575547881'
   pos: '301.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1082,7 +1140,7 @@ websites:
   - https://www.instagram.com/p/ByXuEZfnGMC/
   name: Dariusz Piontkowski
   phone_numbers:
-  - (85) 652 24 09
+  - '856522409'
   pos: '297.'
   twitter_links:
   - d_piontkowski
@@ -1097,7 +1155,7 @@ websites:
   instagram_links: []
   name: Anna Pieczarka
   phone_numbers:
-  - 695 858 584
+  - '695858584'
   pos: '295.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1110,7 +1168,7 @@ websites:
   instagram_links: []
   name: Grzegorz Piechowiak
   phone_numbers:
-  - 533 381 311
+  - '533381311'
   pos: '294.'
   twitter_links:
   - grzpiechowiak
@@ -1124,7 +1182,7 @@ websites:
   instagram_links: []
   name: "Boles\u0142aw Piecha"
   phone_numbers:
-  - (32) 421 21 34
+  - '324212134'
   pos: '292.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1137,7 +1195,7 @@ websites:
   instagram_links: []
   name: Jerzy Paul
   phone_numbers:
-  - 790 588 990
+  - '790588990'
   pos: '287.'
   twitter_links:
   - jerzy_paul
@@ -1150,8 +1208,8 @@ websites:
   instagram_links: []
   name: "Teresa Pamu\u0142a"
   phone_numbers:
-  - 508 370 297
-  - 508 248 279
+  - '508370297'
+  - '508248279'
   pos: '283.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1163,7 +1221,7 @@ websites:
   instagram_links: []
   name: Anna Paluch
   phone_numbers:
-  - (18) 266 27 53
+  - '182662753'
   pos: '282.'
   twitter_links:
   - annapaluchsejm
@@ -1189,7 +1247,7 @@ websites:
   - https://www.instagram.com/j.ozdoba/
   name: Jacek Ozdoba
   phone_numbers:
-  - 536 769 797
+  - '536769797'
   pos: '281.'
   twitter_links:
   - OzdobaJacek
@@ -1204,7 +1262,7 @@ websites:
   - https://www.instagram.com/p/CD6EZFHHg7-/
   name: Jacek Osuch
   phone_numbers:
-  - (32) 754 34 13
+  - '327543413'
   pos: '280.'
   twitter_links:
   - JacekOsuch2
@@ -1219,7 +1277,7 @@ websites:
   - https://www.instagram.com/posel_dariusz.olszewski/
   name: Dariusz Olszewski
   phone_numbers:
-  - 660 329 444
+  - '660329444'
   pos: '276.'
   twitter_links:
   - Dariusz51359220
@@ -1234,7 +1292,7 @@ websites:
   instagram_links: []
   name: Waldemar Olejniczak
   phone_numbers:
-  - 606 951 916
+  - '606951916'
   pos: '274.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1261,7 +1319,7 @@ websites:
   instagram_links: []
   name: Danuta Nowicka
   phone_numbers:
-  - 730 689 086
+  - '730689086'
   pos: '267.'
   twitter_links:
   - nowicka_danuta
@@ -1276,7 +1334,7 @@ websites:
   - https://www.instagram.com/piotr_muller/
   name: "Piotr M\xFCller"
   phone_numbers:
-  - 576 157 311
+  - '576157311'
   pos: '257.'
   twitter_links:
   - PiotrMuller
@@ -1291,7 +1349,7 @@ websites:
   - https://www.instagram.com/p/ySnb83zDTR/
   name: Wojciech Murdzek
   phone_numbers:
-  - 798 510 473
+  - '798510473'
   pos: '258.'
   twitter_links:
   - wmurdzek
@@ -1306,10 +1364,10 @@ websites:
   - https://www.instagram.com/mularczykarkadiusz/
   name: Arkadiusz Mularczyk
   phone_numbers:
-  - (18) 440 76 57
+  - '184407657'
   pos: '256.'
   twitter_links:
-  - arekmularczyk?lang=pl
+  - arekmularczyk
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -1320,7 +1378,7 @@ websites:
   instagram_links: []
   name: "Aleksander Mr\xF3wczy\u0144ski"
   phone_numbers:
-  - 886 170 018
+  - '886170018'
   pos: '253.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1333,8 +1391,8 @@ websites:
   instagram_links: []
   name: Kazimierz Moskal
   phone_numbers:
-  - (17) 22 27 057
-  - 508 316 865
+  - '172227057'
+  - '508316865'
   pos: '251.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1348,7 +1406,7 @@ websites:
   - https://www.instagram.com/jan.mosinski.posel.na.sejm.rp/
   name: "Jan Mosi\u0144ski"
   phone_numbers:
-  - 733 882 540
+  - '733882540'
   pos: '250.'
   twitter_links:
   - MosinskiJan
@@ -1363,10 +1421,10 @@ websites:
   - https://www.instagram.com/morawieckipl/
   name: Mateusz Morawiecki
   phone_numbers:
-  - 533 199 815
+  - '533199815'
   pos: '249.'
   twitter_links:
-  - MorawieckiM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - MorawieckiM
   - MorawieckiM
   - premierrp
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1380,7 +1438,7 @@ websites:
   - https://www.instagram.com/daniel.milewski/
   name: Daniel Milewski
   phone_numbers:
-  - 504 838 222
+  - '504838222'
   pos: '246.'
   twitter_links:
   - DanielMilewski
@@ -1394,7 +1452,7 @@ websites:
   instagram_links: []
   name: Anna Milczanowska
   phone_numbers:
-  - (44) 685 31 43
+  - '446853143'
   pos: '245.'
   twitter_links:
   - a_milczanowska
@@ -1409,7 +1467,7 @@ websites:
   - https://www.instagram.com/maciejmalecki74/
   name: "Maciej Ma\u0142ecki"
   phone_numbers:
-  - 533 553 241
+  - '533553241'
   pos: '232.'
   twitter_links:
   - malecki_m
@@ -1423,7 +1481,7 @@ websites:
   instagram_links: []
   name: "Jerzy Ma\u0142ecki"
   phone_numbers:
-  - 791 751 710
+  - '791751710'
   pos: '231.'
   twitter_links:
   - maleckijerzy
@@ -1437,8 +1495,8 @@ websites:
   instagram_links: []
   name: Kazimierz Matuszny
   phone_numbers:
-  - 780 169 580
-  - (33) 825 34 25
+  - '780169580'
+  - '338253425'
   pos: '240.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1451,7 +1509,7 @@ websites:
   instagram_links: []
   name: Marek Matuszewski
   phone_numbers:
-  - 513 158 411
+  - '513158411'
   pos: '239.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1464,7 +1522,7 @@ websites:
   - https://www.instagram.com/p/B3KplCNI42l/
   name: Grzegorz Matusiak
   phone_numbers:
-  - 883 114 914
+  - '883114914'
   pos: '238.'
   twitter_links:
   - GrzegorzMatusi1
@@ -1478,8 +1536,8 @@ websites:
   instagram_links: []
   name: Beata Mateusiak-Pielucha
   phone_numbers:
-  - 605 526 863
-  - (34) 393 55 16
+  - '605526863'
+  - '343935516'
   pos: '237.'
   twitter_links:
   - BeataPielucha
@@ -1493,7 +1551,7 @@ websites:
   instagram_links: []
   name: Jerzy Materna
   phone_numbers:
-  - (68) 320 24 62
+  - '683202462'
   pos: '236.'
   twitter_links:
   - jerzymaterna
@@ -1507,7 +1565,7 @@ websites:
   instagram_links: []
   name: "Gabriela Mas\u0142owska"
   phone_numbers:
-  - (81) 534 15 99
+  - '815341599'
   pos: '235.'
   twitter_links:
   - GabrielaMasows2
@@ -1521,7 +1579,7 @@ websites:
   - https://www.instagram.com/marlena.malag/
   name: "Marlena Mal\u0105g"
   phone_numbers:
-  - 783 331 335
+  - '783331335'
   pos: '228.'
   twitter_links:
   - marlenamalag
@@ -1534,7 +1592,7 @@ websites:
   instagram_links: []
   name: Ewa Malik
   phone_numbers:
-  - (32) 785 17 03
+  - '327851703'
   pos: '229.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1546,7 +1604,7 @@ websites:
   instagram_links: []
   name: Antoni Macierewicz
   phone_numbers:
-  - 793 101 123
+  - '793101123'
   pos: '226.'
   twitter_links:
   - Macierewicz_A
@@ -1561,7 +1619,7 @@ websites:
   - https://www.instagram.com/marzenamachalek/
   name: "Marzena Macha\u0142ek"
   phone_numbers:
-  - (75) 752 22 99
+  - '757522299'
   pos: '224.'
   twitter_links:
   - marzenamachalek
@@ -1575,8 +1633,8 @@ websites:
   instagram_links: []
   name: Grzegorz Lorek
   phone_numbers:
-  - 504 614 232
-  - 509 849 784
+  - '504614232'
+  - '509849784'
   pos: '217.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1590,7 +1648,7 @@ websites:
   - https://www.instagram.com/pawelisiecki/
   name: "Pawe\u0142 Lisiecki"
   phone_numbers:
-  - (22) 618 30 78
+  - '226183078'
   pos: '216.'
   twitter_links:
   - lisieckipawel
@@ -1605,7 +1663,7 @@ websites:
   - https://www.instagram.com/krzysztof_lipiec/
   name: Krzysztof Lipiec
   phone_numbers:
-  - (41) 275 31 09
+  - '412753109'
   pos: '215.'
   twitter_links:
   - krzysztoflipiec
@@ -1620,10 +1678,10 @@ websites:
   - https://www.instagram.com/joanna.lichocka/
   name: Joanna Lichocka
   phone_numbers:
-  - 575 312 466
+  - '575312466'
   pos: '214.'
   twitter_links:
-  - joannalichocka?lang=pl
+  - joannalichocka
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -1635,7 +1693,7 @@ websites:
   - https://www.instagram.com/posel_tomasz_latos/
   name: Tomasz Latos
   phone_numbers:
-  - (52) 322 48 48
+  - '523224848'
   pos: '210.'
   twitter_links:
   - latostomasz
@@ -1650,7 +1708,7 @@ websites:
   - https://www.instagram.com/kwitekm/
   name: Marek Kwitek
   phone_numbers:
-  - 884 747 400
+  - '884747400'
   pos: '208.'
   twitter_links:
   - KwitelMarek
@@ -1664,7 +1722,7 @@ websites:
   instagram_links: []
   name: "Anna Kwiecie\u0144"
   phone_numbers:
-  - 733 003 619
+  - '733003619'
   pos: '207.'
   twitter_links:
   - Anna1Kwiecien
@@ -1679,7 +1737,7 @@ websites:
   - https://www.instagram.com/kurzepajacek/
   name: "Jacek Kurz\u0119pa"
   phone_numbers:
-  - 731 339 133
+  - '731339133'
   pos: '205.'
   twitter_links:
   - JacekKurzepa
@@ -1693,7 +1751,7 @@ websites:
   instagram_links: []
   name: "W\u0142adys\u0142aw Kurowski"
   phone_numbers:
-  - (12) 272 11 01
+  - '122721101'
   pos: '203.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1704,7 +1762,7 @@ websites:
   instagram_links: []
   name: Maria Kurowska
   phone_numbers:
-  - 575 011 685
+  - '575011685'
   pos: '202.'
   twitter_links:
   - mskurowska
@@ -1719,7 +1777,7 @@ websites:
   - https://www.instagram.com/marek_kuchcinski/
   name: "Marek Kuchci\u0144ski"
   phone_numbers:
-  - (16) 678 49 19
+  - '166784919'
   pos: '198.'
   twitter_links:
   - marekkuchcinski
@@ -1732,7 +1790,7 @@ websites:
   instagram_links: []
   name: "Krzysztof Kub\xF3w"
   phone_numbers:
-  - (76) 845 99 88
+  - '768459988'
   pos: '196.'
   twitter_links:
   - kkubow
@@ -1746,7 +1804,7 @@ websites:
   instagram_links: []
   name: Marta Kubiak
   phone_numbers:
-  - 577 293 479
+  - '577293479'
   pos: '195.'
   twitter_links:
   - MartaKubiak8
@@ -1760,7 +1818,7 @@ websites:
   instagram_links: []
   name: "Piotr Kr\xF3l"
   phone_numbers:
-  - 795 839 866
+  - '795839866'
   pos: '188.'
   twitter_links:
   - krolpiotr1
@@ -1774,7 +1832,7 @@ websites:
   instagram_links: []
   name: Andrzej Kryj
   phone_numbers:
-  - (41) 266 52 59
+  - '412665259'
   pos: '192.'
   twitter_links:
   - andrzej_kryj
@@ -1788,10 +1846,10 @@ websites:
   instagram_links: []
   name: Anna Krupka
   phone_numbers:
-  - 608 045 712
+  - '608045712'
   pos: '190.'
   twitter_links:
-  - annamkrupka?lang=pl
+  - annamkrupka
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -1803,7 +1861,7 @@ websites:
   - https://www.instagram.com/leonardkrasulski/
   name: Leonard Krasulski
   phone_numbers:
-  - (55) 641 58 99
+  - '556415899'
   pos: '184.'
   twitter_links:
   - lkrasulski
@@ -1817,8 +1875,8 @@ websites:
   instagram_links: []
   name: "Wies\u0142aw Krajewski"
   phone_numbers:
-  - 731 230 350
-  - (14) 655 15 13
+  - '731230350'
+  - '146551513'
   pos: '183.'
   twitter_links:
   - krajewskiwies
@@ -1832,7 +1890,7 @@ websites:
   - https://www.instagram.com/krajewski_jarek/
   name: "Jaros\u0142aw Krajewski"
   phone_numbers:
-  - (22) 629 59 19
+  - '226295919'
   pos: '181.'
   twitter_links:
   - krajewskijarek
@@ -1845,8 +1903,8 @@ websites:
   instagram_links: []
   name: "Lech Ko\u0142akowski"
   phone_numbers:
-  - 503 015 149
-  - (86) 216 68 57
+  - '503015149'
+  - '862166857'
   pos: '162.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1859,7 +1917,7 @@ websites:
   instagram_links: []
   name: Krzysztof Kozik
   phone_numbers:
-  - 692 617 724
+  - '692617724'
   pos: '179.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1873,7 +1931,7 @@ websites:
   - https://www.instagram.com/ewakozanecka/
   name: Ewa Kozanecka
   phone_numbers:
-  - 577 123 452
+  - '577123452'
   pos: '178.'
   twitter_links:
   - ewa_kozanecka
@@ -1888,7 +1946,7 @@ websites:
   - https://www.instagram.com/p/BYSZ3g_jt6N/
   name: Bartosz Kownacki
   phone_numbers:
-  - 796 591 222
+  - '796591222'
   pos: '177.'
   twitter_links:
   - bartoszkownacki
@@ -1904,7 +1962,7 @@ websites:
   - https://www.instagram.com/januszkowalski_posel/
   name: Janusz Kowalski
   phone_numbers:
-  - (77) 547 18 46
+  - '775471846'
   pos: '176.'
   twitter_links:
   - JKowalski_posel
@@ -1918,7 +1976,7 @@ websites:
   instagram_links: []
   name: Henryk Kowalczyk
   phone_numbers:
-  - 504 252 633
+  - '504252633'
   pos: '175.'
   twitter_links:
   - minsrodowiska
@@ -1933,7 +1991,7 @@ websites:
   - https://www.instagram.com/andrzejkosztowniak/
   name: Andrzej Kosztowniak
   phone_numbers:
-  - 508 945 379
+  - '508945379'
   pos: '172.'
   twitter_links:
   - akosztowniak
@@ -1947,7 +2005,7 @@ websites:
   - https://www.instagram.com/p/BxxrTeHoN89/
   name: Wojciech Kossakowski
   phone_numbers:
-  - 399 286 177
+  - '399286177'
   pos: '170.'
   twitter_links:
   - kossakowskiwo
@@ -1962,7 +2020,7 @@ websites:
   - https://www.instagram.com/kaluzny_tata/
   name: "Mariusz Ka\u0142u\u017Cny"
   phone_numbers:
-  - 781 313 395
+  - '781313395'
   pos: '152.'
   twitter_links:
   - m_kaluzny
@@ -1975,7 +2033,7 @@ websites:
   instagram_links: []
   name: Fryderyk Kapinos
   phone_numbers:
-  - (17) 788 48 20
+  - '177884820'
   pos: '156.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -1989,7 +2047,7 @@ websites:
   instagram_links: []
   name: Jan Kanthak
   phone_numbers:
-  - 793 543 592
+  - '793543592'
   pos: '155.'
   twitter_links:
   - jankanthak
@@ -2001,7 +2059,7 @@ websites:
   instagram_links: []
   name: "Mariusz Kami\u0144ski"
   phone_numbers:
-  - (22) 629 17 33
+  - '226291733'
   pos: '154.'
   twitter_links:
   - MariuszKaminsk
@@ -2015,7 +2073,7 @@ websites:
   - https://www.instagram.com/kaletasebastian/
   name: Sebastian Kaleta
   phone_numbers:
-  - 504 140 944
+  - '504140944'
   pos: '151.'
   twitter_links:
   - sjkaleta
@@ -2030,7 +2088,7 @@ websites:
   instagram_links: []
   name: Piotr Kaleta
   phone_numbers:
-  - 508 444 829
+  - '508444829'
   pos: '150.'
   twitter_links:
   - piotr_kaleta_
@@ -2044,7 +2102,7 @@ websites:
   - https://www.instagram.com/jaroslaw.kaczynski_/
   name: "Jaros\u0142aw Kaczy\u0144ski"
   phone_numbers:
-  - (22) 622 91 55
+  - '226229155'
   pos: '149.'
   twitter_links:
   - jkaczynski_info
@@ -2059,8 +2117,8 @@ websites:
   instagram_links: []
   name: "Filip Kaczy\u0144ski"
   phone_numbers:
-  - (33) 400 04 40
-  - 608 332 374
+  - '334000440'
+  - '608332374'
   pos: '148.'
   twitter_links:
   - filipkaczynski
@@ -2075,7 +2133,7 @@ websites:
   - https://www.instagram.com/p/CNMjNjohzvf/
   name: Norbert Kaczmarczyk
   phone_numbers:
-  - 534 077 917
+  - '534077917'
   pos: '147.'
   twitter_links:
   - n_kaczmarczyk
@@ -2090,8 +2148,8 @@ websites:
   - https://www.instagram.com/maljanowska/
   name: "Ma\u0142gorzata Janowska"
   phone_numbers:
-  - 604 352 469
-  - 881 529 859
+  - '604352469'
+  - '881529859'
   pos: '142.'
   twitter_links:
   - janowskam
@@ -2106,7 +2164,7 @@ websites:
   instagram_links: []
   name: "Wies\u0142aw Janczyk"
   phone_numbers:
-  - (18) 337 11 69
+  - '183371169'
   pos: '141.'
   twitter_links:
   - janczykwieslaw
@@ -2120,7 +2178,7 @@ websites:
   instagram_links: []
   name: "Micha\u0142 Jach"
   phone_numbers:
-  - (91) 834 18 29
+  - '918341829'
   pos: '139.'
   twitter_links:
   - jachmicha
@@ -2148,10 +2206,10 @@ websites:
   - https://www.instagram.com/marcinhorala/
   name: "Marcin Hora\u0142a"
   phone_numbers:
-  - 500 744 560
+  - '500744560'
   pos: '136.'
   twitter_links:
-  - mhorala?lang=pl
+  - mhorala
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -2162,7 +2220,7 @@ websites:
   instagram_links: []
   name: Zbigniew Hoffmann
   phone_numbers:
-  - 664 298 072
+  - '664298072'
   pos: '134.'
   twitter_links:
   - zbhoffmann
@@ -2176,7 +2234,7 @@ websites:
   - https://www.instagram.com/czeslawhoc/
   name: "Czes\u0142aw Hoc"
   phone_numbers:
-  - (94) 352 29 67
+  - '943522967'
   pos: '133.'
   twitter_links:
   - czeslawhoc
@@ -2190,7 +2248,7 @@ websites:
   instagram_links: []
   name: "Teresa Ha\u0142as"
   phone_numbers:
-  - (82) 576 14 02
+  - '825761402'
   pos: '128.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2213,7 +2271,7 @@ websites:
   instagram_links: []
   name: "Agnieszka G\xF3rska"
   phone_numbers:
-  - 502 837 658
+  - '502837658'
   pos: '115.'
   twitter_links:
   - agniesz89867220
@@ -2227,7 +2285,7 @@ websites:
   instagram_links: []
   name: "Marcin Gw\xF3\u017Ad\u017A"
   phone_numbers:
-  - 607 835 861
+  - '607835861'
   pos: '126.'
   twitter_links:
   - MarcinGwozdz_PL
@@ -2241,7 +2299,7 @@ websites:
   instagram_links: []
   name: Kazimierz Gwiazdowski
   phone_numbers:
-  - 862 610 414
+  - '862610414'
   pos: '125.'
   twitter_links:
   - Kaz_Gwiazdowski
@@ -2256,7 +2314,7 @@ websites:
   - https://www.instagram.com/andrzejgutmostowy/
   name: Andrzej Gut-Mostowy
   phone_numbers:
-  - 519 621 626
+  - '519621626'
   pos: '124.'
   twitter_links:
   - GutMostowy
@@ -2271,7 +2329,7 @@ websites:
   - https://www.instagram.com/marekgrobarczyk/
   name: "Marek Gr\xF3barczyk"
   phone_numbers:
-  - 660 807 995
+  - '660807995'
   pos: '121.'
   twitter_links:
   - marekgrobarczyk
@@ -2285,8 +2343,8 @@ websites:
   instagram_links: []
   name: "Kazimierz Go\u0142ojuch"
   phone_numbers:
-  - (17) 225 44 13
-  - 516 045 052
+  - '172254413'
+  - '516045052'
   pos: '108.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2301,7 +2359,7 @@ websites:
   - https://www.instagram.com/malgorzata_maria_gosiewska/
   name: "Ma\u0142gorzata Gosiewska"
   phone_numbers:
-  - (22) 620 28 58
+  - '226202858'
   pos: '113.'
   twitter_links:
   - mmgosiewska
@@ -2315,7 +2373,7 @@ websites:
   - https://www.instagram.com/mariuszgosek_pl/
   name: Mariusz Gosek
   phone_numbers:
-  - 799 261 099
+  - '799261099'
   pos: '111.'
   twitter_links:
   - MariuszGosek
@@ -2330,7 +2388,7 @@ websites:
   - https://www.instagram.com/robert.gontarz.7/
   name: Robert Gontarz
   phone_numbers:
-  - (55) 641 58 99
+  - '556415899'
   pos: '110.'
   twitter_links:
   - gontarz93
@@ -2344,7 +2402,7 @@ websites:
   instagram_links: []
   name: "Jaros\u0142aw Gonciarz"
   phone_numbers:
-  - (32) 332 64 04
+  - '323326404'
   pos: '109.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2358,7 +2416,7 @@ websites:
   - https://www.instagram.com/mgolinska/
   name: "Ma\u0142gorzata Goli\u0144ska"
   phone_numbers:
-  - 883 101 117
+  - '883101117'
   pos: '107.'
   twitter_links:
   - ma_golinska
@@ -2372,7 +2430,7 @@ websites:
   instagram_links: []
   name: "Piotr Gli\u0144ski"
   phone_numbers:
-  - (42) 679 64 73
+  - '426796473'
   pos: '104.'
   twitter_links:
   - piotrglinski
@@ -2386,7 +2444,7 @@ websites:
   instagram_links: []
   name: Teresa Glenc
   phone_numbers:
-  - (32) 415 30 25
+  - '324153025'
   pos: '103.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2398,8 +2456,8 @@ websites:
   instagram_links: []
   name: "Szymon Gi\u017Cy\u0144ski"
   phone_numbers:
-  - 500 850 704
-  - (34) 368 11 61
+  - '500850704'
+  - '343681161'
   pos: '102.'
   twitter_links:
   - szymongizynski
@@ -2414,7 +2472,7 @@ websites:
   - https://www.instagram.com/anna.gembicka/
   name: Anna Gembicka
   phone_numbers:
-  - (54) 233 11 73
+  - '542331173'
   pos: '99.'
   twitter_links:
   - AnnaGembicka
@@ -2428,7 +2486,7 @@ websites:
   instagram_links: []
   name: "Grzegorz Ga\u017Ca"
   phone_numbers:
-  - 509 777 774
+  - '509777774'
   pos: '96.'
   twitter_links:
   - GazaGrzegorz
@@ -2442,7 +2500,7 @@ websites:
   instagram_links: []
   name: "Adam Gaw\u0119da"
   phone_numbers:
-  - (32) 307 43 27
+  - '323074327'
   pos: '93.'
   twitter_links:
   - AdamGaweda
@@ -2456,7 +2514,7 @@ websites:
   instagram_links: []
   name: Andrzej Gawron
   phone_numbers:
-  - 664 505 799
+  - '664505799'
   pos: '95.'
   twitter_links:
   - AndrzejGawron
@@ -2470,7 +2528,7 @@ websites:
   instagram_links: []
   name: Leszek Galemba
   phone_numbers:
-  - (48) 507 931 750
+  - '48507931750'
   pos: '89.'
   twitter_links:
   - LGalemba
@@ -2485,7 +2543,7 @@ websites:
   - https://www.instagram.com/radoslawfogiel/
   name: "Rados\u0142aw Fogiel"
   phone_numbers:
-  - 696 608 741
+  - '696608741'
   pos: '83.'
   twitter_links:
   - radekfogiel
@@ -2499,7 +2557,7 @@ websites:
   instagram_links: []
   name: Ewa Filipiak
   phone_numbers:
-  - 505 857 207
+  - '505857207'
   pos: '82.'
   twitter_links:
   - EwaFilipiak
@@ -2514,7 +2572,7 @@ websites:
   - https://www.instagram.com/jemilewicz/
   name: Jadwiga Emilewicz
   phone_numbers:
-  - 604 095 745
+  - '604095745'
   pos: '78.'
   twitter_links:
   - jemilewicz
@@ -2527,7 +2585,7 @@ websites:
   instagram_links: []
   name: "Anna D\u0105browska-Banaszek"
   phone_numbers:
-  - 519 322 285
+  - '519322285'
   pos: '62.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2541,7 +2599,7 @@ websites:
   - https://www.instagram.com/barbaradziuk/
   name: Barbara Dziuk
   phone_numbers:
-  - 531 431 142
+  - '531431142'
   pos: '77.'
   twitter_links:
   - barbara_dziuk
@@ -2556,7 +2614,7 @@ websites:
   instagram_links: []
   name: Jan Dziedziczak
   phone_numbers:
-  - (65) 520 42 77
+  - '655204277'
   pos: '74.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2570,7 +2628,7 @@ websites:
   - https://www.instagram.com/michaldworczykpl/
   name: "Micha\u0142 Dworczyk"
   phone_numbers:
-  - 509 994 961
+  - '509994961'
   pos: '71.'
   twitter_links:
   - michaldworczyk
@@ -2584,7 +2642,7 @@ websites:
   instagram_links: []
   name: Marcin Duszek
   phone_numbers:
-  - 530 002 303
+  - '530002303'
   pos: '70.'
   twitter_links:
   - marcin_duszek
@@ -2598,7 +2656,7 @@ websites:
   instagram_links: []
   name: Jan Duda
   phone_numbers:
-  - (18) 442 36 31
+  - '184423631'
   pos: '69.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2612,7 +2670,7 @@ websites:
   - https://www.instagram.com/elzbieta.duda.984/
   name: "El\u017Cbieta Duda"
   phone_numbers:
-  - 510 438 924
+  - '510438924'
   pos: '68.'
   twitter_links:
   - elzbieta_duda
@@ -2627,7 +2685,7 @@ websites:
   instagram_links: []
   name: "Przemys\u0142aw Drabek"
   phone_numbers:
-  - 888 495 225
+  - '888495225'
   pos: '67.'
   twitter_links:
   - DrabekBB
@@ -2652,7 +2710,7 @@ websites:
   instagram_links: []
   name: Zbigniew Dolata
   phone_numbers:
-  - (61) 424 26 69
+  - '614242669'
   pos: '64.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2664,7 +2722,7 @@ websites:
   instagram_links: []
   name: "Leszek Dobrzy\u0144ski"
   phone_numbers:
-  - (91) 434 07 27
+  - '914340727'
   pos: '63.'
   twitter_links:
   - l_dobrzynski
@@ -2678,7 +2736,7 @@ websites:
   instagram_links: []
   name: Katarzyna Czochara
   phone_numbers:
-  - 730 621 666
+  - '730621666'
   pos: '60.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2690,8 +2748,8 @@ websites:
   instagram_links: []
   name: "Anita Czerwi\u0144ska"
   phone_numbers:
-  - 533 363 651
-  - (22) 299 70 21
+  - '533363651'
+  - '222997021'
   pos: '59.'
   twitter_links:
   - RzecznikPiS
@@ -2706,7 +2764,7 @@ websites:
   instagram_links: []
   name: Arkadiusz Czartoryski
   phone_numbers:
-  - (29) 766 50 17
+  - '297665017'
   pos: '55.'
   twitter_links:
   - a_czartoryski
@@ -2722,7 +2780,7 @@ websites:
   - https://www.instagram.com/przemyslawczarnek/
   name: "Przemys\u0142aw Czarnek"
   phone_numbers:
-  - (81) 473 58 81
+  - '814735881'
   pos: '54.'
   twitter_links:
   - CzarnekP
@@ -2736,7 +2794,7 @@ websites:
   instagram_links: []
   name: Witold Czarnecki
   phone_numbers:
-  - 632 400 218
+  - '632400218'
   pos: '53.'
   twitter_links:
   - CzarneckiWIT0LD
@@ -2750,7 +2808,7 @@ websites:
   instagram_links: []
   name: "Przemys\u0142aw Czarnecki"
   phone_numbers:
-  - 513 396 983
+  - '513396983'
   pos: '52.'
   twitter_links:
   - prz_czarnecki
@@ -2764,7 +2822,7 @@ websites:
   instagram_links: []
   name: Krzysztof Czarnecki
   phone_numbers:
-  - 531 831 078
+  - '531831078'
   pos: '51.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2778,7 +2836,7 @@ websites:
   - https://www.instagram.com/cymanskipl/
   name: "Tadeusz Cyma\u0144ski"
   phone_numbers:
-  - 691 030 715
+  - '691030715'
   pos: '49.'
   twitter_links:
   - cymanskitadeusz
@@ -2794,7 +2852,7 @@ websites:
   - https://www.instagram.com/minister_cieslak.pl/
   name: "Micha\u0142 Cie\u015Blak"
   phone_numbers:
-  - (41) 376 60 32
+  - '413766032'
   pos: '48.'
   twitter_links:
   - cieslak_mich
@@ -2808,7 +2866,7 @@ websites:
   instagram_links: []
   name: Anna Cicholska
   phone_numbers:
-  - 664 364 918
+  - '664364918'
   pos: '46.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2820,7 +2878,7 @@ websites:
   instagram_links: []
   name: Tadeusz Chrzan
   phone_numbers:
-  - (16) 624 63 01
+  - '166246301'
   pos: '45.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2834,7 +2892,7 @@ websites:
   - https://www.instagram.com/dominikachorosinska/
   name: "Dominika Chorosi\u0144ska"
   phone_numbers:
-  - 798 916 888
+  - '798916888'
   pos: '44.'
   twitter_links:
   - chorosinska
@@ -2848,7 +2906,7 @@ websites:
   instagram_links: []
   name: Kazimierz Choma
   phone_numbers:
-  - 665 539 400
+  - '665539400'
   pos: '43.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2861,7 +2919,7 @@ websites:
   instagram_links: []
   name: Zbigniew Chmielowiec
   phone_numbers:
-  - (17) 227 10 01
+  - '172271001'
   pos: '42.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2874,7 +2932,7 @@ websites:
   instagram_links: []
   name: "Mariusz B\u0142aszczak"
   phone_numbers:
-  - 660 385 834
+  - '660385834'
   pos: '26.'
   twitter_links:
   - mblaszczak
@@ -2888,7 +2946,7 @@ websites:
   instagram_links: []
   name: "Dariusz B\u0105k"
   phone_numbers:
-  - (48) 363 02 30
+  - '483630230'
   pos: '20.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -2901,7 +2959,7 @@ websites:
   - https://www.instagram.com/lidiaburzynska/
   name: "Lidia Burzy\u0144ska"
   phone_numbers:
-  - (34) 322 40 23
+  - '343224023'
   pos: '39.'
   twitter_links:
   - BurzynskaLidia
@@ -2916,7 +2974,7 @@ websites:
   - https://www.instagram.com/waldemarbuda/
   name: Waldemar Buda
   phone_numbers:
-  - 668 890 763
+  - '668890763'
   pos: '36.'
   twitter_links:
   - waldemar_buda
@@ -2931,8 +2989,8 @@ websites:
   - https://www.instagram.com/szboz/?hl=pl
   name: "Bo\u017Cena Borys-Szopa"
   phone_numbers:
-  - 536 466 533
-  - (32) 307 21 09
+  - '536466533'
+  - '323072109'
   pos: '33.'
   twitter_links:
   - BorysSzopa
@@ -2947,7 +3005,7 @@ websites:
   - https://www.instagram.com/kamilbortniczuk/
   name: Kamil Bortniczuk
   phone_numbers:
-  - 690 143 651
+  - '690143651'
   pos: '31.'
   twitter_links:
   - KamilBortniczuk
@@ -2962,7 +3020,7 @@ websites:
   - https://www.instagram.com/joanna_borowiak/
   name: Joanna Borowiak
   phone_numbers:
-  - 603 122 315
+  - '603122315'
   pos: '30.'
   twitter_links:
   - borowiakjoanna
@@ -2990,7 +3048,7 @@ websites:
   instagram_links: []
   name: Jerzy Bielecki
   phone_numbers:
-  - (15) 873 94 07
+  - '158739407'
   pos: '24.'
   twitter_links:
   - JerzyBielecki2
@@ -3004,7 +3062,7 @@ websites:
   instagram_links: []
   name: "Mieczys\u0142aw Kazimierz Baszko"
   phone_numbers:
-  - (85) 667 02 64
+  - '856670264'
   pos: '19.'
   twitter_links:
   - baszkobaszko
@@ -3017,8 +3075,8 @@ websites:
   instagram_links: []
   name: "Barbara Bartu\u015B"
   phone_numbers:
-  - (18) 352 01 13
-  - 666 016 999
+  - '183520113'
+  - '666016999'
   pos: '18.'
   twitter_links: []
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
@@ -3030,7 +3088,7 @@ websites:
   instagram_links: []
   name: Ryszard Bartosik
   phone_numbers:
-  - 887 102 109
+  - '887102109'
   pos: '16.'
   twitter_links:
   - bartosikryszard
@@ -3044,7 +3102,7 @@ websites:
   instagram_links: []
   name: Piotr Babinetz
   phone_numbers:
-  - (13) 436 40 23
+  - '134364023'
   pos: '15.'
   twitter_links:
   - PiotrBabinetz
@@ -3059,7 +3117,7 @@ websites:
   instagram_links: []
   name: Zbigniew Babalski
   phone_numbers:
-  - (55) 641 58 99
+  - '556415899'
   pos: '14.'
   twitter_links:
   - ZBabalski
@@ -3073,7 +3131,7 @@ websites:
   instagram_links: []
   name: Marek Ast
   phone_numbers:
-  - (68) 323 07 70
+  - '683230770'
   pos: '11.'
   twitter_links:
   - marek_ast
@@ -3086,7 +3144,7 @@ websites:
   instagram_links: []
   name: Iwona Arent
   phone_numbers:
-  - (89) 527 96 26
+  - '895279626'
   pos: '10.'
   twitter_links:
   - iwonaarent
@@ -3100,11 +3158,11 @@ websites:
   instagram_links: []
   name: Jan Ardanowski
   phone_numbers:
-  - (56) 686 28 08
+  - '566862808'
   pos: '9.'
   twitter_links:
   - jkardanowski
-  - jkardanowski?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  - jkardanowski
 - club_long: "Klub Parlamentarny Prawo i Sprawiedliwo\u015B\u0107"
   club_short: PiS
   emails:
@@ -3114,7 +3172,7 @@ websites:
   instagram_links: []
   name: Waldemar Andzel
   phone_numbers:
-  - (32) 360 05 26
+  - '323600526'
   pos: '7.'
   twitter_links:
   - AndzelWaldemar
@@ -3128,7 +3186,7 @@ websites:
   - https://www.instagram.com/adamandruszkiewiczpl/
   name: Adam Andruszkiewicz
   phone_numbers:
-  - 510 125 565
+  - '510125565'
   pos: '6.'
   twitter_links:
   - andruszkiewicz1
@@ -3142,7 +3200,7 @@ websites:
   instagram_links: []
   name: Andrzej Adamczyk
   phone_numbers:
-  - (12) 257 90 32
+  - '122579032'
   pos: '1.'
   twitter_links:
   - amadamczyk
