@@ -1,13 +1,12 @@
 permalink: pretty
 markdown: kramdown
 
-title: Dwa składniki w Polsce
+title: Centralny rejestr umów
 author: Josh Davis &amp; Adam Dobrawy
 description:
-    Lista stron z obsługą dwóch składników uwierzytelniania, czyli wiadomości SMS, e-mail,
-     rozmowy telefoniczne, sprzętowe i programowe tokeny.
-url: https://dwa-skladniki.pl
-repo: https://github.com/ad-m/dwa-skladniki
+    Przekonaj swojego posła lub posłankę do poparcia realnej przejrzystości wydatków publicznych.
+url: https://umowy.siecobywatelska.pl
+repo: https://github.com/watchdogpolska/umowy
 img: img/logo.png
 
 exclude:
