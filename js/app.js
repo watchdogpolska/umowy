@@ -64,7 +64,7 @@ var jets = new Jets({
     }
   },
   manualContentHandling: function(tr) {
-    return $(tr).find('td:first a').text();
+    return $(tr).find('td:first .title').text();
   }
 });
 
