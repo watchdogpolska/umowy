@@ -1,4 +1,7 @@
 import json
+# import requests
+# from pathlib import Path
+# import re
 
 with open('fetch_poslowie_from_sejm_gov_pl.json') as fp:
     sejm_content = json.load(fp)
@@ -26,12 +29,22 @@ short_map = {
     'Poseł niezrzeszony': 'niez.',
 }
 
+# def safe_name(x):
+#     return re.sub('[^A-Za-z]', '_', x)
+
 for target_person in target_content:
-    sejm_person = find_person(target_person['name'])
+    name = target_person['name']
+    sejm_person = find_person(name)
     if sejm_person['partia']['Klub/koło:'] != target_person['club_long']:
-        print('missmatch club', target_person['name'], sejm_person['partia']['Klub/koło:'], '!=', target_person['club_long'])
+        print('missmatch club', name, sejm_person['partia']['Klub/koło:'], '!=', target_person['club_long'])
         target_person['club_long'] = sejm_person['partia']['Klub/koło:']
         target_person['club_short'] = short_map[target_person['club_long']]
+    # p = Path(f'img/{safe_name(name)}.jpg')
+    # if not p.exists():
+    #     print('Download img for', p)
+    #     p.write_bytes(requests.get(sejm_person['picute']).content)
+    # target_person['img'] = str(p)
+
 
 with open('fetch_merged.json', 'w') as fp:
     json.dump(target_content, fp, indent=4, sort_keys=True)

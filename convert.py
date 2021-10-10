@@ -30,5 +30,5 @@ for (club, persons) in groupby(sorted(x, key=lambda x:x['club_short']), lambda x
 with open('_data/sections.yml', 'w+') as fp:
     fp.write(yaml.dump(sorted(sections, reverse=True, key=lambda x: x['size'])))
 
-with open('fetch.json', 'w+') as fp:
+with open('fetch_merged.json', 'w+') as fp:
     fp.write(json.dumps(sorted(x, reverse=True, key=lambda x: " ".join(reverse(x['name'].split(" ")))), indent=4, sort_keys=True))
