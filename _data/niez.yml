@@ -1,6 +1,6 @@
 websites:
-- club_long: Niezrzeszony
-  club_short: niez.
+- club_long: "Pose\u0142 niezrzeszony"
+  club_short: niez
   emails:
   - pawel.zalewski@sejm.pl
   facebook_links:
@@ -11,8 +11,8 @@ websites:
   pos: '441.'
   twitter_links:
   - ZalewskiPawel
-- club_long: Niezrzeszony
-  club_short: niez.
+- club_long: "Pose\u0142 niezrzeszony"
+  club_short: niez
   emails:
   - lukasz.mejza@sejm.pl
   - lukasz.mejza@gmail.com
@@ -25,8 +25,8 @@ websites:
   pos: '242.'
   twitter_links:
   - lukaszmejza
-- club_long: Niezrzeszony
-  club_short: niez.
+- club_long: "Pose\u0142 niezrzeszony"
+  club_short: niez
   emails:
   - ryszard.galla@sejm.pl
   - biuro@ryszard-galla.pl
@@ -40,8 +40,8 @@ websites:
   pos: '90.'
   twitter_links:
   - ryszard_galla
-- club_long: Niezrzeszony
-  club_short: niez.
+- club_long: "Pose\u0142 niezrzeszony"
+  club_short: niez
   emails:
   - zbigniew.ajchler@sejm.pl
   facebook_links:

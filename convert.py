@@ -2,7 +2,8 @@ import json
 from itertools import groupby
 import yaml
 import re
-x = json.load(open('fetch.json'))
+
+x = json.load(open('fetch_merged.json'))
 
 sections = [];
 

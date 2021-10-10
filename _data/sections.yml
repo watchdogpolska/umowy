@@ -10,8 +10,8 @@
 - icon: users
   id: Lewica
   size: 47
-  title: Koalicyjny Klub Parlamentarny Lewicy (Razem, Sojusz Lewicy Demokratycznej,
-    Wiosna Roberta Biedronia)
+  title: Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna Roberta
+    Biedronia)
 - icon: users
   id: KP
   size: 24
@@ -39,4 +39,4 @@
 - icon: users
   id: niez
   size: 4
-  title: Niezrzeszony
+  title: "Pose\u0142 niezrzeszony"
