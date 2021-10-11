@@ -7,6 +7,7 @@ websites:
   - biuroposelskie@jacekzalek.pl
   facebook_links:
   - https://www.facebook.com/jacekzalek
+  gender: M
   instagram_links:
   - https://www.instagram.com/jacekzalek_official/?hl=pl
   name: "Jacek \u017Balek"
@@ -22,6 +23,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/jacek.swiat.9
   - https://www.facebook.com/JacekSwiat
+  gender: M
   instagram_links:
   - https://www.instagram.com/jacekswiat/
   name: "Jacek \u015Awiat"
@@ -37,6 +39,7 @@ websites:
   - biuroposelskie.adamsniezek@gmail.com
   facebook_links:
   - "https://www.facebook.com/Adam-\u015Anie\u017Cek-Pose\u0142-na-Sejm-RP-105728107455051"
+  gender: M
   instagram_links: []
   name: "Adam \u015Anie\u017Cek"
   phone_numbers:
@@ -50,6 +53,7 @@ websites:
   - kontakt@januszsniadek.info
   facebook_links:
   - https://www.facebook.com/janusz.sniadek.3/
+  gender: M
   instagram_links: []
   name: "Janusz \u015Aniadek"
   phone_numbers:
@@ -64,6 +68,7 @@ websites:
   - pis.ostrowwielkopolski@gmail.com
   facebook_links:
   - https://www.facebook.com/Tomasz-%C5%81awniczak-Pose%C5%82-na-Sejm-RP-1665540557027645/
+  gender: M
   instagram_links: []
   name: "Tomasz \u0141awniczak"
   phone_numbers:
@@ -79,6 +84,7 @@ websites:
   - biuro@ireneusz-zyska.pl
   facebook_links:
   - https://www.facebook.com/izyska
+  gender: M
   instagram_links:
   - https://www.instagram.com/ireneusz_zyska/
   name: Ireneusz Zyska
@@ -93,6 +99,7 @@ websites:
   - wojciech.zubowski@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/WojciechZubowskiPL
+  gender: M
   instagram_links: []
   name: Wojciech Zubowski
   phone_numbers:
@@ -107,6 +114,7 @@ websites:
   - ziobro.wlosowicz@gmail.com
   facebook_links:
   - https://www.facebook.com/ZiobroPL/
+  gender: M
   instagram_links: []
   name: Zbigniew Ziobro
   phone_numbers:
@@ -121,6 +129,7 @@ websites:
   - biuro.tzielinski@gmail.com
   facebook_links:
   - https://www.facebook.com/tomasz.zielinski.581525
+  gender: M
   instagram_links: []
   name: "Tomasz Zieli\u0144ski"
   phone_numbers:
@@ -135,6 +144,7 @@ websites:
   - jaroslaw.zielinski@sejm.pl
   facebook_links:
   - https://www.facebook.com/ZielinskiJaro/
+  gender: M
   instagram_links: []
   name: "Jaros\u0142aw Zieli\u0144ski"
   phone_numbers:
@@ -149,6 +159,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/poselzawislak
   - https://www.facebook.com/SlawomirZawislakPoselNaszejZiemi/
+  gender: M
   instagram_links: []
   name: "S\u0142awomir Zawi\u015Blak"
   phone_numbers:
@@ -163,6 +174,7 @@ websites:
   - justynapetkowska1982@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/marekzagorskipl/
+  gender: M
   instagram_links: []
   name: "Marek Zag\xF3rski"
   phone_numbers:
@@ -177,6 +189,7 @@ websites:
   - biuro.maciejwasik@wp.pl
   facebook_links:
   - https://www.facebook.com/WasikMaciej
+  gender: M
   instagram_links: []
   name: "Maciej W\u0105sik"
   phone_numbers:
@@ -191,6 +204,7 @@ websites:
   - biuro@michalwojcik.eu
   facebook_links:
   - https://www.facebook.com/MichalMarekWojcik/?ref=ts
+  gender: M
   instagram_links: []
   name: "Micha\u0142 W\xF3jcik"
   phone_numbers:
@@ -205,6 +219,7 @@ websites:
   - biuro@bartlomiejwroblewski.pl
   facebook_links:
   - https://www.facebook.com/wroblewski.bartlomiej
+  gender: M
   instagram_links:
   - https://www.instagram.com/bartlomiej.wroblewski.1975/
   name: "Bart\u0142omiej Wr\xF3blewski"
@@ -220,6 +235,7 @@ websites:
   - biuro@wozniaktadeusz.pl
   facebook_links:
   - https://www.facebook.com/Tadeusz-Wo%C5%BAniak-Pose%C5%82-na-Sejm-RP-437629353091694/
+  gender: M
   instagram_links: []
   name: "Tadeusz Wo\u017Aniak"
   phone_numbers:
@@ -234,6 +250,7 @@ websites:
   - biuro@grzegorzwozniak.pl
   facebook_links:
   - https://pl-pl.facebook.com/grzegorz.adam.wozniak
+  gender: M
   instagram_links: []
   name: "Grzegorz Wo\u017Aniak"
   phone_numbers:
@@ -247,6 +264,7 @@ websites:
   - michal.wos@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/mwosPL/
+  gender: M
   instagram_links:
   - https://www.instagram.com/michalwos_official/
   name: "Micha\u0142 Wo\u015B"
@@ -262,6 +280,7 @@ websites:
   - agatawoj@poczta.onet.pl
   facebook_links:
   - https://www.facebook.com/agata.wojtyszek/
+  gender: K
   instagram_links:
   - https://www.instagram.com/wojtyszekagata/
   name: Agata Wojtyszek
@@ -277,6 +296,7 @@ websites:
   - biurorawa19@gmail.com
   facebook_links:
   - https://www.facebook.com/grzegorzwojciechowskipis/
+  gender: M
   instagram_links: []
   name: Grzegorz Wojciechowski
   phone_numbers:
@@ -291,6 +311,7 @@ websites:
   - biuro.ew@wp.pl
   facebook_links:
   - https://www.facebook.com/EWitek.Sejm/
+  gender: K
   instagram_links: []
   name: "El\u017Cbieta Witek"
   phone_numbers:
@@ -305,6 +326,7 @@ websites:
   - biuro.patrykwicher@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/wicher.patryk/
+  gender: M
   instagram_links: []
   name: Patryk Wicher
   phone_numbers:
@@ -318,6 +340,7 @@ websites:
   - kontakt@marekwesoly.pl
   facebook_links:
   - https://www.facebook.com/MarekWesolyRudaSlaska/
+  gender: M
   instagram_links: []
   name: "Marek Weso\u0142y"
   phone_numbers:
@@ -334,6 +357,7 @@ websites:
   facebook_links:
   - https://pl-pl.facebook.com/RafalWebber
   - https://www.facebook.com/WeberRafal
+  gender: M
   instagram_links: []
   name: "Rafa\u0142 Weber"
   phone_numbers:
@@ -348,6 +372,7 @@ websites:
   - biuro.piotrwawrzyk@gmail.com
   facebook_links:
   - https://www.facebook.com/ministerPiotrWawrzyk/
+  gender: M
   instagram_links: []
   name: Piotr Wawrzyk
   phone_numbers:
@@ -362,6 +387,7 @@ websites:
   - biuro@mwassermann.pl
   facebook_links:
   - https://www.facebook.com/malgorzata.wassermann/
+  gender: K
   instagram_links:
   - https://www.instagram.com/malgorzatawassermann/
   name: "Ma\u0142gorzata Wassermann"
@@ -377,6 +403,7 @@ websites:
   - biuro@janwarzecha.pl
   facebook_links:
   - https://www.facebook.com/poseljanwarzecha/
+  gender: M
   instagram_links: []
   name: Jan Warzecha
   phone_numbers:
@@ -392,6 +419,7 @@ websites:
   - biuro.dabrowagornicza@gmail.com
   facebook_links:
   - https://www.facebook.com/Robert-Warwas-127512757302217/
+  gender: M
   instagram_links:
   - https://www.instagram.com/robertwarwas/
   name: Robert Warwas
@@ -407,6 +435,7 @@ websites:
   - biuro@wargockateresa.pl
   facebook_links:
   - https://www.facebook.com/teresa.wargocka/timeline
+  gender: K
   instagram_links: []
   name: Teresa Wargocka
   phone_numbers:
@@ -422,6 +451,7 @@ websites:
   - biuro.mwarchol@gmail.com
   facebook_links:
   - https://www.facebook.com/warcholpl
+  gender: M
   instagram_links:
   - https://www.instagram.com/marcinwarchol_rzeszow/
   name: "Marcin Warcho\u0142"
@@ -437,6 +467,7 @@ websites:
   - biuro@uscinski.pl
   facebook_links:
   - https://www.facebook.com/PoselUscinski
+  gender: M
   instagram_links: []
   name: "Piotr U\u015Bci\u0144ski"
   phone_numbers:
@@ -452,6 +483,7 @@ websites:
   - biuro.poselpiotruruski@gmail.com
   facebook_links:
   - https://www.facebook.com/UruskiPiotr
+  gender: M
   instagram_links: []
   name: Piotr Uruski
   phone_numbers:
@@ -466,6 +498,7 @@ websites:
   - tulajew.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/tulajew
+  gender: M
   instagram_links:
   - https://www.instagram.com/tulajew/
   name: "Sylwester Tu\u0142ajew"
@@ -481,6 +514,7 @@ websites:
   - mariusztrepka.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/TrepkaMariusz
+  gender: M
   instagram_links:
   - https://www.instagram.com/mariusz.trepka/
   name: Mariusz Trepka
@@ -495,6 +529,7 @@ websites:
   - wlodzimierz.tomaszewski@sejm.pl
   facebook_links:
   - https://www.facebook.com/wlodzimierztomaszewskilodz
+  gender: M
   instagram_links: []
   name: "W\u0142odzimierz Tomaszewski"
   phone_numbers:
@@ -508,6 +543,7 @@ websites:
   - biuro@ryszardterlecki.pl
   facebook_links:
   - https://www.facebook.com/ryszardterlecki
+  gender: M
   instagram_links: []
   name: Ryszard Terlecki
   phone_numbers:
@@ -522,6 +558,7 @@ websites:
   - telusrobert.biuro@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/Robert-Telus-185496854843588/
+  gender: M
   instagram_links:
   - https://www.instagram.com/roberttelus/
   name: Robert Telus
@@ -537,6 +574,7 @@ websites:
   - biuro@tchorzewski.pl
   facebook_links:
   - https://www.facebook.com/Krzysztof-Tch%C3%B3rzewski-1619161438342114/
+  gender: M
   instagram_links: []
   name: "Krzysztof Tch\xF3rzewski"
   phone_numbers:
@@ -553,6 +591,7 @@ websites:
   - biuro@szynkowski.pl
   facebook_links:
   - https://www.facebook.com/szynkowskivelsek/
+  gender: M
   instagram_links: []
   name: "Szymon Szynkowski vel S\u0119k"
   phone_numbers:
@@ -566,6 +605,7 @@ websites:
   - katarzyna.sojka@sejm.pl
   facebook_links:
   - https://www.facebook.com/katarzyna.sojka.754
+  gender: K
   instagram_links: []
   name: "Katarzyna S\xF3jka"
   phone_numbers:
@@ -578,6 +618,7 @@ websites:
   - ewa.szymanska@sejm.pl
   facebook_links:
   - https://www.facebook.com/szymanskadosejmu/
+  gender: K
   instagram_links:
   - https://www.instagram.com/poselszymanskaewa/
   name: "Ewa Szyma\u0144ska"
@@ -593,6 +634,7 @@ websites:
   - stanislawszwed.biuro@onet.pl
   facebook_links:
   - https://www.facebook.com/people/Stanis%C5%82aw-Szwed/100002332155778
+  gender: M
   instagram_links:
   - https://www.instagram.com/stanislawszwed/
   name: "Stanis\u0142aw Szwed"
@@ -607,6 +649,7 @@ websites:
   - lukasz.szumowski@sejm.pl
   facebook_links:
   - "https://www.facebook.com/\u0141ukasz-Szumowski-641649399779234/"
+  gender: M
   instagram_links: []
   name: "\u0141ukasz Szumowski"
   phone_numbers: []
@@ -620,6 +663,7 @@ websites:
   - szulowskikrzysztof@gmail.com
   facebook_links:
   - https://www.facebook.com/prof.krzysztofszulowski/
+  gender: M
   instagram_links: []
   name: Krzysztof Szulowski
   phone_numbers:
@@ -633,6 +677,7 @@ websites:
   - andrzej.szlachta@sejm.pl
   facebook_links:
   - https://www.facebook.com/PoselAndrzejSzlachta
+  gender: M
   instagram_links: []
   name: Andrzej Szlachta
   phone_numbers:
@@ -646,6 +691,7 @@ websites:
   - pawel.szefernaker@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/szefernaker/
+  gender: M
   instagram_links:
   - https://www.instagram.com/szefernaker/
   name: "Pawe\u0142 Szefernaker"
@@ -660,6 +706,7 @@ websites:
   - jozefa.szczurek-zelazko@sejm.pl
   facebook_links:
   - https://www.facebook.com/J%C3%B3zefa-Szczurek-%C5%BBelazko-848634851899009/?fref=photo
+  gender: K
   instagram_links:
   - https://www.instagram.com/jozefaszczurekzelazko/
   name: "J\xF3zefa Szczurek-\u017Belazko"
@@ -675,6 +722,7 @@ websites:
   - szczudlo.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/ASzczudlo8
+  gender: K
   instagram_links:
   - https://www.instagram.com/p/CGxmFJyFnuw/
   name: "Aleksandra Szczud\u0142o"
@@ -689,6 +737,7 @@ websites:
   - artur.szalabawka@sejm.pl
   facebook_links:
   - https://www.facebook.com/arturszalabawka/
+  gender: M
   instagram_links: []
   name: "Artur Sza\u0142abawka"
   phone_numbers: []
@@ -701,6 +750,7 @@ websites:
   - wojciech.szarama@sejm.pl
   facebook_links:
   - "https://www.facebook.com/Wojciech-Szarama-Pose\u0142-na-Sejm-RP-110219780325217"
+  gender: M
   instagram_links: []
   name: Wojciech Szarama
   phone_numbers:
@@ -714,6 +764,7 @@ websites:
   - bpms@wp.pl
   facebook_links:
   - https://www.facebook.com/mwsuski/
+  gender: M
   instagram_links: []
   name: Marek Suski
   phone_numbers:
@@ -728,6 +779,7 @@ websites:
   - biuro.bstrzalka@gmail.com
   facebook_links:
   - https://www.facebook.com/beatastrzalkaPL
+  gender: K
   instagram_links: []
   name: "Beata Strza\u0142ka"
   phone_numbers:
@@ -743,6 +795,7 @@ websites:
   facebook_links:
   - https://pl-pl.facebook.com/darek.stefaniuk
   - https://www.facebook.com/stefaniukoficjalnie
+  gender: M
   instagram_links:
   - https://www.instagram.com/d.stefaniuk/
   name: Dariusz Stefaniuk
@@ -757,6 +810,7 @@ websites:
   - miroslawa.stachowiakrozecka@gmail.com
   facebook_links:
   - https://www.facebook.com/rozecka/
+  gender: K
   instagram_links:
   - https://www.instagram.com/p/ByapcLqlvqP/
   name: "Miros\u0142awa Stachowiak-R\xF3\u017Cecka"
@@ -772,6 +826,7 @@ websites:
   - biuro.soin@gmail.com
   facebook_links:
   - https://www.facebook.com/Agnieszka-SOIN-Radna-MSt-Warszawy-966671346710115/
+  gender: K
   instagram_links:
   - https://www.instagram.com/p/B89cUz4hkec/
   name: Agnieszka Soin
@@ -787,6 +842,7 @@ websites:
   - posel.sobon@gmail.com
   facebook_links:
   - https://www.facebook.com/sobonartur
+  gender: M
   instagram_links:
   - https://www.instagram.com/artur_sobon_pis/
   name: "Artur Sobo\u0144"
@@ -801,6 +857,7 @@ websites:
   - krzysztof.sobolewski@sejm.pl
   facebook_links:
   - https://www.facebook.com/KrzysztofSobolewskiPiS
+  gender: M
   instagram_links: []
   name: Krzysztof  Sobolewski
   phone_numbers: []
@@ -813,6 +870,7 @@ websites:
   - kazimierz.smolinski@sejm.pl
   facebook_links:
   - https://www.facebook.com/Kazimierz.Smolinski11
+  gender: M
   instagram_links:
   - https://www.instagram.com/kazimierz_smolinski/
   name: "Kazimierz Smoli\u0144ski"
@@ -828,6 +886,7 @@ websites:
   - posel.skwarek@gmail.com
   facebook_links:
   - https://www.facebook.com/SlawomirSkwarek/
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/CMg1o1fsmJX/
   name: "S\u0142awomir Skwarek"
@@ -843,6 +902,7 @@ websites:
   - biuro.poselskie@sipiera.com
   facebook_links:
   - https://www.facebook.com/zdzislawsipiera
+  gender: M
   instagram_links: []
   name: "Zdzis\u0142aw Sipiera"
   phone_numbers:
@@ -857,6 +917,7 @@ websites:
   - biuro.siarkowska@gmail.com
   facebook_links:
   - https://www.facebook.com/AnnaMariaSiarkowska/
+  gender: K
   instagram_links:
   - https://www.instagram.com/p/B1yRPTmibzC/
   name: Anna  Siarkowska
@@ -871,6 +932,7 @@ websites:
   - edward.siarka@sejm.pl
   facebook_links:
   - https://www.facebook.com/EdwardSiarka
+  gender: M
   instagram_links: []
   name: Edward Siarka
   phone_numbers:
@@ -885,6 +947,7 @@ websites:
   - biuro@sellin.pl
   facebook_links:
   - https://www.facebook.com/Jaros%C5%82aw-Sellin-oficjalna-strona-251126394921117/
+  gender: M
   instagram_links: []
   name: "Jaros\u0142aw Sellin"
   phone_numbers:
@@ -898,6 +961,7 @@ websites:
   - biuro.schreiber@wp.pl
   facebook_links:
   - https://www.facebook.com/poselschreiberlukasz
+  gender: M
   instagram_links: []
   name: "\u0141ukasz Schreiber"
   phone_numbers:
@@ -912,6 +976,7 @@ websites:
   - biuro_jaroslaw@annaschmidt.info
   facebook_links:
   - https://pl-pl.facebook.com/annaschmidt.info
+  gender: K
   instagram_links: []
   name: Anna Schmidt
   phone_numbers:
@@ -924,6 +989,7 @@ websites:
   - jacek.sasin@sejm.pl
   facebook_links:
   - https://www.facebook.com/jacek.sasin.1
+  gender: M
   instagram_links:
   - https://www.instagram.com/jsasinoficjalnie/
   name: Jacek Sasin
@@ -940,6 +1006,7 @@ websites:
   - adwokat@piotrsak.pl
   facebook_links:
   - https://www.facebook.com/6PiotrSAK/
+  gender: M
   instagram_links: []
   name: Piotr Sak
   phone_numbers:
@@ -954,6 +1021,7 @@ websites:
   - biuro@rzymkowski.pl
   facebook_links:
   - https://www.facebook.com/tomasz.rzymkowski/
+  gender: M
   instagram_links:
   - https://www.instagram.com/tomasz.rzymkowski/
   name: Tomasz Rzymkowski
@@ -969,6 +1037,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/people/Pawe%C5%82-Rychlik/100000784417563
   - https://www.facebook.com/rychlik2018/
+  gender: M
   instagram_links: []
   name: "Pawe\u0142 Rychlik"
   phone_numbers:
@@ -984,6 +1053,7 @@ websites:
   facebook_links:
   - https://pl-pl.facebook.com/u.rusecka
   - https://www.facebook.com/ruseckaurszula
+  gender: K
   instagram_links: []
   name: Urszula Rusecka
   phone_numbers:
@@ -998,6 +1068,7 @@ websites:
   - biurozbigniewrau@gmail.com
   facebook_links:
   - https://www.facebook.com/Zbigniew-Rau-1260589107386608/
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/B07395wIX7f/
   name: Zbigniew Rau
@@ -1014,6 +1085,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/people/El%C5%BCbieta-P%C5%82onka/100040889051841
   - https://www.facebook.com/elzbietaplonka1
+  gender: K
   instagram_links: []
   name: "El\u017Cbieta P\u0142onka"
   phone_numbers:
@@ -1028,6 +1100,7 @@ websites:
   - kacper.plazynski@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/KacperPlazynski
+  gender: M
   instagram_links:
   - https://www.instagram.com/kacperplazynski/
   name: "Kacper P\u0142a\u017Cy\u0144ski"
@@ -1043,6 +1116,7 @@ websites:
   - puda.sejm@gmail.com
   facebook_links:
   - https://www.facebook.com/Grzegorz-Puda-182641961933584/
+  gender: M
   instagram_links:
   - https://www.instagram.com/grzegorzpuda/
   name: Grzegorz Puda
@@ -1057,6 +1131,7 @@ websites:
   - marcin.porzucek@sejm.pl
   facebook_links:
   - https://www.facebook.com/posel.marcin.porzucek
+  gender: M
   instagram_links: []
   name: Marcin Porzucek
   phone_numbers: []
@@ -1069,6 +1144,7 @@ websites:
   - violetta.porowska@sejm.pl
   facebook_links:
   - https://www.facebook.com/violetta.porowska/
+  gender: K
   instagram_links:
   - https://www.instagram.com/v_porowska/
   name: Violetta Porowska
@@ -1085,6 +1161,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/piotr.polak1
   - https://www.facebook.com/PiotrPolakprofiloficjalny/
+  gender: M
   instagram_links: []
   name: Piotr Polak
   phone_numbers:
@@ -1098,6 +1175,7 @@ websites:
   - marek.polak@sejm.pl
   - biuroposelskie.markapolaka@wp.pl
   facebook_links: []
+  gender: M
   instagram_links: []
   name: Marek Polak
   phone_numbers:
@@ -1110,6 +1188,7 @@ websites:
   - jerzy.polaczek@sejm.pl
   facebook_links:
   - https://www.facebook.com/jerzy.polaczek
+  gender: M
   instagram_links:
   - https://www.instagram.com/jerzypolaczek/
   name: Jerzy Polaczek
@@ -1124,6 +1203,7 @@ websites:
   - szymon.pogoda@sejm.pl
   facebook_links:
   - "https://www.facebook.com/Szymon-Pogoda-pose\u0142-na-Sejm-RP-100624098605758"
+  gender: M
   instagram_links: []
   name: Szymon Pogoda
   phone_numbers:
@@ -1136,6 +1216,7 @@ websites:
   - dariusz.piontkowski@sejm.pl
   facebook_links:
   - https://www.facebook.com/DariuszPiontkowski?ref=hl
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/ByXuEZfnGMC/
   name: Dariusz Piontkowski
@@ -1152,6 +1233,7 @@ websites:
   - kontakt@annapieczarka.pl
   facebook_links:
   - https://www.facebook.com/AnnaPieczarkaPiS/
+  gender: K
   instagram_links: []
   name: Anna Pieczarka
   phone_numbers:
@@ -1165,6 +1247,7 @@ websites:
   - piechowiak.biuro@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/Grzegorz-Piechowiak-195591907176717/
+  gender: M
   instagram_links: []
   name: Grzegorz Piechowiak
   phone_numbers:
@@ -1179,6 +1262,7 @@ websites:
   - biuropiecha@gmail.com
   facebook_links:
   - https://www.facebook.com/boleslawpiechapis
+  gender: M
   instagram_links: []
   name: "Boles\u0142aw Piecha"
   phone_numbers:
@@ -1192,6 +1276,7 @@ websites:
   - biuro.jerzypaul@gmail.com
   facebook_links:
   - https://www.facebook.com/jerzy.stanislaw.paul
+  gender: M
   instagram_links: []
   name: Jerzy Paul
   phone_numbers:
@@ -1205,6 +1290,7 @@ websites:
   - teresa.pamula@sejm.pl
   facebook_links:
   - https://www.facebook.com/teresapamula/
+  gender: K
   instagram_links: []
   name: "Teresa Pamu\u0142a"
   phone_numbers:
@@ -1218,6 +1304,7 @@ websites:
   - anna.paluch@sejm.pl
   facebook_links:
   - https://www.facebook.com/Anna-Paluch-741818202517114/
+  gender: K
   instagram_links: []
   name: Anna Paluch
   phone_numbers:
@@ -1231,6 +1318,7 @@ websites:
   - adam.oldakowski@sejm.pl
   facebook_links:
   - https://www.facebook.com/profile.php?id=100009183925877&fref=ts
+  gender: M
   instagram_links: []
   name: "Adam O\u0142dakowski"
   phone_numbers: []
@@ -1243,6 +1331,7 @@ websites:
   - biuro.jacekozdoba@gmail.com
   facebook_links:
   - https://www.facebook.com/OzdobaJacek/
+  gender: M
   instagram_links:
   - https://www.instagram.com/j.ozdoba/
   name: Jacek Ozdoba
@@ -1258,6 +1347,7 @@ websites:
   - biuro.posla@op.pl
   facebook_links:
   - https://www.facebook.com/osuch.jacek
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/CD6EZFHHg7-/
   name: Jacek Osuch
@@ -1273,6 +1363,7 @@ websites:
   - kontakt@dariuszolszewski.com.pl
   facebook_links:
   - https://www.facebook.com/poselolszewski/
+  gender: M
   instagram_links:
   - https://www.instagram.com/posel_dariusz.olszewski/
   name: Dariusz Olszewski
@@ -1289,6 +1380,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/waldemar.olejniczak.39
   - https://www.facebook.com/WALDEMAR.RYSZARD.OLEJNICZAK/
+  gender: M
   instagram_links: []
   name: Waldemar Olejniczak
   phone_numbers:
@@ -1301,6 +1393,7 @@ websites:
   - marcin.ociepa@sejm.pl
   facebook_links:
   - https://www.facebook.com/Mar.Ociepa
+  gender: M
   instagram_links:
   - https://www.instagram.com/marcin.ociepa/
   name: Marcin Ociepa
@@ -1316,6 +1409,7 @@ websites:
   facebook_links:
   - https://pl-pl.facebook.com/danuta.nowicka.7583
   - https://www.facebook.com/BiuroPoselskieDanutaNowicka
+  gender: K
   instagram_links: []
   name: Danuta Nowicka
   phone_numbers:
@@ -1330,6 +1424,7 @@ websites:
   - biuro@piotrmuller.pl
   facebook_links:
   - https://www.facebook.com/piotr.muller
+  gender: M
   instagram_links:
   - https://www.instagram.com/piotr_muller/
   name: "Piotr M\xFCller"
@@ -1345,6 +1440,7 @@ websites:
   - biuroposelskiemurdzek@gmail.com
   facebook_links:
   - https://www.facebook.com/WojciechMurdzekPosel
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/ySnb83zDTR/
   name: Wojciech Murdzek
@@ -1360,6 +1456,7 @@ websites:
   - iwona.biuroposelskie@wp.pl
   facebook_links:
   - https://www.facebook.com/arkadiusz.mularczyk/
+  gender: M
   instagram_links:
   - https://www.instagram.com/mularczykarkadiusz/
   name: Arkadiusz Mularczyk
@@ -1375,6 +1472,7 @@ websites:
   - biuro@aleksandermrowczynski.org
   facebook_links:
   - https://www.facebook.com/Aleksander-Miko%C5%82aj-Mr%C3%B3wczy%C5%84ski-1977265332301070/?ref=br_rs
+  gender: M
   instagram_links: []
   name: "Aleksander Mr\xF3wczy\u0144ski"
   phone_numbers:
@@ -1388,6 +1486,7 @@ websites:
   - kontakt@kazimierz-moskal.pl
   facebook_links:
   - https://www.facebook.com/poselkazimierzmoskal/?hc_ref=ARQSmzXvYb3U3zaS0CQJreB-s8ZtrFnfIbXmBLoP830fXQinyjXqwx6vXm2ZO9aIW7c
+  gender: M
   instagram_links: []
   name: Kazimierz Moskal
   phone_numbers:
@@ -1402,6 +1501,7 @@ websites:
   - jan.mosinski.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/Jan-Mosi%C5%84ski-Pose%C5%82-na-Sejm-RP-1169306143085470/?fref=ts
+  gender: M
   instagram_links:
   - https://www.instagram.com/jan.mosinski.posel.na.sejm.rp/
   name: "Jan Mosi\u0144ski"
@@ -1417,6 +1517,7 @@ websites:
   - bpmm.warszawska23@gmail.com
   facebook_links:
   - https://www.facebook.com/MorawieckiPL
+  gender: M
   instagram_links:
   - https://www.instagram.com/morawieckipl/
   name: Mateusz Morawiecki
@@ -1434,6 +1535,7 @@ websites:
   - biuro@danielmilewski.pl
   facebook_links:
   - https://pl-pl.facebook.com/milewskidaniel/
+  gender: M
   instagram_links:
   - https://www.instagram.com/daniel.milewski/
   name: Daniel Milewski
@@ -1449,6 +1551,7 @@ websites:
   - biuroposelskieam@o2.pl
   facebook_links:
   - https://www.facebook.com/anna.milczanowska/?fref=ts
+  gender: K
   instagram_links: []
   name: Anna Milczanowska
   phone_numbers:
@@ -1463,6 +1566,7 @@ websites:
   - biuro@maciejmalecki.pl
   facebook_links:
   - https://www.facebook.com/malecki.maciej
+  gender: M
   instagram_links:
   - https://www.instagram.com/maciejmalecki74/
   name: "Maciej Ma\u0142ecki"
@@ -1478,6 +1582,7 @@ websites:
   - biuro@jerzymalecki.pl
   facebook_links:
   - https://www.facebook.com/Jerzy-Ma%C5%82ecki-pose%C5%82-na-Sejm-RP-908843085831093
+  gender: M
   instagram_links: []
   name: "Jerzy Ma\u0142ecki"
   phone_numbers:
@@ -1492,6 +1597,7 @@ websites:
   - kazimierzmatuszny.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/kazimierz.matuszny
+  gender: M
   instagram_links: []
   name: Kazimierz Matuszny
   phone_numbers:
@@ -1506,6 +1612,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/marek.matuszewski.94?fref=ts
   - https://www.facebook.com/Marek-Matuszewski-1418282305086650
+  gender: M
   instagram_links: []
   name: Marek Matuszewski
   phone_numbers:
@@ -1518,6 +1625,7 @@ websites:
   - grzegorz.matusiak@sejm.pl
   facebook_links:
   - https://www.facebook.com/Grzegorz-Matusiak-144128472334864
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/B3KplCNI42l/
   name: Grzegorz Matusiak
@@ -1533,6 +1641,7 @@ websites:
   - beata.mateusiak-pielucha@wp.pl
   facebook_links:
   - https://www.facebook.com/Mateusiak.Pielucha/
+  gender: K
   instagram_links: []
   name: Beata Mateusiak-Pielucha
   phone_numbers:
@@ -1548,6 +1657,7 @@ websites:
   - matbiur@wp.pl
   facebook_links:
   - https://pl-pl.facebook.com/JerzyMaterna/
+  gender: M
   instagram_links: []
   name: Jerzy Materna
   phone_numbers:
@@ -1562,6 +1672,7 @@ websites:
   - gab33@o2.pl
   facebook_links:
   - https://www.facebook.com/poselmaslowska
+  gender: K
   instagram_links: []
   name: "Gabriela Mas\u0142owska"
   phone_numbers:
@@ -1575,6 +1686,7 @@ websites:
   - marlena.malag@sejm.pl
   facebook_links:
   - https://www.facebook.com/MalagMarlena/
+  gender: K
   instagram_links:
   - https://www.instagram.com/marlena.malag/
   name: "Marlena Mal\u0105g"
@@ -1589,6 +1701,7 @@ websites:
   - ewa.malik@sejm.pl
   facebook_links:
   - https://www.facebook.com/Posel.Ewa.Malik/
+  gender: K
   instagram_links: []
   name: Ewa Malik
   phone_numbers:
@@ -1601,6 +1714,7 @@ websites:
   - antoni.macierewicz@sejm.pl
   facebook_links:
   - https://www.facebook.com/macierewiczantoni/
+  gender: M
   instagram_links: []
   name: Antoni Macierewicz
   phone_numbers:
@@ -1615,6 +1729,7 @@ websites:
   - marzena.machalek@gmail.com
   facebook_links:
   - https://www.facebook.com/MarzenaMachalekPL
+  gender: K
   instagram_links:
   - https://www.instagram.com/marzenamachalek/
   name: "Marzena Macha\u0142ek"
@@ -1630,6 +1745,7 @@ websites:
   - biuropiotrkow@interia.pl
   facebook_links:
   - https://pl-pl.facebook.com/galorek/
+  gender: M
   instagram_links: []
   name: Grzegorz Lorek
   phone_numbers:
@@ -1644,6 +1760,7 @@ websites:
   - biuro@lisieckipawel.pl
   facebook_links:
   - https://www.facebook.com/lisiecki.pawel
+  gender: M
   instagram_links:
   - https://www.instagram.com/pawelisiecki/
   name: "Pawe\u0142 Lisiecki"
@@ -1659,6 +1776,7 @@ websites:
   - listy@krzysztof-lipiec.pl
   facebook_links:
   - https://www.facebook.com/LipiecKrzysztof
+  gender: M
   instagram_links:
   - https://www.instagram.com/krzysztof_lipiec/
   name: Krzysztof Lipiec
@@ -1674,6 +1792,7 @@ websites:
   - lichocka.joanna.biuroposelskie@wp.pl
   facebook_links:
   - https://www.facebook.com/joanna.lichocka.9
+  gender: K
   instagram_links:
   - https://www.instagram.com/joanna.lichocka/
   name: Joanna Lichocka
@@ -1689,6 +1808,7 @@ websites:
   - biuro.latos@gmail.com
   facebook_links:
   - https://www.facebook.com/PoselTomaszLatos/
+  gender: M
   instagram_links:
   - https://www.instagram.com/posel_tomasz_latos/
   name: Tomasz Latos
@@ -1704,6 +1824,7 @@ websites:
   - marek44k@wp.pl
   facebook_links:
   - https://www.facebook.com/marek.kwitek.7
+  gender: M
   instagram_links:
   - https://www.instagram.com/kwitekm/
   name: Marek Kwitek
@@ -1719,6 +1840,7 @@ websites:
   - biuroposelskieak@gmail.com
   facebook_links:
   - https://www.facebook.com/Anna.Kwiecien.Radom/
+  gender: K
   instagram_links: []
   name: "Anna Kwiecie\u0144"
   phone_numbers:
@@ -1733,6 +1855,7 @@ websites:
   - biuro.kurzepa@interia.pl
   facebook_links:
   - https://www.facebook.com/Jacek-Kurz%C4%99pa-1974597242569033/
+  gender: M
   instagram_links:
   - https://www.instagram.com/kurzepajacek/
   name: "Jacek Kurz\u0119pa"
@@ -1748,6 +1871,7 @@ websites:
   - w.kurowski1@op.pl
   facebook_links:
   - https://www.facebook.com/KurowskiWladyslaw
+  gender: M
   instagram_links: []
   name: "W\u0142adys\u0142aw Kurowski"
   phone_numbers:
@@ -1759,6 +1883,7 @@ websites:
   emails:
   - maria.kurowska@sejm.pl
   facebook_links: []
+  gender: K
   instagram_links: []
   name: Maria Kurowska
   phone_numbers:
@@ -1773,6 +1898,7 @@ websites:
   - "biuro@marekkuchci\u0144ski.pl"
   facebook_links:
   - https://www.facebook.com/KuchcinskiMarek/
+  gender: M
   instagram_links:
   - https://www.instagram.com/marek_kuchcinski/
   name: "Marek Kuchci\u0144ski"
@@ -1787,6 +1913,7 @@ websites:
   - krzysztof.kubow@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/Krzysztof-Kub%C3%B3w-552661358110680/
+  gender: M
   instagram_links: []
   name: "Krzysztof Kub\xF3w"
   phone_numbers:
@@ -1801,6 +1928,7 @@ websites:
   - biuro@martakubiak.com.pl
   facebook_links:
   - https://www.facebook.com/MartaKubiakPosel
+  gender: K
   instagram_links: []
   name: Marta Kubiak
   phone_numbers:
@@ -1815,6 +1943,7 @@ websites:
   - biurkrola@outlook.com
   facebook_links:
   - https://www.facebook.com/PiotrKrol1974
+  gender: M
   instagram_links: []
   name: "Piotr Kr\xF3l"
   phone_numbers:
@@ -1829,6 +1958,7 @@ websites:
   - biurokryj@onet.pl
   facebook_links:
   - https://pl-pl.facebook.com/andrzej.kryj
+  gender: M
   instagram_links: []
   name: Andrzej Kryj
   phone_numbers:
@@ -1843,6 +1973,7 @@ websites:
   - krupka.kielce@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/Anna-Krupka-130727956973250/
+  gender: K
   instagram_links: []
   name: Anna Krupka
   phone_numbers:
@@ -1857,6 +1988,7 @@ websites:
   - biuro-elblag@wp.pl
   facebook_links:
   - https://www.facebook.com/Leonard-Krasulski-116027243106435/
+  gender: M
   instagram_links:
   - https://www.instagram.com/leonardkrasulski/
   name: Leonard Krasulski
@@ -1872,6 +2004,7 @@ websites:
   - biuro.poselskie@wkrajewski.pl
   facebook_links:
   - https://www.facebook.com/krajewski5/
+  gender: M
   instagram_links: []
   name: "Wies\u0142aw Krajewski"
   phone_numbers:
@@ -1886,6 +2019,7 @@ websites:
   - jaroslaw.krajewski@sejm.pl
   facebook_links:
   - https://www.facebook.com/wybierzKrajewskiego
+  gender: M
   instagram_links:
   - https://www.instagram.com/krajewski_jarek/
   name: "Jaros\u0142aw Krajewski"
@@ -1900,6 +2034,7 @@ websites:
   - lech.kolakowski@sejm.pl
   facebook_links:
   - https://www.facebook.com/Lech-Antoni-Ko%C5%82akowski-134161366915413/
+  gender: M
   instagram_links: []
   name: "Lech Ko\u0142akowski"
   phone_numbers:
@@ -1914,6 +2049,7 @@ websites:
   - biuro@krzysztofkozik.pl
   facebook_links:
   - https://www.facebook.com/KozikKrzysztof/
+  gender: M
   instagram_links: []
   name: Krzysztof Kozik
   phone_numbers:
@@ -1927,6 +2063,7 @@ websites:
   - biuro@ewakozanecka.pl
   facebook_links:
   - https://www.facebook.com/kozaneckaewa
+  gender: K
   instagram_links:
   - https://www.instagram.com/ewakozanecka/
   name: Ewa Kozanecka
@@ -1942,6 +2079,7 @@ websites:
   - bpkownacki@wp.pl
   facebook_links:
   - https://pl-pl.facebook.com/Bartosz-Kownacki-1435687536687711/
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/BYSZ3g_jt6N/
   name: Bartosz Kownacki
@@ -1958,6 +2096,7 @@ websites:
   - kontakt@januszkowalski.pl
   facebook_links:
   - https://www.facebook.com/JanuszKowalski.official
+  gender: M
   instagram_links:
   - https://www.instagram.com/januszkowalski_posel/
   name: Janusz Kowalski
@@ -1973,6 +2112,7 @@ websites:
   - apbiuro.pultusk@gmail.com
   facebook_links:
   - https://www.facebook.com/HenrykKowalczyk/
+  gender: M
   instagram_links: []
   name: Henryk Kowalczyk
   phone_numbers:
@@ -1987,6 +2127,7 @@ websites:
   - kontakt@kosztowniak.radom.pl
   facebook_links:
   - https://pl-pl.facebook.com/kosztowniak
+  gender: M
   instagram_links:
   - https://www.instagram.com/andrzejkosztowniak/
   name: Andrzej Kosztowniak
@@ -2001,6 +2142,7 @@ websites:
   - wojciech.kossakowski@sejm.pl
   facebook_links:
   - https://www.facebook.com/wojciech.kossakowski.14
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/BxxrTeHoN89/
   name: Wojciech Kossakowski
@@ -2016,6 +2158,7 @@ websites:
   - biuro.kaluzny@gmail.com
   facebook_links:
   - https://www.facebook.com/kaluznymariusz
+  gender: M
   instagram_links:
   - https://www.instagram.com/kaluzny_tata/
   name: "Mariusz Ka\u0142u\u017Cny"
@@ -2030,6 +2173,7 @@ websites:
   - fryderyk.kapinos@sejm.pl
   facebook_links:
   - https://www.facebook.com/Kapinos.Fryderyk/
+  gender: M
   instagram_links: []
   name: Fryderyk Kapinos
   phone_numbers:
@@ -2044,6 +2188,7 @@ websites:
   - jkanthak@jankanthak.pl
   facebook_links:
   - https://www.facebook.com/JanKanthakFanPage/
+  gender: M
   instagram_links: []
   name: Jan Kanthak
   phone_numbers:
@@ -2056,6 +2201,7 @@ websites:
   emails:
   - mariusz.kaminski@sejm.pl
   facebook_links: []
+  gender: M
   instagram_links: []
   name: "Mariusz Kami\u0144ski"
   phone_numbers:
@@ -2069,6 +2215,7 @@ websites:
   - sebastian.kaleta@sejm.pl
   facebook_links:
   - https://www.facebook.com/sjkaleta
+  gender: M
   instagram_links:
   - https://www.instagram.com/kaletasebastian/
   name: Sebastian Kaleta
@@ -2085,6 +2232,7 @@ websites:
   - kaleta.biuroposelskie@wp.pl
   facebook_links:
   - https://www.facebook.com/piotr.kaleta.pis/
+  gender: M
   instagram_links: []
   name: Piotr Kaleta
   phone_numbers:
@@ -2098,6 +2246,7 @@ websites:
   - jaroslaw.kaczynski@sejm.pl
   facebook_links:
   - https://www.facebook.com/jaroslawkaczynskiinfo-122757241083107/
+  gender: M
   instagram_links:
   - https://www.instagram.com/jaroslaw.kaczynski_/
   name: "Jaros\u0142aw Kaczy\u0144ski"
@@ -2114,6 +2263,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/filip.kaczynski.5
   - https://www.facebook.com/poselfilipkaczynski
+  gender: M
   instagram_links: []
   name: "Filip Kaczy\u0144ski"
   phone_numbers:
@@ -2129,6 +2279,7 @@ websites:
   - biuroposelskiekaczmarczyk@gmail.com
   facebook_links:
   - https://www.facebook.com/kaczmarczyknorbert/
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/CNMjNjohzvf/
   name: Norbert Kaczmarczyk
@@ -2144,6 +2295,7 @@ websites:
   - malgorzata.janowska.r@gmail.com
   facebook_links:
   - https://www.facebook.com/JanowskaMal/
+  gender: K
   instagram_links:
   - https://www.instagram.com/maljanowska/
   name: "Ma\u0142gorzata Janowska"
@@ -2161,6 +2313,7 @@ websites:
   - w@janczyk.pl
   facebook_links:
   - https://www.facebook.com/janczykwieslaw/
+  gender: M
   instagram_links: []
   name: "Wies\u0142aw Janczyk"
   phone_numbers:
@@ -2175,6 +2328,7 @@ websites:
   - biurodworcowa9a@wp.pl
   facebook_links:
   - https://www.facebook.com/profile.php?id=1666039842
+  gender: M
   instagram_links: []
   name: "Micha\u0142 Jach"
   phone_numbers:
@@ -2188,6 +2342,7 @@ websites:
   - pawel.hreniak@sejm.pl
   facebook_links:
   - "https://www.facebook.com/Pawe\u0142-Hreniak-Pose\u0142-na-Sejm-RP-106732970691262"
+  gender: M
   instagram_links: []
   name: "Pawe\u0142 Hreniak"
   phone_numbers: []
@@ -2202,6 +2357,7 @@ websites:
   - biuro@horala.pl
   facebook_links:
   - https://www.facebook.com/MarcinHorala
+  gender: M
   instagram_links:
   - https://www.instagram.com/marcinhorala/
   name: "Marcin Hora\u0142a"
@@ -2217,6 +2373,7 @@ websites:
   - biuro.zbigniewhoffmann@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/zb.hoffmann
+  gender: M
   instagram_links: []
   name: Zbigniew Hoffmann
   phone_numbers:
@@ -2230,6 +2387,7 @@ websites:
   - czeslaw.hoc@sejm.pl
   facebook_links:
   - https://www.facebook.com/czeslawhocprywatne
+  gender: M
   instagram_links:
   - https://www.instagram.com/czeslawhoc/
   name: "Czes\u0142aw Hoc"
@@ -2245,6 +2403,7 @@ websites:
   - teresa.halas@op.pl
   facebook_links:
   - https://www.facebook.com/profile.php?id=100010256118229
+  gender: K
   instagram_links: []
   name: "Teresa Ha\u0142as"
   phone_numbers:
@@ -2257,6 +2416,7 @@ websites:
   - maciej.gorski@sejm.pl
   facebook_links:
   - https://www.facebook.com/maciej.gorski.1000
+  gender: M
   instagram_links: []
   name: "Maciej  G\xF3rski"
   phone_numbers: []
@@ -2268,6 +2428,7 @@ websites:
   - agnieszka.gorska@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/agnieszka.gorska.7146
+  gender: K
   instagram_links: []
   name: "Agnieszka G\xF3rska"
   phone_numbers:
@@ -2282,6 +2443,7 @@ websites:
   - biuroposelskie@marcingwozdz.pl
   facebook_links:
   - https://www.facebook.com/gwozdzmarcin/
+  gender: M
   instagram_links: []
   name: "Marcin Gw\xF3\u017Ad\u017A"
   phone_numbers:
@@ -2296,6 +2458,7 @@ websites:
   - poselgwiazdowski.sekretariat@op.pl
   facebook_links:
   - https://www.facebook.com/Kazimierz-Gwiazdowski-655061071303857
+  gender: M
   instagram_links: []
   name: Kazimierz Gwiazdowski
   phone_numbers:
@@ -2310,6 +2473,7 @@ websites:
   - biuro@mostowy.pl
   facebook_links:
   - https://pl-pl.facebook.com/andrzej.gutmostowy
+  gender: M
   instagram_links:
   - https://www.instagram.com/andrzejgutmostowy/
   name: Andrzej Gut-Mostowy
@@ -2325,6 +2489,7 @@ websites:
   - biuro@marekgrobarczyk.pl
   facebook_links:
   - https://www.facebook.com/marek.grobarczyk/
+  gender: M
   instagram_links:
   - https://www.instagram.com/marekgrobarczyk/
   name: "Marek Gr\xF3barczyk"
@@ -2340,6 +2505,7 @@ websites:
   - biuro@kazimierzgolojuch.pl
   facebook_links:
   - https://www.facebook.com/golojuch.info/
+  gender: M
   instagram_links: []
   name: "Kazimierz Go\u0142ojuch"
   phone_numbers:
@@ -2355,6 +2521,7 @@ websites:
   - biuro@malgorzatagosiewska.pl
   facebook_links:
   - https://pl-pl.facebook.com/pages/Ma%C5%82gorzata-Gosiewska-Warszawskim-Pos%C5%82em-PIS-Jestem-na-TAK/185149134887824
+  gender: K
   instagram_links:
   - https://www.instagram.com/malgorzata_maria_gosiewska/
   name: "Ma\u0142gorzata Gosiewska"
@@ -2369,6 +2536,7 @@ websites:
   - mariusz.gosek@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/mariuszgosekPL/
+  gender: M
   instagram_links:
   - https://www.instagram.com/mariuszgosek_pl/
   name: Mariusz Gosek
@@ -2384,6 +2552,7 @@ websites:
   - biuro-elblag@wp.pl
   facebook_links:
   - https://www.facebook.com/Robert.Gontarz93/
+  gender: M
   instagram_links:
   - https://www.instagram.com/robert.gontarz.7/
   name: Robert Gontarz
@@ -2399,6 +2568,7 @@ websites:
   - biuro@jaroslaw-gonciarz.pl
   facebook_links:
   - https://www.facebook.com/gonciarzjaroslaw/
+  gender: M
   instagram_links: []
   name: "Jaros\u0142aw Gonciarz"
   phone_numbers:
@@ -2412,6 +2582,7 @@ websites:
   - golinska.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/golinskagosia/
+  gender: K
   instagram_links:
   - https://www.instagram.com/mgolinska/
   name: "Ma\u0142gorzata Goli\u0144ska"
@@ -2427,6 +2598,7 @@ websites:
   - kontakt@piotrglinskibiuro.pl
   facebook_links:
   - https://www.facebook.com/ProfesorGlinski
+  gender: M
   instagram_links: []
   name: "Piotr Gli\u0144ski"
   phone_numbers:
@@ -2441,6 +2613,7 @@ websites:
   - biuro@glencteresa.pl
   facebook_links:
   - https://www.facebook.com/teresa.glenc
+  gender: K
   instagram_links: []
   name: Teresa Glenc
   phone_numbers:
@@ -2453,6 +2626,7 @@ websites:
   - szymon.gizynski@sejm.pl
   facebook_links:
   - https://www.facebook.com/SzymonGizynski/
+  gender: M
   instagram_links: []
   name: "Szymon Gi\u017Cy\u0144ski"
   phone_numbers:
@@ -2468,6 +2642,7 @@ websites:
   - kontakt@annagembicka.pl
   facebook_links:
   - https://www.facebook.com/AnnaGembickaPL/
+  gender: K
   instagram_links:
   - https://www.instagram.com/anna.gembicka/
   name: Anna Gembicka
@@ -2483,6 +2658,7 @@ websites:
   - grzegorz.gaza.sejm@gmail.com
   facebook_links:
   - https://www.facebook.com/GrzegorzGazaPosel/
+  gender: M
   instagram_links: []
   name: "Grzegorz Ga\u017Ca"
   phone_numbers:
@@ -2497,6 +2673,7 @@ websites:
   - biuro@adamgaweda.pl
   facebook_links:
   - https://pl-pl.facebook.com/adam.gaweda/
+  gender: M
   instagram_links: []
   name: "Adam Gaw\u0119da"
   phone_numbers:
@@ -2511,6 +2688,7 @@ websites:
   - biuro.andrzejgawron@gmail.com
   facebook_links:
   - https://www.facebook.com/gawronandrzej/
+  gender: M
   instagram_links: []
   name: Andrzej Gawron
   phone_numbers:
@@ -2525,6 +2703,7 @@ websites:
   - Leszek.Galemba@sejm.pl
   facebook_links:
   - https://www.facebook.com/Leszek-Galemba-1559724827679994/
+  gender: M
   instagram_links: []
   name: Leszek Galemba
   phone_numbers:
@@ -2539,6 +2718,7 @@ websites:
   - rfogiel@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/radoslawfogiel
+  gender: M
   instagram_links:
   - https://www.instagram.com/radoslawfogiel/
   name: "Rados\u0142aw Fogiel"
@@ -2554,6 +2734,7 @@ websites:
   - biuroposelskiefilipiak@op.pl
   facebook_links:
   - https://www.facebook.com/poselfilipiak/
+  gender: K
   instagram_links: []
   name: Ewa Filipiak
   phone_numbers:
@@ -2568,6 +2749,7 @@ websites:
   - biuro@emilewicz.pl
   facebook_links:
   - https://www.facebook.com/JEmilewicz/
+  gender: K
   instagram_links:
   - https://www.instagram.com/jemilewicz/
   name: Jadwiga Emilewicz
@@ -2582,6 +2764,7 @@ websites:
   - anna.dabrowska-banaszek@sejm.pl
   facebook_links:
   - https://www.facebook.com/a.dabrowska.banaszek/
+  gender: K
   instagram_links: []
   name: "Anna D\u0105browska-Banaszek"
   phone_numbers:
@@ -2595,6 +2778,7 @@ websites:
   - biuro.dziuk@outlook.com
   facebook_links:
   - https://www.facebook.com/barbara.dziuk.3
+  gender: K
   instagram_links:
   - https://www.instagram.com/barbaradziuk/
   name: Barbara Dziuk
@@ -2611,6 +2795,7 @@ websites:
   - jan@dziedziczak.pl
   facebook_links:
   - https://www.facebook.com/dziedziczak.jan/
+  gender: M
   instagram_links: []
   name: Jan Dziedziczak
   phone_numbers:
@@ -2624,6 +2809,7 @@ websites:
   - m.dworczyk@wp.pl
   facebook_links:
   - https://www.facebook.com/DworczykMichal/
+  gender: M
   instagram_links:
   - https://www.instagram.com/michaldworczykpl/
   name: "Micha\u0142 Dworczyk"
@@ -2639,6 +2825,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/marcinkamil.duszek
   - https://www.facebook.com/MarcinKamilDuszekSejmRP
+  gender: M
   instagram_links: []
   name: Marcin Duszek
   phone_numbers:
@@ -2653,6 +2840,7 @@ websites:
   - biuroposelskie.jduda@onet.pl
   facebook_links:
   - https://www.facebook.com/jduda10/
+  gender: M
   instagram_links: []
   name: Jan Duda
   phone_numbers:
@@ -2666,6 +2854,7 @@ websites:
   - biuro@elzbietaduda.pl
   facebook_links:
   - https://www.facebook.com/ElzbietaDudaPIS/
+  gender: K
   instagram_links:
   - https://www.instagram.com/elzbieta.duda.984/
   name: "El\u017Cbieta Duda"
@@ -2682,6 +2871,7 @@ websites:
   - drabek.posel@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/PrzemyslawDrabekBB
+  gender: M
   instagram_links: []
   name: "Przemys\u0142aw Drabek"
   phone_numbers:
@@ -2695,6 +2885,7 @@ websites:
   - bartlomiej.dorywalski@sejm.pl
   facebook_links:
   - https://www.facebook.com/bartlomiej.dorywalski
+  gender: M
   instagram_links: []
   name: "Bart\u0142omiej Dorywalski"
   phone_numbers: []
@@ -2707,6 +2898,7 @@ websites:
   - zbigniewdolata@poczta.onet.pl
   facebook_links:
   - https://www.facebook.com/PoselZbigniewDolata
+  gender: M
   instagram_links: []
   name: Zbigniew Dolata
   phone_numbers:
@@ -2719,6 +2911,7 @@ websites:
   - leszek.dobrzynski@sejm.pl
   facebook_links:
   - https://www.facebook.com/leszek.dobrzynski
+  gender: M
   instagram_links: []
   name: "Leszek Dobrzy\u0144ski"
   phone_numbers:
@@ -2733,6 +2926,7 @@ websites:
   - kczochara.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/Katarzyna-Czochara-167137436954873/
+  gender: K
   instagram_links: []
   name: Katarzyna Czochara
   phone_numbers:
@@ -2745,6 +2939,7 @@ websites:
   - anita.czerwinska@sejm.pl
   - biuro.anita.czerwinska@gmail.com
   facebook_links: []
+  gender: K
   instagram_links: []
   name: "Anita Czerwi\u0144ska"
   phone_numbers:
@@ -2761,6 +2956,7 @@ websites:
   - biuroczartoryski@wp.pl
   facebook_links:
   - https://www.facebook.com/arkadiuszczartoryski1/?ref=br_rs
+  gender: M
   instagram_links: []
   name: Arkadiusz Czartoryski
   phone_numbers:
@@ -2776,6 +2972,7 @@ websites:
   facebook_links:
   - https://pl-pl.facebook.com/przemyslawczarnek
   - https://www.facebook.com/CzarnekPL/
+  gender: M
   instagram_links:
   - https://www.instagram.com/przemyslawczarnek/
   name: "Przemys\u0142aw Czarnek"
@@ -2791,6 +2988,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/czarneckiwitold?ref=br_rs
   - https://www.facebook.com/CzarneckiPiS/
+  gender: M
   instagram_links: []
   name: Witold Czarnecki
   phone_numbers:
@@ -2805,6 +3003,7 @@ websites:
   - biuro@przemyslawczarnecki.pl
   facebook_links:
   - https://www.facebook.com/posel.czarnecki/?ref=br_rs
+  gender: M
   instagram_links: []
   name: "Przemys\u0142aw Czarnecki"
   phone_numbers:
@@ -2819,6 +3018,7 @@ websites:
   - krzysztof.czarnecki@sejm.pl
   facebook_links:
   - https://www.facebook.com/KrzysztofCzarnecki.liderPiS/
+  gender: M
   instagram_links: []
   name: Krzysztof Czarnecki
   phone_numbers:
@@ -2832,6 +3032,7 @@ websites:
   - tadeusz_cymanski@poczta.onet.pl
   facebook_links:
   - https://www.facebook.com/cymanskitadeusz
+  gender: M
   instagram_links:
   - https://www.instagram.com/cymanskipl/
   name: "Tadeusz Cyma\u0144ski"
@@ -2848,6 +3049,7 @@ websites:
   - biuro.michal.cieslak@gmail.com
   facebook_links:
   - https://www.facebook.com/MichalCieslakMC
+  gender: M
   instagram_links:
   - https://www.instagram.com/minister_cieslak.pl/
   name: "Micha\u0142 Cie\u015Blak"
@@ -2863,6 +3065,7 @@ websites:
   - biuro.annacicholska@wp.pl
   facebook_links:
   - https://www.facebook.com/Anna-Ewa-Cicholska-1490825114573569/
+  gender: K
   instagram_links: []
   name: Anna Cicholska
   phone_numbers:
@@ -2875,6 +3078,7 @@ websites:
   - tadeusz.chrzan@sejm.pl
   facebook_links:
   - https://www.facebook.com/chrzantadeusz
+  gender: M
   instagram_links: []
   name: Tadeusz Chrzan
   phone_numbers:
@@ -2888,6 +3092,7 @@ websites:
   - biuro@dominikachorosinska.pl
   facebook_links:
   - https://www.facebook.com/chorosinskaPL/
+  gender: K
   instagram_links:
   - https://www.instagram.com/dominikachorosinska/
   name: "Dominika Chorosi\u0144ska"
@@ -2903,6 +3108,7 @@ websites:
   - biuro.kazimierzchoma@wp.pl
   facebook_links:
   - https://pl-pl.facebook.com/KazimierzChoma2019/
+  gender: M
   instagram_links: []
   name: Kazimierz Choma
   phone_numbers:
@@ -2916,6 +3122,7 @@ websites:
   - lucynapik@interia.pl
   facebook_links:
   - https://www.facebook.com/zbigniew.chmielowiec.1?ref=br_rs
+  gender: M
   instagram_links: []
   name: Zbigniew Chmielowiec
   phone_numbers:
@@ -2929,6 +3136,7 @@ websites:
   - mariusz.blaszczak@poczta.fm
   facebook_links:
   - https://www.facebook.com/PoselMariuszBlaszczak/
+  gender: M
   instagram_links: []
   name: "Mariusz B\u0142aszczak"
   phone_numbers:
@@ -2943,6 +3151,7 @@ websites:
   - biuro@dariuszbak.pl
   facebook_links:
   - https://www.facebook.com/Dariusz.Bak.Bialobrzegi/
+  gender: M
   instagram_links: []
   name: "Dariusz B\u0105k"
   phone_numbers:
@@ -2955,6 +3164,7 @@ websites:
   - lidia.burzynska@sejm.pl
   facebook_links:
   - https://www.facebook.com/Lidia-Burzy%C5%84ska-Pose%C5%82-na-Sejm-RP-961934963870520/
+  gender: K
   instagram_links:
   - https://www.instagram.com/lidiaburzynska/
   name: "Lidia Burzy\u0144ska"
@@ -2970,6 +3180,7 @@ websites:
   - waldemarbuda.biuro@gmail.com
   facebook_links:
   - https://www.facebook.com/budawaldek
+  gender: M
   instagram_links:
   - https://www.instagram.com/waldemarbuda/
   name: Waldemar Buda
@@ -2985,6 +3196,7 @@ websites:
   - biuro.warszawska.katowice@gmail.com
   facebook_links:
   - https://www.facebook.com/borysszopabozena
+  gender: K
   instagram_links:
   - https://www.instagram.com/szboz/?hl=pl
   name: "Bo\u017Cena Borys-Szopa"
@@ -3001,6 +3213,7 @@ websites:
   - poselbortniczuk.biuro@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/kbortniczuk
+  gender: M
   instagram_links:
   - https://www.instagram.com/kamilbortniczuk/
   name: Kamil Bortniczuk
@@ -3016,6 +3229,7 @@ websites:
   - biuroposelskie.joannyborowiak@gmail.com
   facebook_links:
   - https://pl-pl.facebook.com/borowiak.joanna
+  gender: K
   instagram_links:
   - https://www.instagram.com/joanna_borowiak/
   name: Joanna Borowiak
@@ -3031,6 +3245,7 @@ websites:
   - biuropisu@wp.pl
   facebook_links:
   - https://www.facebook.com/Bochenekrafal
+  gender: M
   instagram_links:
   - https://www.instagram.com/bochenek.rafal/
   name: "Rafa\u0142 Bochenek"
@@ -3045,6 +3260,7 @@ websites:
   - biuroposelskiejanow@gmail.com
   facebook_links:
   - https://www.facebook.com/Jerzy-Bielecki-409401675923114/
+  gender: M
   instagram_links: []
   name: Jerzy Bielecki
   phone_numbers:
@@ -3059,6 +3275,7 @@ websites:
   - biuro@baszko.pl
   facebook_links:
   - https://www.facebook.com/mkbaszko
+  gender: M
   instagram_links: []
   name: "Mieczys\u0142aw Kazimierz Baszko"
   phone_numbers:
@@ -3072,6 +3289,7 @@ websites:
   - barbara.bartus@sejm.pl
   facebook_links:
   - https://www.facebook.com/Barbara-Bartu%C5%9B-Pose%C5%82-na-Sejm-RP-122099837892500/
+  gender: K
   instagram_links: []
   name: "Barbara Bartu\u015B"
   phone_numbers:
@@ -3085,6 +3303,7 @@ websites:
   - ryszard.bartosik@sejm.pl
   facebook_links:
   - https://www.facebook.com/ryszard.bartosik.7
+  gender: M
   instagram_links: []
   name: Ryszard Bartosik
   phone_numbers:
@@ -3099,6 +3318,7 @@ websites:
   - biuroposel@wp.pl
   facebook_links:
   - https://www.facebook.com/BabinetzPiotr/
+  gender: M
   instagram_links: []
   name: Piotr Babinetz
   phone_numbers:
@@ -3114,6 +3334,7 @@ websites:
   - zbigniew_babalski@poczta.onet.pl
   facebook_links:
   - https://www.facebook.com/zbigniew.babalski
+  gender: M
   instagram_links: []
   name: Zbigniew Babalski
   phone_numbers:
@@ -3128,6 +3349,7 @@ websites:
   - biuromarkaasta@wp.pl
   facebook_links:
   - https://www.facebook.com/Marek-Ast-Pose%C5%82-na-Sejm-RP-1594697534132241/
+  gender: M
   instagram_links: []
   name: Marek Ast
   phone_numbers:
@@ -3141,6 +3363,7 @@ websites:
   - iwona.arent@sejm.pl
   facebook_links:
   - https://www.facebook.com/IwonaArent/?hc_ref=PAGES_TIMELINE
+  gender: K
   instagram_links: []
   name: Iwona Arent
   phone_numbers:
@@ -3155,6 +3378,7 @@ websites:
   - jkardanowski@wp.pl
   facebook_links:
   - https://www.facebook.com/jkardanowski/
+  gender: M
   instagram_links: []
   name: Jan Ardanowski
   phone_numbers:
@@ -3169,6 +3393,7 @@ websites:
   - waldemar.andzel@sejm.pl
   facebook_links:
   - https://www.facebook.com/waldemar.andzel
+  gender: M
   instagram_links: []
   name: Waldemar Andzel
   phone_numbers:
@@ -3182,6 +3407,7 @@ websites:
   - adam.andruszkiewicz@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/andruszkiewicz.blog
+  gender: M
   instagram_links:
   - https://www.instagram.com/adamandruszkiewiczpl/
   name: Adam Andruszkiewicz
@@ -3197,6 +3423,7 @@ websites:
   - adamczyk@biuroposelskie.com
   facebook_links:
   - https://www.facebook.com/PoselAndrzejAdamczyk/?fref=ts
+  gender: M
   instagram_links: []
   name: Andrzej Adamczyk
   phone_numbers:

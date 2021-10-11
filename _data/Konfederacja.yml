@@ -5,6 +5,7 @@ websites:
   - robert.winnicki@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/robertwinnickipubliczny
+  gender: M
   instagram_links:
   - https://www.instagram.com/robertwinnicki/
   name: Robert Winnicki
@@ -20,6 +21,7 @@ websites:
   - lukasz.kosiorek87@gmail.com
   facebook_links:
   - https://www.facebook.com/mp.urbaniak
+  gender: M
   instagram_links:
   - https://www.instagram.com/michal_urbaniak_/
   name: "Micha\u0142 Urbaniak"
@@ -34,6 +36,7 @@ websites:
   - krzysztof.tuduj@sejm.pl
   facebook_links:
   - https://www.facebook.com/krzysztoftuduj
+  gender: M
   instagram_links:
   - https://www.instagram.com/tudujkrzysztof/
   name: Krzysztof Tuduj
@@ -48,6 +51,7 @@ websites:
   - dobromir.sosnierz@sejm.pl
   facebook_links:
   - https://www.facebook.com/dobromir.sosnierz/
+  gender: M
   instagram_links:
   - https://www.instagram.com/dobromir.sosnierz/
   name: "Dobromir So\u015Bnierz"
@@ -64,6 +68,7 @@ websites:
   - biuro@kulesza.pl
   facebook_links:
   - https://www.facebook.com/KuleszaPL
+  gender: M
   instagram_links:
   - https://www.instagram.com/kulesza_pl/
   name: Jakub Kulesza
@@ -80,6 +85,7 @@ websites:
   - gabrielajurkiewicz96@gmail.com
   facebook_links:
   - https://www.facebook.com/janusz.korwinmikke.9
+  gender: M
   instagram_links:
   - https://www.instagram.com/p/CMujU8_p_49/
   name: Janusz Korwin-Mikke
@@ -94,6 +100,7 @@ websites:
   - krystian.kaminski@sejm.pl
   facebook_links:
   - https://www.facebook.com/Krystian.Kaminski.SejmRP
+  gender: M
   instagram_links: []
   name: "Krystian Kami\u0144ski"
   phone_numbers:
@@ -107,6 +114,7 @@ websites:
   - artur.dziambor@sejm.pl
   facebook_links:
   - https://www.facebook.com/ArturEDziambor
+  gender: M
   instagram_links: []
   name: Artur Dziambor
   phone_numbers: []
@@ -120,6 +128,7 @@ websites:
   - biuro.grzegorz.braun@gmail.com
   facebook_links:
   - https://www.facebook.com/grzegorz.michal.braun/
+  gender: M
   instagram_links: []
   name: Grzegorz Braun
   phone_numbers:
@@ -133,6 +142,7 @@ websites:
   - krzysztof.bosak@sejm.pl
   facebook_links:
   - https://www.facebook.com/krzysztofbosak.mikroblog/
+  gender: M
   instagram_links:
   - https://www.instagram.com/krzysztofbosak/?hl=pl
   name: Krzysztof Bosak
@@ -147,6 +157,7 @@ websites:
   - konrad.berkowicz@sejm.pl
   facebook_links:
   - https://www.facebook.com/KonradBerkowiczPL
+  gender: M
   instagram_links:
   - https://www.instagram.com/konradberkowicz/
   name: Konrad Berkowicz

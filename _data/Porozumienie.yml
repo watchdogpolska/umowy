@@ -6,6 +6,7 @@ websites:
   - kontakt@michalwypij.pl
   facebook_links:
   - https://www.facebook.com/poselmichalwypij/
+  gender: M
   instagram_links:
   - https://www.instagram.com/michalwypij/?hl=pl
   name: "Micha\u0142 Wypij"
@@ -20,6 +21,7 @@ websites:
   - magdalena.sroka@sejm.pl
   facebook_links:
   - https://www.facebook.com/PoselNaSejmRP
+  gender: K
   instagram_links:
   - https://www.instagram.com/srokamagdalena100/
   name: Magdalena Sroka
@@ -35,6 +37,7 @@ websites:
   - biuro@monikapawlowska.pl
   facebook_links:
   - https://www.facebook.com/pawlowskapl
+  gender: K
   instagram_links:
   - https://www.instagram.com/pawlowska_pl/
   name: "Monika Paw\u0142owska"
@@ -51,6 +54,7 @@ websites:
   - iwona.michalek@pjg.org.pl
   facebook_links:
   - https://www.facebook.com/Michalek.Iwona
+  gender: K
   instagram_links:
   - https://www.instagram.com/i.michalek/
   name: "Iwona Micha\u0142ek"
@@ -66,6 +70,7 @@ websites:
   - biuro@jgowin.pl
   facebook_links:
   - https://pl-pl.facebook.com/GowinJaroslaw
+  gender: M
   instagram_links: []
   name: "Jaros\u0142aw Gowin"
   phone_numbers:
@@ -79,6 +84,7 @@ websites:
   - stanislaw.bukowiec@sejm.pl
   facebook_links:
   - https://pl-pl.facebook.com/people/Stanis%C5%82aw-Bukowiec/100002539099874
+  gender: M
   instagram_links: []
   name: "Stanis\u0142aw Bukowiec"
   phone_numbers:

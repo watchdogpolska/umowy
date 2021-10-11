@@ -32,6 +32,11 @@ short_map = {
 # def safe_name(x):
 #     return re.sub('[^A-Za-z]', '_', x)
 
+def gender_by_name(name):
+    if name.split(' ')[0][-1] == 'a':
+        return 'K'
+    return 'M'
+
 for target_person in target_content:
     name = target_person['name']
     sejm_person = find_person(name)
@@ -39,6 +44,7 @@ for target_person in target_content:
         print('missmatch club', name, sejm_person['partia']['Klub/koło:'], '!=', target_person['club_long'])
         target_person['club_long'] = sejm_person['partia']['Klub/koło:']
         target_person['club_short'] = short_map[target_person['club_long']]
+    target_person['gender'] = gender_by_name(target_person['name'])
     # p = Path(f'img/{safe_name(name)}.jpg')
     # if not p.exists():
     #     print('Download img for', p)

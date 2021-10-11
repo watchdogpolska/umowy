@@ -29,6 +29,7 @@
 {% assign workonit_email_subject = page.workonit_email_subject %}
 {% assign workonit_email_body = page.workonit_email_body %}
 
+<textarea style="display: none" id="email-source-text">{{workonit_email_body}}</textarea>
 <div class="ui modal-email modal scrolling">
   <i class="close icon"></i>
   <div class="header">
@@ -39,7 +40,7 @@
       <p>Wyślij wiadomość pod adres: <pre id="email-value"></pre></p>
       <p>Możesz wiadomość zatytułować: <pre id="email-subject">{{workonit_email_subject}}</pre></p>
       <p>Wykorzystaj wzór wiadomości:</p>
-      <textarea style="width: 100%" id="email-text">{{workonit_email_body}}</textarea>
+      <textarea style="width: 100%" id="email-text"></textarea>
     </div>
   </div>
   <div class="actions">

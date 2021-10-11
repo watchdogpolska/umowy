@@ -19,9 +19,13 @@ $(document).ready(function () {
   $('.email-link').on('click', function (el) {
     el.preventDefault();
     var email = $(this).data('email')
+    var gender = $(this).data('gender')
+    var position = gender == 'M' ? 0 : 1;
     subject = $("#email-subject").text()
-    text = $("#email-text").text()
-    console.log('Link clicked');
+    text = $("#email-source-text")
+      .text()
+      .replace(new RegExp('\{(.+?)\}','g'), (m, p1) => p1.split('|')[position])
+    $("#email-text").text(text)
     $('#email-value').text(email);
     $('.modal-email').modal('show');
     return false;
@@ -31,6 +35,7 @@ $(document).ready(function () {
     onDeny: function () {  },
     onApprove: function () {
       var email = $('#email-value').text();
+      var text = $('#email-text').text();
       window.open("mailto:" + email + "?subject=" + encodeURI(subject).replace('+', "%20") + "&body=" + encodeURI(text).replace('+', "%20"));
     }
   });

@@ -6,6 +6,7 @@ websites:
   - biuro.ascigaj@gmail.com
   facebook_links:
   - https://www.facebook.com/Agnieszka.Scigaj.K15
+  gender: K
   instagram_links:
   - https://www.instagram.com/p/CNPJ8nVBgrL/
   name: "Agnieszka \u015Acigaj"
@@ -21,6 +22,7 @@ websites:
   - biuro@pawelszramka.pl
   facebook_links:
   - https://www.facebook.com/SzramkaPawel
+  gender: M
   instagram_links:
   - https://www.instagram.com/pawel_szramka/
   name: "Pawe\u0142 Szramka"
@@ -36,6 +38,7 @@ websites:
   - biuro.sosnierz@gmail.com
   facebook_links:
   - https://www.facebook.com/AndrzejSosnierzz
+  gender: M
   instagram_links: []
   name: "Andrzej So\u015Bnierz"
   phone_numbers:
@@ -49,6 +52,7 @@ websites:
   - biuro.girzynski@gmail.com
   facebook_links:
   - https://www.facebook.com/Prof.ZbigniewGirzynski/
+  gender: M
   instagram_links:
   - https://www.instagram.com/girzynski/
   name: "Zbigniew Girzy\u0144ski"

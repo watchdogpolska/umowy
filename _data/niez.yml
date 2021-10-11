@@ -5,6 +5,7 @@ websites:
   - pawel.zalewski@sejm.pl
   facebook_links:
   - https://www.facebook.com/MEPPawelZalewski/
+  gender: M
   instagram_links: []
   name: "Pawe\u0142 Zalewski"
   phone_numbers: []
@@ -18,6 +19,7 @@ websites:
   - lukasz.mejza@gmail.com
   facebook_links:
   - https://www.facebook.com/mejzalukasz/
+  gender: M
   instagram_links:
   - https://www.instagram.com/lukasz.mejza/
   name: "\u0141ukasz Mejza"
@@ -33,6 +35,7 @@ websites:
   facebook_links:
   - https://www.facebook.com/ryszard.galla
   - https://www.facebook.com/GallaRyszard
+  gender: M
   instagram_links: []
   name: Ryszard Galla
   phone_numbers:
@@ -46,6 +49,7 @@ websites:
   - zbigniew.ajchler@sejm.pl
   facebook_links:
   - https://www.facebook.com/Zbigniew-Ajchler-1771220979771719/
+  gender: M
   instagram_links: []
   name: Zbigniew Ajchler
   phone_numbers: []
