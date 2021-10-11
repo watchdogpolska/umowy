@@ -26,6 +26,27 @@
 <body>
 
 {{ content }}
+{% assign workonit_email_subject = page.workonit_email_subject %}
+{% assign workonit_email_body = page.workonit_email_body %}
+
+<div class="ui modal-email modal scrolling">
+  <i class="close icon"></i>
+  <div class="header">
+    Zapytanie e-mailowe
+  </div>
+  <div class="content">
+    <div class="description">
+      <p>Wyślij wiadomość pod adres: <pre id="email-value"></pre></p>
+      <p>Możesz wiadomość zatytułować: <pre id="email-subject">{{workonit_email_subject}}</pre></p>
+      <p>Wykorzystaj wzór wiadomości:</p>
+      <textarea style="width: 100%" id="email-text">{{workonit_email_body}}</textarea>
+    </div>
+  </div>
+  <div class="actions">
+    <div class="ui approve button">Wyślij przez program pocztowy</div>
+    <div class="ui cancel button">Anuluj</div>
+  </div>
+</div>
 
 <div class="ui divider"></div>
 

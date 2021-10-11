@@ -7,6 +7,33 @@ $(document).ready(function () {
 
   // Unveil images 50px before they appear
   $('img').unveil(50);
+
+
+  let subject;
+  let text;
+
+  $("#email-text").on('click', function (el) {
+    this.setSelectionRange(0, this.value.length);
+    this.select();
+  })
+  $('.email-link').on('click', function (el) {
+    el.preventDefault();
+    var email = $(this).data('email')
+    subject = $("#email-subject").text()
+    text = $("#email-text").text()
+    console.log('Link clicked');
+    $('#email-value').text(email);
+    $('.modal-email').modal('show');
+    return false;
+  });
+
+  $('.modal-email').modal({
+    onDeny: function () {  },
+    onApprove: function () {
+      var email = $('#email-value').text();
+      window.open("mailto:" + email + "?subject=" + encodeURI(subject).replace('+', "%20") + "&body=" + encodeURI(text).replace('+', "%20"));
+    }
+  });
 });
 
 /**
@@ -63,7 +90,7 @@ var jets = new Jets({
       isSearching = true;
     }
   },
-  manualContentHandling: function(tr) {
+  manualContentHandling: function (tr) {
     return $(tr).find('td:first .title').text();
   }
 });
