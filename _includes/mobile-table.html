@@ -9,7 +9,8 @@
     {% for website in section_file.websites %}
     {% assign progress_tweet = page.progress_tweet %}
     {% assign workonit_tweet = page.workonit_tweet %}
-    {% assign workonit_email = page.workonit_email %}
+    {% assign workonit_email_subject = page.workonit_email_subject %}
+    {% assign workonit_email_body = page.workonit_email_body %}
     {% if website.tfa %}
     <div class="main positive">
       <div class="title">
@@ -64,7 +65,7 @@
         
         {% if website.emails %} 
           {% for twitter in website.emails %}
-          <a class="ui green mini button" href="mailto:{{email}}?subject=Poparcie%20%Centralny%20Rejestr%Umow&body={{workonit_email|replace:'EMAILHANDLE',website.name|cgi_escape}}" target="_blank"><i class="mail icon"></i>{{page.link}} przez e-mail</a>
+          <a class="ui green mini button" href="mailto:{{email}}?subject={{workonit_email_subject|cgi_escape}}&body={{workonit_email_body|replace:'NAME',website.name|cgi_escape}}" target="_blank"><i class="mail icon"></i>{{page.link}} przez e-mail</a>
           {% endfor %}
         {% endif %}
 
