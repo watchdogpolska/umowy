@@ -88,32 +88,32 @@
           <i class="question large icon" title="Poparcie"></i>
         </td>
         <td class="twitter negative">
-        {% if website.twitter_links %} 
+        {% if website.twitter_links %}
           {% for twitter in website.twitter_links %}
             <a class="ui twitter mini button" href="https://twitter.com/share?url={{site.url|cgi_escape}}&amp;text={{workonit_tweet|replace:'TWITTERHANDLE',twitter|cgi_escape}}&amp;hashtags={{page.hash|cgi_escape}}" target="_blank"><i class="twitter icon"></i> {{page.link}} na Twitterze</a>
           {% endfor %}
         {% endif %}
 
-        {% if website.phone_numbers %} 
+        {% if website.phone_numbers %}
           {% for phone in website.phone_numbers %}
             <a class="ui blue mini button" href="tel:{{phone|cgi_escape}}" target="_blank"><i class="phone icon"></i> {{page.link}} przez telefon</a>
           {% endfor %}
         {% endif %}
-        
-        {% if website.facebook %} 
-        {% for facebook in website.facebook %}
+
+        {% if website.facebook_links %}
+        {% for facebook in website.facebook_links %}
           <a class="ui facebook mini button" href="{{facebook}}" target="_blank"><i class="facebook icon"></i> {{page.link}} na Facebooku</a>
         {% endfor %}
         {% endif %}
-      
-        
-        {% if website.emails %} 
+
+
+        {% if website.emails %}
           {% for email in website.emails %}
           <a class="ui green mini button email-link" data-gender="{{website.gender}}" data-email="{{email}}" href="#"><i class="mail icon"></i>{{page.link}} przez e-mail</a>
           {% endfor %}
         {% endif %}
 
-        {% if website.instagram_links %} 
+        {% if website.instagram_links %}
         {% for instagram in website.instagram_links %}
         <a class="ui orange mini button" href="{{instagram}}" target="_blank"><i class="instagram icon"></i> {{page.link}} na Instagramie</a>
         {% endfor %}
