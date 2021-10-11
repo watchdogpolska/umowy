@@ -65,7 +65,7 @@
         
         {% if website.emails %} 
           {% for email in website.emails %}
-          <a class="ui green mini button" href="mailto:{{email}}?subject={{workonit_email_subject|cgi_escape|replace:'+','%20'}}&body={{workonit_email_body|replace:'NAME',website.name|cgi_escape|replace:'+','%20'}}" target="_blank"><i class="mail icon"></i>{{page.link}} przez e-mail</a>
+          <!-- <a class="ui green mini button email-link" data-email="{{email}}" href="#"><i class="mail icon"></i>{{page.link}} przez e-mail</a> -->
           {% endfor %}
         {% endif %}
 
