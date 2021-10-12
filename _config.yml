@@ -12,9 +12,9 @@ img: img/fb.png
 exclude:
     - CNAME
     - CONTRIBUTING.md
-    - EXCLUSION.md
     - Gemfile
     - LICENSE
     - README.md
     - Rakefile
     - verify.rb
+    - .env
