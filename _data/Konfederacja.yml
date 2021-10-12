@@ -63,6 +63,7 @@ websites:
   - SosnierzTv
 - club_long: "Ko\u0142o Poselskie Konfederacja"
   club_short: Konfederacja
+  done: true
   emails:
   - jakub.kulesza@sejm.pl
   - biuro@kulesza.pl
