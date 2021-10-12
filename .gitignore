@@ -6,3 +6,4 @@ ehthumbs.db
 Gemfile.lock
 .sass-cache
 .vscode
+.env
