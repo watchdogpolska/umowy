@@ -1643,6 +1643,7 @@ websites:
 - club_long: Klub Parlamentarny Koalicja Obywatelska - Platforma Obywatelska, Nowoczesna,
     Inicjatywa Polska, Zieloni
   club_short: KO
+  done: true
   emails:
   - marta.golbik@sejm.pl
   - biuro@golbik.pl
