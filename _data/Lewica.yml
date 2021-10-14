@@ -114,6 +114,7 @@ websites:
 - club_long: Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna
     Roberta Biedronia)
   club_short: Lewica
+  done: true
   emails:
   - katarzyna.ueberhan@sejm.pl
   - biuro.poselskie@ueberhan.pl
